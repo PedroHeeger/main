@@ -6,14 +6,17 @@ Para construção desse repositório fiz um fork de um repositório já existent
 
 O repositório original é apenas para montagem do currículo online, mas resolvi adaptá-lo para utilizar como repositório principal e acrescentar diversas outras informações sobre mim e minha conta no GitHub. Apenas utilizei, do repositório original, o arquivo de template em **HMTL** para criação do meu currículo online.
 
-# Summary
+
+<a name="topico0"><h1>Summary</h1></a>
 [1) Main Repository]()   
 [2) About Me](#topico2)   
 [3) My GitHub Account](#topico3)   
-[4) Certificate]()   
+[4) Certificate](#topico4)   
 
 
 <a name="topico2"><h2>2) About Me</h2></a>
+[Voltar para o sumário](#topico0)   
+
 Olá novamente, como já sabe meu nome irei falar um pouco mais sobre mim. Atualmente tenho 30 anos e moro na cidade onde eu nasci e cresci, Salvador-BA e sou graduado em **Engenharia Civil** pela Universidade Católica do Salvador. 
 
 Iniciei minha carreira profissional, em Fevereiro de 2019, ainda durante a faculdade, como auxiliar administrativo em uma empresa de fiscalização de obras contratada pela empresa de água e saneamento da minha cidade para fiscalizar a construtora contratada que realizou uma obra de ampliação de um centro de reservação de abastecimento de água de minha cidade. Nesta obra foi construído um reservatório apoiado, um reservatório elevado, uma estação elevatória, toda a rede de interligação e a urbanização deste centro de reservação.
@@ -37,6 +40,8 @@ Em 2023, percebi que eu precisava me organizar, que eu tinha muito material, mui
 Continuar...
 
 <a name="topico3"><h2>3) My GitHub Account</h2></a>
+[Voltar para o sumário](#topico0) 
+
 Na minha conta do GitHub existe cinco repositórios e irei explicar agora como eles funcionam. Todos esses repositórios existem remotamente (GitHub) e localmente (minha maquina). Na minha maquina eles são salvos em uma pasta do **Google Drive** de novo **4_Proj**, já que formam juntos todos os meus projetos que realizei e a estrutura do meu perfil.
 
 Nem todos os arquivos dentro das sub-pastas dos repositórios serão disponibilizados no GitHub, porém todo conteúdo está armazenando no **Google Drive** pessoal. O objetivo é diminuir a quantidade de arquivos armazenados que não são versionados como arquivos de Excel (CSV), Power BI, PowerPoint e de imagens. São versionados apenas arquivos relavantes e arquivos de README explicando o conteúdo do repositório e das suas sub-pastas.
@@ -58,30 +63,32 @@ Esses três repositórios são divididos em níveis de sub-divisões de pastas. 
 - Primeiro Nível de Pastas: O primeiro nível de pastas dividi o repositório em sub-pastas para cada plataforma diferente onde realizei o estudo (ex.: DIO, Microsoft Learn, Hashtag, Soul Code Academy)
 
 <div align="center"><figure>
-    <img src="./0-outros/logos/organizacao/nivel1.PNG" alt="nivel1"><br>
+    <img src="./0-aux/organizacao/nivel1.PNG" alt="nivel1"><br>
     <figcaption>Primeiro Nível de Pastas em um repositório.</figcaption>
 </figure></div><br>
 
 - Segundo Nível de Pastas: Após a primeira sub-divisão, em alguns casos é necessário a criação de um segundo nível de pastas, quando se tem muitos estudos sobre diferentes software/assuntos. Por tanto, a sub-pasta da plataforma é sub-dividida por nome do software ou assunto (python, power_bi, mysql, javascript, analise_dados, etc.).
 
 <div align="center"><figure>
-    <img src="./0-outros/logos/organizacao/nivel2.PNG" alt="nivel2"><br>
+    <img src="./0-aux/organizacao/nivel2.PNG" alt="nivel2"><br>
     <figcaption>Segundo Nível de Pastas em um repositório.</figcaption>
 </figure></div><br>
 
 - Terceiro Nível de Pastas: Por fim, o terceiro nível pasta sub-dividi a sub-pasta do software/assunto (segundo nível) ou a sub-pasta da plataforma (primeiro nível) em nome específico com um número de ordem para controle (boot_01, boot_02, course_010, course_029, aula_135, aula_223). Esta sub-pasta conterá todo material do estudo que está sendo realizado. O material pode ser arquivos ou outras pastas, em casos que seja necessário, dentro de um estudo, separar por módulos.
 
 <div align="center"><figure>
-    <img src="./0-outros/logos/organizacao/nivel3.PNG" alt="nivel3"><br>
+    <img src="./0-aux/organizacao/nivel3.PNG" alt="nivel3"><br>
     <figcaption>Terceiro Nível de Pastas em um repositório.</figcaption>
 </figure></div><br>
 
 <div align="center"><figure>
-    <img src="./0-outros/logos/organizacao/nivel4.PNG" alt="nivel4"><br>
+    <img src="./0-aux/organizacao/nivel4.PNG" alt="nivel4"><br>
     <figcaption>Pasta com todo material do estudo.</figcaption>
 </figure></div><br>
 
 <a name="topico4"><h2>4) Certificate</h2></a>
-Neste repositório é disponibilizado uma sub-pasta com todos os certificados que obtive durante o processo de aprendizagem. Nelá está contida os certificados de participação de cursos, certificados de conclusão de bootcamps, certificações especiais. Para acessá-la, clique aqui.
+[Voltar para o sumário](#topico0) 
+
+Neste repositório é disponibilizado uma sub-pasta com todos os certificados que obtive durante o processo de aprendizagem. Nelá está contida os certificados de participação de cursos, certificados de conclusão de bootcamps, certificações especiais. Para acessá-la, [clique aqui](./cert_ti/).
 
 Continuar...
