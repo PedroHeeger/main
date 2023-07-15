@@ -3,7 +3,7 @@
 2. <details><summary><a href="#item2">About Me</a></summary>
    2.1. <a href="#item2.1">Fase 1 - Engenharia Civil</a><br>
    2.2. <a href="#item2.1">Fase 2 - Inicio na Tecnologia</a><br>
-   2.3. <a href="#item2.1">Fase 3 - Meu Primeiro Bootcamp</a><br>
+   2.3. <a href="#item2.1">Fase 3 - Meus Primeiros Bootcamps</a><br>
    2.4. <a href="#item2.1">Fase 4 - Organização dos Estudos</a><br>
 3. <details><summary><a href="#item3">My GitHub Account</a></summary>
     3.1. <a href="#item3.1">Profile Repository (pedroheeger)</a><br>
