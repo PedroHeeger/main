@@ -245,6 +245,11 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
   - Carga Horária: 8 Horas
   - Concluído em: 11/05/23
 
+- [Acelerador de Carreira com Power BI](../cert_ti/05-particip/data/power_bi/(23-07-16)%20Cert%20Power%20BI%20PH%20Empowerdata%20(Acelerador%20de%20Carreiras).pdf)
+  - Plataforma: **Empowerdata**   <img src="../0-aux/logos/plataforma/empowerdata.jpg" alt="hashtag_treinamentos" width="auto" height="25">
+  - Carga Horária: 8 Horas
+  - Concluído em: 13/07/23
+
 <a name="item5.4"><h4>5.4. Development - Devops</h4></a>
 [Back to item 5](#item5)
 
