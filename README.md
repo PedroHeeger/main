@@ -1,10 +1,19 @@
+Olá, meu nome é Pedro Heeger e seja muito bem vindo por ter chegado até aqui. Abaixo estão minhas redes social e meu currículo esta dispoível no link do GitHub Pages. Este é o meu repositório principal e aqui você saberá mais sobre mim e sobre minha conta no GitHub. 
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](github.com/PedroHeeger)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pedroheeger.github.io/main/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroheeger)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroheeger/)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
 <a name="item0"><h1>Summary</h1></a>
 1. <a href="#item1">Main Repository</a> 
 2. <details><summary><a href="#item2">About Me</a></summary>
-   2.1. <a href="#item2.1">Fase 1 - Engenharia Civil</a><br>
-   2.2. <a href="#item2.1">Fase 2 - Inicio na Tecnologia</a><br>
-   2.3. <a href="#item2.1">Fase 3 - Meus Primeiros Bootcamps</a><br>
-   2.4. <a href="#item2.1">Fase 4 - Organização dos Estudos</a><br>
+   2.1. <a href="#item2.1">Phase 1 - Civil Engineering</a><br>
+   2.2. <a href="#item2.2">Phase 2 - Getting Started in Technology</a><br>
+   2.3. <a href="#item2.3">Phase 3 - My First Bootcamps</a><br>
+   2.4. <a href="#item2.4">Phase 4 - Organization of Studies</a><br>
 3. <details><summary><a href="#item3">My GitHub Account</a></summary>
     3.1. <a href="#item3.1">Profile Repository (pedroheeger)</a><br>
     3.2. <a href="#item3.2">Main Repository (main)</a><br>
@@ -24,16 +33,18 @@
    6.10 <a href="#item6.10">Library and Framewoks</a><br>
    6.15 <a href="#item6.15">Others</a></details>
 7. <details><summary><a href="#item7">Main Projects</a></summary>
-   7.1. <a href="#item7.1">Programming Language</a><br>
+   7.1. <a href="#item7.1">Bootcamps (Study Repository)</a><br>
    7.2 <a href="#item7.2">Course (Study Repository)</a></details>
-8. <a href="#item8">Certifica</a>
+8. <details><summary><a href="#item8">Main Reports and Dashboards</a></summary>
+   8.1. <a href="#item8.1">Bootcamps (Study Repository)</a><br>
+   8.2 <a href="#item8.2">Course (Study Repository)</a></details>
 
---
+---
 
 <a name="item1"><h2>1. Main Repository</h2></a>
-[Voltar para o sumário](#item0)   
+[Back to summary](#item0)   
 
-Olá, meu nome é Pedro Heeger e seja muito bem vindo por ter chegado até aqui. Este é o meu repositório principal, onde apresento toda a organização da minha conta no GitHub, falo um pouco mais sobre mim, explico sobre os meus repositórios, disponibilizo meu currículo em um website, exibo as certificações que conquistei, os certificados dos eventos que participei e as ferramentas que utilizo.
+Este é o meu repositório principal, onde apresento toda a organização da minha conta no GitHub, falo um pouco mais sobre mim, explico sobre os meus repositórios, disponibilizo meu currículo em um website, exibo as certificações que conquistei, os certificados dos eventos que participei e as ferramentas que utilizo.
 
 Para construção desse repositório fiz um fork de um repositório já existente da plataforma **Digital Innovation One - DIO** (*digitalinnovationone/resume*) que contém um template em **HTML** e **CSS** para criação de um currículo online, sendo disponibilizado em um link hospedado no **GitHub Pages**.
 
@@ -42,12 +53,12 @@ O repositório original é apenas para montagem do currículo online, mas resolv
 ---
  
 <a name="item2"><h2>2. About Me</h2></a>
-[Voltar para o sumário](#item0)   
+[Back to summary](#item0)   
 
-Olá novamente, como já sabe meu nome irei falar um pouco mais sobre mim. Atualmente tenho 30 anos e moro na cidade onde eu nasci e cresci, Salvador-BA e sou graduado em **Engenharia Civil** pela Universidade Católica do Salvador. 
+Olá novamente, como já sabe meu nome irei falar um pouco mais sobre mim. Atualmente tenho 30 anos e moro na cidade onde eu nasci e cresci, Salvador-BA e sou graduado em **Engenharia Civil** pela Universidade Católica do Salvador e formado em Engenharia de Dados pela **SoulCode Academy**. 
 
-<a name="item2.1"><h3>2.1. Fase 1 - Engenharia Civil</h3></a>
-[Voltar para o item 2](#item2)   
+<a name="item2.1"><h3>2.1. Phase 1 - Civil Engineering</h3></a>
+[Back to item 2](#item2)   
 
 Iniciei minha carreira profissional, em Fevereiro de 2019, ainda durante a faculdade, como auxiliar administrativo em uma empresa de fiscalização de obras contratada pela empresa de água e saneamento da minha cidade para fiscalizar a construtora contratada que realizou uma obra de ampliação de um centro de reservação de abastecimento de água de minha cidade. Nesta obra foi construído um reservatório apoiado, um reservatório elevado, uma estação elevatória, toda a rede de interligação e a urbanização deste centro de reservação.
 
@@ -55,8 +66,8 @@ Após conclusão da obra e com minha graduação concluída, em Junho de 2021, f
 
 Durante esse período, foi o momento em que comecei a pensar em realizar uma transição de carreira. Eu gostava muito da engenharia, gostava de onde eu trabalhava, porém não me sentia realizado, não sentia que era isso que eu queria para o resto da minha vida, sentia que eu poderia muito mais. Como desde de pequeno gostava de computador, sempre gostei muito de excel, desde os 11 anos que eu pesquisava como montar planilhas de copa do mundo utilizando macros, comecei a me questionar porque não aprender tecnologia? o porque não aprender uma linguagem de programação?
 
-<a name="item2.2"><h3>2.2. Fase 2 - Inicio na Tecnologia</h3></a>
-[Voltar para o item 2](#item2)   
+<a name="item2.2"><h3>2.2. Phase 2 - Getting Started in Technology</h3></a>
+[Back to item 2](#item2)   
 
 Foi nesse momento que ocorreu a virada de chave. Passei a buscar na internet, ler sobre o tema, e vi que a perspectiva do mercado para essa área estava muito boa e só iria aumentar. Então comecei a receber sugestões de cursos de **Python**, e fiquei encantado com aquilo até o momemnto que tomei uma grande decisão na minha vida, talvez uma das maiores. Decidi que iria sair do meu emprego e iria estudar tecnologia. 
 
@@ -64,15 +75,15 @@ No final de Agosto de 2021, me desliguei da empresa onde trabalhava e logo surgi
 
 Como eu tinha já pesquisado algumas coisas sobre tecnologia, descobri sobre a área de dados e banco de dados e sobre linguagem de programação, mais presiçamenteo sobre o Python, então comecei a salvar alguns links de vídeos, cursos e plataformas de estudo sobre o tema e pensei vou estudar esses materiais e depois procuro um bootcamp para realizar. Então surgiu uma nova turma para o mesmo bootcamp de dados da **Soul Code Academy**, decidi tentar novamente e passei não só para fase seguinte, como para participar do bootcamp.
 
-<a name="item2.3"><h3>2.3. Fase 3 - Meus Primeiros Bootcamps</h3></a>
-[Voltar para o item 2](#item2)   
+<a name="item2.3"><h3>2.3. Phase 3 - My First Bootcamps</h3></a>
+[Back to item 2](#item2)   
 
 No final de Outubro de 2021, iniciei o bootcamp e o aprendizado foi incrível. Para quem não tinha conhecimento nenhum foi super esclarecedor, me fez entender as áreas da tecnologia, coisas básicas que eu não sabia, desde sistemas operacionais com o uso do Linux, passando por conhecimento de redes, linguagem de programação, banco de dados, comunicação entre a linguagem e o banco, conhecimentos de big data e até chegar a clouds. Foi um excelente ponta pé de partida para eu entender as áreas e como as coisas funcionam no mundo da tencologia. A partir desse bootcamp, pesquisar e procurar os assuntos sobre o tema se tornou muito fácil. O bootcamp foi intensivo e durou por três meses, sendo concluido em Fevereiro de 2022. Existe uma pasta específica sobre esse bootcamp em um dos meus repositórios, caso queira saber mais clique aqui. 
 
 Após a conclusão do bootcamp, fiz outros cursos e fui pesquisando mais sobre os assuntos. Até que em Outubro de 2022, conheci uma plataforma chamada **DIO - Digital Innovation One**, que possui diversos cursos e programas específicos de estudos bem completo. Nessa época, realizei o meu primeiro bootcamp na plataforma que foi o **Geração Tech Unimed-BH - Ciência de Dados** e conheci melhor o universo da ciência de dados e mais uma vez fiquei encantado. Conclui o bootcamp no final de Dezembro desse mesmo ano.
 
-<a name="item2.4"><h3>2.4. Fase 4 - Organização dos Estudos</h3></a>
-[Voltar para o item 2](#item2)
+<a name="item2.4"><h3>2.4. Phase 4 - Organization of Studies</h3></a>
+[Back to item 2](#item2)
 
 Em 2023, percebi que eu precisava me organizar, que eu tinha muito material, muito conteúdo, mas sentia que estava tudo bagunçado e precisava organizar. Foi então que comecei e ainda estou num processo de organizar todo meu material de estudo, começando do mais básico, no caso o Excel, que agora posso dizer que tenho conhecimento em Excel avançado, passando pelas três áreas de Dados (Análise de Dados, Engenharia de Dados e Ciência de Dados) com objetivo de obter o conhecimento sólido sobre esses temas.
 
@@ -81,24 +92,24 @@ Continuar...
 ---
 
 <a name="item3"><h2>3. My GitHub Account</h2></a>
-[Voltar para o sumário](#item0) 
+[](#item0) 
 
 Na minha conta do GitHub existe cinco repositórios e irei explicar agora como eles funcionam. Todos esses repositórios existem remotamente (GitHub) e localmente (minha maquina). Na minha maquina eles são salvos em uma pasta do **Google Drive** de novo **4_Proj**, já que formam juntos todos os meus projetos que realizei e a estrutura do meu perfil.
 
 Nem todos os arquivos dentro das sub-pastas dos repositórios serão disponibilizados no GitHub, porém todo conteúdo está armazenando no **Google Drive** pessoal. O objetivo é diminuir a quantidade de arquivos armazenados que não são versionados como arquivos de Excel (CSV), Power BI, PowerPoint e de imagens. São versionados apenas arquivos relavantes e arquivos de README explicando o conteúdo do repositório e das suas sub-pastas.
 
 <a name="item3.1"><h3>3.1. Profile Repository (**pedroheeger**)</h3></a>
-[Voltar para o item 3](#item3)   
+[Back to item 3](#item3)   
 
 O primeiro repositório é o **pedroheeger** que é o repositório de perfil do GitHub. Nele só existe um único arquivo **markdown** de README para construção do perfil no GitHub. No perfil é apresentado uma breve introdução sobre mim, as minhas redes sociais, os cartões de status do GitHub e principais linguagens utilizadas, as minha habilidades mais utilizadas, um card direcionando para esse repositório, que é o repositório principal e outros cards direcionando para meus repositórios de estudos.
 
 <a name="item3.2"><h3>3.2. Main Repository (**main)**</h3></a>
-[Voltar para o item 3](#item3) 
+[Back to item 3](#item3) 
 
 O segundo repositório é este, que como já foi dito no início deste arquivo, é o meu repositório principal, onde apresento toda a organização da minha conta no GitHub, falo um pouco mais sobre mim, explico sobre os meus repositórios, disponibilizo meu currículo em um website, exibo as certificações que conquistei, os certificados dos eventos que participei e armazena uma pasta com arquivos auxiliares para os outros repositórios.
 
 <a name="item3.3"><h3>3.3. Study Repositories</h3></a>
-[Voltar para o item 3](#item3) 
+[Back to item 3](#item3) 
 
 Os meus repositórios de estudos são organizados em três repositórios. O primeiro é o **boot** que armazena todos os bootcamps que realizei divididos em sub-pastas. O segundo repositório é o **course** que guarda todos os cursos que realizei, também divididos em sub-pastas. O terceiro é o **video** armazenando todas as vídeo-aulas que realizei, divididos em sub-pastas.
 
@@ -135,15 +146,15 @@ Esses três repositórios são divididos em níveis de sub-divisões de pastas. 
 
 ---
 
-<a name="item4"><h2>4. Currículo</h2></a>
-[Voltar para o sumário](#item0) 
+<a name="item4"><h2>4. Curriculum</h2></a>
+[Back to summary](#item0) 
 
 Como dito anteriormente, este repositório foi originado de um fork de um repositório já existente da plataforma **Digital Innovation One - DIO** (*digitalinnovationone/resume*) que contém um template em **HTML** e **CSS** para criação de um currículo online, sendo disponibilizado em um link hospedado no **GitHub Pages**. Acesse o meu currículo aqui.
 
 ---
 
 <a name="item5"><h2>5. Certificate</h2></a>
-[Voltar para o sumário](#item0) 
+[Back to summary](#item0) 
 
 Neste repositório é disponibilizado uma sub-pasta com todos os certificados que obtive durante o processo de aprendizagem. Nelá está contida os certificados de participação de cursos, certificados de conclusão de bootcamps, certificações especiais. Para acessá-la, [clique aqui](./cert_ti/).
 
@@ -152,10 +163,10 @@ Continuar...
 ---
 
 <a name="item6"><h2>6. All Skills Already Used</h2></a>
-[Voltar para o sumário](#item0) 
+[Back to summary](#item0) 
 
 <a name="item6.1"><h3>6.1. Programming Language</h3></a>
-[Voltar para o item 6](#item6)
+[Back to item 6](#item6)
 
 <div style="display: inline_block">
     <img aling="Center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -163,7 +174,7 @@ Continuar...
 </div>
 
 <a name="item6.2"><h3>6.2. Database Management System (DBMS)</h3></a>
-[Voltar para o item 6](#item6)
+[Back to item 6](#item6)
 
 <div style="display: inline_block">
     <img aling="Center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -175,7 +186,7 @@ Continuar...
 </div>
 
 <a name="item6.3"><h3>6.3. Cloud</h3></a>
-[Voltar para o item 6](#item6)
+[Back to item 6](#item6)
 
 <div style="display: inline_block">
     <img aling="Center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -184,7 +195,7 @@ Continuar...
 </div>
 
 <a name="item6.4"><h3>6.4. Big Data</h3></a>
-[Voltar para o item 6](#item6)
+[Back to item 6](#item6)
 
 <div style="display: inline_block">
     <img aling="Center" alt="spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/>
@@ -192,7 +203,7 @@ Continuar...
 </div>
 
 <a name="item6.5"><h3>6.5. Operating System (OS)</h3></a>
-[Voltar para o item 6](#item6)
+[Back to item 6](#item6)
 
 <div style="display: inline_block">
     <img aling="Center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -204,7 +215,7 @@ Continuar...
 </div>
 
 <a name="item6.6"><h3>6.6. Business Inteligence (BI)</h3></a>
-[Voltar para o item 6](#item6)
+[Back to item 6](#item6)
 
 <div style="display: inline_block">
     <img aling="Center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -212,7 +223,7 @@ Continuar...
 </div>
 
 <a name="item6.7"><h3>6.7. Other Languages</h3></a>
-[Voltar para o item 6](#item6)
+[Back to item 6](#item6)
 
 <div style="display: inline_block">
     <img aling="Center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -221,7 +232,7 @@ Continuar...
 </div>
 
 <a name="item6.8"><h3>6.8. Repository and Versioning</h3></a>
-[Voltar para o item 6](#item6)
+[Back to item 6](#item6)
 
 <div style="display: inline_block">
     <img aling="Center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -229,7 +240,7 @@ Continuar...
 </div>
 
 <a name="item6.9"><h3>6.9. Integrated Development Environment (IDE)</h3></a>
-[Voltar para o item 6](#item6)
+[Back to item 6](#item6)
 
 <div style="display: inline_block">
     <img aling="Center" alt="visual_studio_code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -240,7 +251,7 @@ Continuar...
 </div>
 
 <a name="item6.10"><h3>6.10. Library and Framewoks</h3></a>
-[Voltar para o item 6](#item6)
+[Back to item 6](#item6)
 
 <div style="display: inline_block">
     <img aling="Center" alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
@@ -254,7 +265,7 @@ Continuar...
 </div>
 
 <a name="item6.15"><h3>6.15. Others</h3></a>
-[Voltar para o item 6](#item6)
+[Back to item 6](#item6)
 
 <div style="display: inline_block">
     <img aling="Center" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -266,16 +277,31 @@ Continuar...
 ---
 
 <a name="item7"><h2>7. Main Projects</h2></a>
-[Voltar para o sumário](#item0) 
+[Back to summary](#item0) 
 
-These are my main projects from the study repositories
+These are my main projects from my repositories.
 
 <a name="item7.1"><h3>7.1. Bootcamps (Study Repository)</h3></a>
-[Voltar para o item 7](#item7)
+[Back to item 7](#item7)
 
 <a name="item7.2"><h3>7.2. Course (Study Repository)</h3></a>
-[Voltar para o item 7](#item7)
+[Back to item 7](#item7)
 
 [![Dev Week - Ifood Ciência de Dados com Python]()](https://github.com/PedroHeeger/course/tree/main/dio/python/curso_066)
 
 [![Desafio Kickstart 1 | Atendimento Laboratorial]()](github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069)
+
+---
+
+<a name="item8"><h2>8. Main Reports and Dashboards</h2></a>
+[Back to summary](#item0)
+
+These are my main reports and dashboards regarding the projects developed in the my repositories.
+
+<a name="item8.1"><h3>8.1. Bootcamps (Study Repository)</h3></a>
+[Back to item 8](#item8)
+
+<a name="item8.2"><h3>8.2. Course (Study Repository)</h3></a>
+[Back to item 8](#item8)
+
+[![Desafio Kickstart 1 | Atendimento Laboratorial]()]([github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069](https://app.powerbi.com/view?r=eyJrIjoiOGUyZjM5ZmQtYzE4Yy00YTYxLTg0YzMtMjgzMTYyN2U0MDhiIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9))

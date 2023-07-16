@@ -1,5 +1,5 @@
 # Certificate
-[Voltar para a pasta inicial do repositório](../)
+[Return to repository home folder](../)
 
 Neste repositório apresento todas as certificações que tirei durante minha jornada. Essas certificações são divididas em seis tipos que são:  certificações especiais (de plataformas de software como: Microsoft, AWS, Google, Databricks, Cisco, entre outras), selos de competência do **Linkedin**, certificados de conclusão de bootcamp, certificados de conclusão de curso, certificados de participação de eventos e badgr conquistadas.
 
@@ -18,21 +18,21 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
     4.8. <a href="#item4.8">Programming - Versioning - Git e GitHub</a></details>
 5. <details><summary><a href="#item5">Certificados de Participação de Eventos</a></summary>
     5.1. <a href="#item5.1">Data</a><br>
-    5.2. <a href="#item5.1">Data - Excel</a><br>
-    5.3. <a href="#item5.1">Data - Power BI</a><br>
-    5.4. <a href="#item4.2">Development - Devops</a><br>
-    5.5. <a href="#item4.7">Programming - Python</a></details>
+    5.2. <a href="#item5.2">Data - Excel</a><br>
+    5.3. <a href="#item5.3">Data - Power BI</a><br>
+    5.4. <a href="#item5.4">Development - Devops</a><br>
+    5.5. <a href="#item5.5">Programming - Python</a></details>
 6. <a href="#item6">Badgr Conquistadas</a>
 
 ---
 
 <a name="item1"><h3>1. Certificações Especiais</h3></a>
-[Voltar para o sumário](#item0) 
+[Back to summary](#item0) 
 
 ---
 
 <a name="item2"><h3>2. Selos de Competência do Linkedin</h3></a>
-[Voltar para o sumário](#item0)
+[Back to summary](#item0)
 
 - Microsoft Excel (22/06/23)
 - Microsoft Visual Basic for Applications, VBA (26/03/23)
@@ -40,7 +40,7 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
 ---
 
 <a name="item3"><h3>3. Certificados de Conclusão de Bootcamp</h3></a>
-[Voltar para o sumário](#item0)
+[Back to summary](#item0)
 
 - [Engenharia de Dados](../cert_ti/03-conclu/data/(22-01-28)%20Cert%20Eng%20Dados%20PH%20SCA.png)
   - Plataforma: **SoulCode Academy**   <img src="../0-aux/logos/plataforma/soulcode_academy.png" alt="soulcode_academy" width="auto" height="25">
@@ -55,10 +55,10 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
 ---
 
 <a name="item4"><h3>4. Certificados de Conclusão de Curso</h3></a>
-[Voltar para o sumário](#item0)
+[Back to summary](#item0)
 
 <a name="item4.1"><h4>4.1. Data - Excel</h4></a>
-[Voltar para o item 4](#item4)
+[Back to item 4](#item4)
 
 - [Excel 2010 - Básico](../cert_ti/04-curso/data/excel/(20-08-14)%20Cert%20Excel%20Básic%20PH%20UIATEC.pdf)
   - Plataforma: **UAITEC**   <img src="../0-aux/logos/plataforma/uaitec.png" alt="uiatec" width="auto" height="25">
@@ -66,7 +66,7 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
   - Concluído em: 14/08/2020
 
 <a name="item4.2"><h4>4.2. Development</h4></a>
-[Voltar para o item 4](#item4)
+[Back to item 4](#item4)
 
 - [Introdução ao Desenvolvimento Moderno de Software](../cert_ti/04-curso/development/(23-07-03)%20...Desenvolvimento%20Moderno%20de%20Software%20PH%20DIO.pdf)
   - Plataforma: **DIO**   <img src="../0-aux/logos/plataforma/dio.jpeg" alt="dio" width="auto" height="25">
@@ -79,7 +79,7 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
   - Concluído em: 03/07/23
 
 <a name="item4.3"><h4>4.3. Network</h4></a>
-[Voltar para o item 4](#item4)
+[Back to item 4](#item4)
 
 - [Redes de Computadores](../cert_ti/04-curso/network/(22-10-12)%20Cert%20Network%20PH%20CEV.pdf)
   - Plataforma: **Curso em Video** <img src="../0-aux/logos/plataforma/curso_em_video.png" alt="curso_em_video" width="auto" height="25">
@@ -87,7 +87,7 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
   - Concluído em: 12/10/22
 
 <a name="item4.4"><h4>4.4. Operating System (OS)</h4></a>
-[Voltar para o item 4](#item4)
+[Back to item 4](#item4)
 
 - [Introdução ao Sistema Operacional Linux](../cert_ti/04-curso/os/linux/(23-07-11)%20Introdução%20ao%20Sistema%20Operacional%20Linux%20PH%20DIO.pdf)
   - Plataforma: **DIO**   <img src="../0-aux/logos/plataforma/dio.jpeg" alt="dio" width="auto" height="25">
@@ -110,7 +110,7 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
   - Concluído em: 13/07/23
 
 <a name="item4.5"><h4>4.5. Programming - JavaScript</h4></a>
-[Voltar para o item 4](#item4)
+[Back to item 4](#item4)
 
 - [JavaScript](../cert_ti/04-curso/programming/java_script/(22-08-20)%20Cert%20JavaScript%20PH%20CEV.pdf)
   - Plataforma: **Curso em Vídeo**   <img src="../0-aux/logos/plataforma/curso_em_video.png" alt="curso_em_video" width="auto" height="25">
@@ -148,7 +148,7 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
   - Concluído em: 20/02/23
 
 <a name="item4.6"><h4>4.6. Programming - Lógica e Algoritmo</h4></a>
-[Voltar para o item 4](#item4)
+[Back to item 4](#item4)
 
 - [Lógica 18+](../cert_ti/04-curso/programming/logica_algoritmo/(22-04-29)%20Cert%20Lógica%2018+%20PH%20SCA.pdf)
   - Plataforma: **SoulCode Academy**   <img src="../0-aux/logos/plataforma/soulcode_academy.png" alt="soulcode_academy" width="auto" height="25">
@@ -161,7 +161,7 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
   - Concluído em: 09/10/22
 
 <a name="item4.7"><h4>4.7. Programming - Python</h4></a>
-[Voltar para o item 4](#item4)
+[Back to item 4](#item4)
 
 - [SoulOn  - Python 1](../cert_ti/04-curso/programming/python/(21-11-28)%20Cert%20Mod-1%20Python%20PH%20SCA%20R1.pdf)
   - Plataforma: **SoulCode Academy**   <img src="../0-aux/logos/plataforma/soulcode_academy.png" alt="soulcode_academy" width="auto" height="25">
@@ -179,7 +179,7 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
   - Concluído em: 27/04/22
 
 <a name="item4.8"><h4>4.8. Programming - Versioning - Git e GitHub</h4></a>
-[Voltar para o item 4](#item4)
+[Back to item 4](#item4)
 
 - [Git e GitHub](../cert_ti/04-curso/programming/versioning/git_github/(22-06-04)%20Cert%20Git%20e%20GitHub%20PH%20CEV.pdf)
   - Plataforma: **Curso em Vídeo**   <img src="../0-aux/logos/plataforma/curso_em_video.png" alt="curso_em_video" width="auto" height="25">
@@ -199,10 +199,10 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
 ---
 
 <a name="item5"><h3>5. Certificados de Participação de Eventos</h3></a>
-[Voltar para o sumário](#item0)
+[Back to summary](#item0)
 
 <a name="item5.1"><h4>5.1. Data</h4></a>
-[Voltar para o item 5](#item5)
+[Back to item 5](#item5)
 
 - [Geração Tech Unimed-BH - Ciência de dados | Aula Inaugural](../cert_ti/05-particip/data/data_science/(22-11-26)%20Geração%20Tech%20Unimed-BH%20-Ciência%20de%20dados...%20PH%20DIO.pdf)
   - Plataforma: **DIO**   <img src="../0-aux/logos/plataforma/dio.jpeg" alt="dio" width="auto" height="25">
@@ -210,7 +210,7 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
   - Concluído em: 26/11/22
 
 <a name="item5.2"><h4>5.2. Data - Excel</h4></a>
-[Voltar para o item 5](#item5)
+[Back to item 5](#item5)
 
 - [Simplifica Excel Express](../cert_ti/05-particip/data/excel/(23-06-17)%20Cert%20Excel%20PH%20Simplif%20Trein%20(Simplifica%20Express).pdf)
   - Plataforma: **Simplifica Treinamentos**   <img src="../0-aux/logos/plataforma/simplifica_treinamentos.png" alt="simplifica_treinamentos" width="auto" height="25">
@@ -233,7 +233,7 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
   - Concluído em: 10/07/23
 
 <a name="item5.3"><h4>5.3. Data - Power BI</h4></a>
-[Voltar para o item 5](#item5)
+[Back to item 5](#item5)
 
 - [Simplifica Power Excel](../cert_ti/05-particip/data/power_bi/(23-05-22)%20Cert%20Power%20BI%20e%20Excel%20PH%20Simplifica%20Trein.pdf)
   - Plataforma: **Simplifica Treinamentos**   <img src="../0-aux/logos/plataforma/simplifica_treinamentos.png" alt="simplifica_treinamentos" width="auto" height="25">
@@ -246,7 +246,7 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
   - Concluído em: 11/05/23
 
 <a name="item5.4"><h4>5.4. Development - Devops</h4></a>
-[Voltar para o item 5](#item5)
+[Back to item 5](#item5)
 
 - [Iniciativa Devops](../cert_ti/05-particip/development/devops/(22-08-10)%20Cert%20Devops%20PH%20Fabrício%20Veronez%20(Iniciativa%20Devops).pdf)
   - Plataforma: **Fabrício Veronez**
@@ -254,7 +254,7 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
   - Concluído em: 10/08/22
 
 <a name="item5.5"><h4>5.5. Programming - Python</h4></a>
-[Voltar para o item 5](#item5)
+[Back to item 5](#item5)
 
 - [Intensivão de Python](../cert_ti/05-particip/programming/python/(23-05-23)%20Cert%20Python%20PH%20Hashtag%20(Intesivão).pdf)
   - Plataforma: **Hashtag Treinamentos**   <img src="../0-aux/logos/plataforma/hashtag.png" alt="hashtag_treinamentos" width="auto" height="25">
@@ -264,7 +264,7 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
 ---
 
 <a name="item6"><h3>6. Badgr Conquistadas</h3></a>
-[Voltar para o sumário](#item0) 
+[Back to summary](#item0) 
 
 <img src="../cert_ti/06-badgr/(22-08-03)%20Docker%20PH%20Iniciativa%20Devops.png" alt="iniciativa_devops-docker" width="auto" height="180">
 <img src="../cert_ti/06-badgr/(22-08-05) Kubernetes PH Iniciativa Devops.png" alt="iniciativa_devops-kubernetes" width="auto" height="180">
