@@ -1,4 +1,4 @@
-Olá, meu nome é Pedro Heeger e seja muito bem vindo por ter chegado até aqui. Abaixo estão minhas redes social e meu currículo esta dispoível no link do GitHub Pages. Este é o meu repositório principal e aqui você saberá mais sobre mim e sobre minha conta no GitHub. 
+Olá, meu nome é Pedro Heeger e seja muito bem vindo por ter chegado até aqui. Abaixo estão minhas redes sociais e meu currículo esta dispoível no link do GitHub Pages. Este é o meu repositório principal e aqui você saberá mais sobre mim e sobre minha conta no GitHub. 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroHeeger)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pedroheeger.github.io/main/)
@@ -60,7 +60,7 @@ Olá novamente, como já sabe meu nome irei falar um pouco mais sobre mim. Atual
 <a name="item2.1"><h3>2.1. Phase 1 - Civil Engineering</h3></a>
 [Back to item 2](#item2)   
 
-Iniciei minha carreira profissional, em Fevereiro de 2019, ainda durante a faculdade, como auxiliar administrativo em uma empresa de fiscalização de obras contratada pela empresa de água e saneamento da minha cidade para fiscalizar a construtora contratada que realizou uma obra de ampliação de um centro de reservação de abastecimento de água de minha cidade. Nesta obra foi construído um reservatório apoiado, um reservatório elevado, uma estação elevatória, toda a rede de interligação e a urbanização deste centro de reservação.
+Iniciei minha carreira profissional, em Fevereiro de 2019, ainda durante a faculdade, como assistente administrativo em uma empresa de fiscalização de obras contratada pela empresa de água e saneamento da minha cidade para fiscalizar a construtora contratada que realizou uma obra de ampliação de um centro de reservação de abastecimento de água de minha cidade. Nesta obra foi construído um reservatório apoiado, um reservatório elevado, uma estação elevatória, toda a rede de interligação e a urbanização deste centro de reservação.
 
 Após conclusão da obra e com minha graduação concluída, em Junho de 2021, fui contratado pela construtora, em Outubro de 2021, a qual eu tinha fiscalizado, para uma outra obra. Desta vez, uma obra de complementação da ampliação do sistema de esgotamento sanitário de Salvador para as bacias do Trobogy e Cambunas. 
 
