@@ -22,23 +22,23 @@ Olá, meu nome é Pedro Heeger e seja muito bem vindo por ter chegado até aqui.
 5. <a href="#item5">Certificate</a>
 6. <details><summary><a href="#item6">All Skills Already Used</a></summary>
    6.1. <a href="#item6.1">Programming Language</a><br>
-   6.2 <a href="#item6.2">Database Management System (DBMS)</a><br>
-   6.3 <a href="#item6.3">Cloud</a><br>
-   6.4 <a href="#item6.4">Big Data</a><br>
-   6.5 <a href="#item6.5">Operating System (OS)</a><br>
-   6.6 <a href="#item6.6">Business Inteligence (BI)</a><br>
-   6.7 <a href="#item6.7">Other Languages</a><br>
-   6.8 <a href="#item6.8">Repository and Versioning</a><br>
-   6.9 <a href="#item6.9">Integrated Development Environment (IDE)</a><br>
-   6.10 <a href="#item6.10">Library and Framewoks</a><br>
-   6.15 <a href="#item6.15">Others</a></details>
+   6.2. <a href="#item6.2">Database Management System (DBMS)</a><br>
+   6.3. <a href="#item6.3">Cloud</a><br>
+   6.4. <a href="#item6.4">Big Data</a><br>
+   6.5. <a href="#item6.5">Operating System (OS)</a><br>
+   6.6. <a href="#item6.6">Business Inteligence (BI)</a><br>
+   6.7. <a href="#item6.7">Other Languages</a><br>
+   6.8. <a href="#item6.8">Repository and Versioning</a><br>
+   6.9. <a href="#item6.9">Integrated Development Environment (IDE)</a><br>
+   6.10. <a href="#item6.10">Library and Framewoks</a><br>
+   6.15. <a href="#item6.15">Others</a></details>
 7. <a href="#item7">Study Repository</a>
 8. <details><summary><a href="#item8">Main Projects</a></summary>
    8.1. <a href="#item8.1">Bootcamps (Study Repository)</a><br>
-   8.2 <a href="#item8.2">Course (Study Repository)</a></details>
+   8.2. <a href="#item8.2">Course (Study Repository)</a></details>
 9. <details><summary><a href="#item9">Main Reports and Dashboards</a></summary>
    9.1. <a href="#item9.1">Bootcamps (Study Repository)</a><br>
-   9.2 <a href="#item9.2">Course (Study Repository)</a></details>
+   9.2. <a href="#item9.2">Course (Study Repository)</a></details>
 
 ---
 
@@ -290,7 +290,7 @@ These are my main projects from my repositories.
 <a name="item8.1"><h3>8.1. Bootcamps (Study Repository)</h3></a>
 [Back to item 8](#item8)
 
-- <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03">boot_03 (Linux do Zero)   <img src="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/0-aux/logo_boot.png" alt="boot_003" width="auto" height="25"></a>
+- <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03">boot_03 (Linux do Zero)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_03/0-aux/logo_boot.png" alt="boot_003" width="auto" height="25"></a>
 
 <a name="item8.2"><h3>8.2. Course (Study Repository)</h3></a>
 [Back to item 8](#item8)
