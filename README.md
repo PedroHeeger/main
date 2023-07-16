@@ -32,12 +32,13 @@ Olá, meu nome é Pedro Heeger e seja muito bem vindo por ter chegado até aqui.
    6.9 <a href="#item6.9">Integrated Development Environment (IDE)</a><br>
    6.10 <a href="#item6.10">Library and Framewoks</a><br>
    6.15 <a href="#item6.15">Others</a></details>
-7. <details><summary><a href="#item7">Main Projects</a></summary>
-   7.1. <a href="#item7.1">Bootcamps (Study Repository)</a><br>
-   7.2 <a href="#item7.2">Course (Study Repository)</a></details>
-8. <details><summary><a href="#item8">Main Reports and Dashboards</a></summary>
+7. <a href="#item7">Study Repository</a>
+8. <details><summary><a href="#item8">Main Projects</a></summary>
    8.1. <a href="#item8.1">Bootcamps (Study Repository)</a><br>
    8.2 <a href="#item8.2">Course (Study Repository)</a></details>
+9. <details><summary><a href="#item9">Main Reports and Dashboards</a></summary>
+   9.1. <a href="#item9.1">Bootcamps (Study Repository)</a><br>
+   9.2 <a href="#item9.2">Course (Study Repository)</a></details>
 
 ---
 
@@ -270,32 +271,45 @@ Neste repositório é disponibilizado uma sub-pasta com todos os certificados qu
 
 ---
 
-<a name="item7"><h2>7. Main Projects</h2></a>
+<a name="item7"><h2>7. Study Repository</h2></a>
+[Back to summary](#item0) 
+
+These are my study repositories, where I create my specific projects for each study I carry out.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=boot&show_owner=true&theme=holi)](https://github.com/PedroHeeger/boot)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PedroHeeger&repo=course&show_owner=true&theme=holi)](https://github.com/PedroHeeger/course)
+
+---
+
+<a name="item8"><h2>8. Main Projects</h2></a>
 [Back to summary](#item0) 
 
 These are my main projects from my repositories.
 
-<a name="item7.1"><h3>7.1. Bootcamps (Study Repository)</h3></a>
-[Back to item 7](#item7)
-
-<a name="item7.2"><h3>7.2. Course (Study Repository)</h3></a>
-[Back to item 7](#item7)
-
-[![Dev Week - Ifood Ciência de Dados com Python]()](https://github.com/PedroHeeger/course/tree/main/dio/python/curso_066)
-
-[![Desafio Kickstart 1 | Atendimento Laboratorial]()](https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069)
-
----
-
-<a name="item8"><h2>8. Main Reports and Dashboards</h2></a>
-[Back to summary](#item0)
-
-These are my main reports and dashboards regarding the projects developed in the my repositories.
-
 <a name="item8.1"><h3>8.1. Bootcamps (Study Repository)</h3></a>
 [Back to item 8](#item8)
+
+- <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03">boot_03 (Linux do Zero)   <img src="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/0-aux/logo_boot.png" alt="boot_003" width="auto" height="25"></a>
 
 <a name="item8.2"><h3>8.2. Course (Study Repository)</h3></a>
 [Back to item 8](#item8)
 
-[![Desafio Kickstart 1 | Atendimento Laboratorial]()](https://app.powerbi.com/view?r=eyJrIjoiOGUyZjM5ZmQtYzE4Yy00YTYxLTg0YzMtMjgzMTYyN2U0MDhiIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9)
+- <a href="https://github.com/PedroHeeger/course/tree/main/dio/python/curso_066">curso_066 (Dev Week - Ifood Ciência de Dados com Python)   <img src="https://github.com/PedroHeeger/course/blob/main/dio/python/curso_066/0-aux/dev_week.png" alt="curso_066" width="auto" height="25"></a>
+
+- <a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069">curso_069 (Desafio Kickstart 1  | Atendimento Laboratorial)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_069/0-aux/logo_1.png" alt="curso_069" width="auto" height="25"></a>
+
+---
+
+<a name="item9"><h2>9. Main Reports and Dashboards</h2></a>
+[Back to summary](#item0)
+
+These are my main reports and dashboards regarding the projects developed in the my repositories.
+
+<a name="item9.1"><h3>9.1. Bootcamps (Study Repository)</h3></a>
+[Back to item 9](#item9)
+
+<a name="item9.2"><h3>9.2. Course (Study Repository)</h3></a>
+[Back to item 9](#item9)
+
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiOGUyZjM5ZmQtYzE4Yy00YTYxLTg0YzMtMjgzMTYyN2U0MDhiIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9">curso_069 (Desafio Kickstart 1  | Atendimento Laboratorial)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_069/0-aux/logo_1.png" alt="curso_069" width="auto" height="25"></a>
