@@ -1,6 +1,6 @@
 Olá, meu nome é Pedro Heeger e seja muito bem vindo por ter chegado até aqui. Abaixo estão minhas redes social e meu currículo esta dispoível no link do GitHub Pages. Este é o meu repositório principal e aqui você saberá mais sobre mim e sobre minha conta no GitHub. 
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](github.com/PedroHeeger)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroHeeger)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pedroheeger.github.io/main/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroheeger)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroheeger/)
@@ -149,16 +149,14 @@ Esses três repositórios são divididos em níveis de sub-divisões de pastas. 
 <a name="item4"><h2>4. Curriculum</h2></a>
 [Back to summary](#item0) 
 
-Como dito anteriormente, este repositório foi originado de um fork de um repositório já existente da plataforma **Digital Innovation One - DIO** (*digitalinnovationone/resume*) que contém um template em **HTML** e **CSS** para criação de um currículo online, sendo disponibilizado em um link hospedado no **GitHub Pages**. Acesse o meu currículo aqui.
+Como dito anteriormente, este repositório foi originado de um fork de um repositório já existente da plataforma **Digital Innovation One - DIO** (*digitalinnovationone/resume*) que contém um template em **HTML** e **CSS** para criação de um currículo online, sendo disponibilizado em um link hospedado no **GitHub Pages**. Acesse o meu currículo [aqui](https://pedroheeger.github.io/main/).
 
 ---
 
 <a name="item5"><h2>5. Certificate</h2></a>
 [Back to summary](#item0) 
 
-Neste repositório é disponibilizado uma sub-pasta com todos os certificados que obtive durante o processo de aprendizagem. Nelá está contida os certificados de participação de cursos, certificados de conclusão de bootcamps, certificações especiais. Para acessá-la, [clique aqui](./cert_ti/).
-
-Continuar...
+Neste repositório é disponibilizado uma sub-pasta com todos os certificados que obtive durante o meu processo de aprendizagem. Na sub-pasta está contida os certificados de conclusão de cursos, certificados de conclusão de bootcamps, certificações especiais, entre outros. Para acessá-la, [clique aqui](./cert_ti/).
 
 ---
 
@@ -254,14 +252,10 @@ Continuar...
 [Back to item 6](#item6)
 
 <div style="display: inline_block">
-    <img aling="Center" alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
-"/>
-    <img aling="Center" alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
-"/>
-    <img aling="Center" alt="plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white
-"/>
-    <img aling="Center" alt="scikit_learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
-"/>
+    <img aling="Center" alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img aling="Center" alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img aling="Center" alt="plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
+    <img aling="Center" alt="scikit_learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </div>
 
 <a name="item6.15"><h3>6.15. Others</h3></a>
@@ -289,7 +283,7 @@ These are my main projects from my repositories.
 
 [![Dev Week - Ifood Ciência de Dados com Python]()](https://github.com/PedroHeeger/course/tree/main/dio/python/curso_066)
 
-[![Desafio Kickstart 1 | Atendimento Laboratorial]()](github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069)
+[![Desafio Kickstart 1 | Atendimento Laboratorial]()](https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069)
 
 ---
 
@@ -304,4 +298,4 @@ These are my main reports and dashboards regarding the projects developed in the
 <a name="item8.2"><h3>8.2. Course (Study Repository)</h3></a>
 [Back to item 8](#item8)
 
-[![Desafio Kickstart 1 | Atendimento Laboratorial]()]([github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069](https://app.powerbi.com/view?r=eyJrIjoiOGUyZjM5ZmQtYzE4Yy00YTYxLTg0YzMtMjgzMTYyN2U0MDhiIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9))
+[![Desafio Kickstart 1 | Atendimento Laboratorial]()](https://app.powerbi.com/view?r=eyJrIjoiOGUyZjM5ZmQtYzE4Yy00YTYxLTg0YzMtMjgzMTYyN2U0MDhiIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9)
