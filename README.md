@@ -39,8 +39,8 @@ Olá, meu nome é Pedro Heeger e seja muito bem vindo por ter chegado até aqui.
    8.1. <a href="#item8.1">Bootcamps (Study Repository)</a><br>
    8.2. <a href="#item8.2">Course (Study Repository)</a></details>
 9.  <details><summary><a href="#item9">Main Reports and Dashboards</a></summary>
-   9.1. <a href="#item9.1">Bootcamps (Study Repository)</a><br>
-   9.2. <a href="#item9.2">Course (Study Repository)</a></details>
+    9.1. <a href="#item9.1">Bootcamps (Study Repository)</a><br>
+    9.2. <a href="#item9.2">Course (Study Repository)</a></details>
 
 ---
 
@@ -167,7 +167,7 @@ Neste repositório é disponibilizado uma sub-pasta com todos os certificados qu
 <a name="item5.2"><h3>5.2. Language Certificate</h3></a>
 [Back to item 5](#item5)
 
-Aqui, também, é disponibilizado uma sub-pasta com todos os certificados referentes aos línguas que aprendi. Para acessar essa sub-pasta, [clique aqui](./cert_languages/).
+Aqui também é disponibilizado uma sub-pasta com todos os certificados referentes aos línguas que aprendi. Para acessar essa sub-pasta, [clique aqui](./cert_languages/).
 
 ---
 
