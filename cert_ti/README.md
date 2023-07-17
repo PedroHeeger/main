@@ -1,7 +1,7 @@
-# Certificate
+# Technology Certificate
 [Return to repository home folder](../)
 
-Neste repositório apresento todas as certificações que tirei durante minha jornada. Essas certificações são divididas em seis tipos que são:  certificações especiais (de plataformas de software como: Microsoft, AWS, Google, Databricks, Cisco, entre outras), selos de competência do **Linkedin**, certificados de conclusão de bootcamp, certificados de conclusão de curso, certificados de participação de eventos e badgr conquistadas.
+Neste repositório apresento todas as certificações em tecnologia que tirei durante minha jornada. Essas certificações são divididas em seis tipos que são:  certificações especiais (de plataformas de software como: Microsoft, AWS, Google, Databricks, Cisco, entre outras), selos de competência do **Linkedin**, certificados de conclusão de bootcamp, certificados de conclusão de curso, certificados de participação de eventos e badgr conquistadas.
 
 <a name="item0"><h2>Summary</h2></a>
 1. <a href="#item1">Certificações Especiais</a><br>
@@ -22,7 +22,7 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
     5.3. <a href="#item5.3">Data - Power BI</a><br>
     5.4. <a href="#item5.4">Development - Devops</a><br>
     5.5. <a href="#item5.5">Programming - Python</a></details>
-6. <a href="#item6">Badgr Conquistadas</a>
+6. <a href="#item6">Badges Conquistadas</a>
 
 ---
 
@@ -232,6 +232,11 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
   - Carga Horária: 5 Horas
   - Concluído em: 10/07/23
 
+- [Simplifica Excel Express](../cert_ti/05-particip/data/excel/(23-07-17)%20Cert%20Excel%20PH%20Simplif%20Trein%20(Simplifica%20Express).pdf)
+  - Plataforma: **Simplifica Treinamentos**   <img src="../0-aux/logos/plataforma/simplifica_treinamentos.png" alt="simplifica_treinamentos" width="auto" height="25">
+  - Carga Horária: 10 Horas
+  - Concluído em: 17/07/23
+
 <a name="item5.3"><h4>5.3. Data - Power BI</h4></a>
 [Back to item 5](#item5)
 
@@ -268,14 +273,16 @@ Neste repositório apresento todas as certificações que tirei durante minha jo
 
 ---
 
-<a name="item6"><h3>6. Badgr Conquistadas</h3></a>
+<a name="item6"><h3>6. Badges Conquistadas</h3></a>
 [Back to summary](#item0) 
 
-<img src="../cert_ti/06-badgr/(22-08-03)%20Docker%20PH%20Iniciativa%20Devops.png" alt="iniciativa_devops-docker" width="auto" height="180">
-<img src="../cert_ti/06-badgr/(22-08-05) Kubernetes PH Iniciativa Devops.png" alt="iniciativa_devops-kubernetes" width="auto" height="180">
-<img src="../cert_ti/06-badgr/(22-08-06) Terraform PH Iniciativa Devops.png" alt="iniciativa_devops-terrafom" width="auto" height="180">
-<img src="../cert_ti/06-badgr/(22-08-06) GitHub Actions PH Iniciativa Devops.png" alt="iniciativa_devops-github_actions" width="auto" height="180">
-<img src="../cert_ti/06-badgr/(22-08-07) Prometheus e Grafana PH Iniciativa Devops.png" alt="iniciativa_devops-prometheus_grafana" width="auto" height="180">
+<div>
+  <img src="../cert_ti/06-badgr/(22-08-03)%20Docker%20PH%20Iniciativa%20Devops.png" alt="iniciativa_devops-docker" width="auto" height="180">
+  <img src="../cert_ti/06-badgr/(22-08-05) Kubernetes PH Iniciativa Devops.png" alt="iniciativa_devops-kubernetes" width="auto" height="180">
+  <img src="../cert_ti/06-badgr/(22-08-06) Terraform PH Iniciativa Devops.png" alt="iniciativa_devops-terrafom" width="auto" height="180">
+  <img src="../cert_ti/06-badgr/(22-08-06) GitHub Actions PH Iniciativa Devops.png" alt="iniciativa_devops-github_actions" width="auto" height="180">
+  <img src="../cert_ti/06-badgr/(22-08-07) Prometheus e Grafana PH Iniciativa Devops.png" alt="iniciativa_devops-prometheus_grafana" width="auto" height="180">
+</div>
 
 
 

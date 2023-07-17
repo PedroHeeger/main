@@ -19,7 +19,9 @@ Olá, meu nome é Pedro Heeger e seja muito bem vindo por ter chegado até aqui.
     3.2. <a href="#item3.2">Main Repository (main)</a><br>
     3.3. <a href="#item3.3">Study Repositories</a></details>
 4. <a href="#item4">Curriculum</a>
-5. <a href="#item5">Certificate</a>
+5. <details><summary><a href="#item5">Certificate</a></summary>
+   5.1. <a href="#item5.1">Technology Certificate</a><br>
+   5.2. <a href="#item5.2">Language Certificate</a></details>
 6. <details><summary><a href="#item6">All Skills Already Used</a></summary>
    6.1. <a href="#item6.1">Programming Language</a><br>
    6.2. <a href="#item6.2">Database Management System (DBMS)</a><br>
@@ -36,7 +38,7 @@ Olá, meu nome é Pedro Heeger e seja muito bem vindo por ter chegado até aqui.
 8. <details><summary><a href="#item8">Main Projects</a></summary>
    8.1. <a href="#item8.1">Bootcamps (Study Repository)</a><br>
    8.2. <a href="#item8.2">Course (Study Repository)</a></details>
-9. <details><summary><a href="#item9">Main Reports and Dashboards</a></summary>
+9.  <details><summary><a href="#item9">Main Reports and Dashboards</a></summary>
    9.1. <a href="#item9.1">Bootcamps (Study Repository)</a><br>
    9.2. <a href="#item9.2">Course (Study Repository)</a></details>
 
@@ -45,9 +47,9 @@ Olá, meu nome é Pedro Heeger e seja muito bem vindo por ter chegado até aqui.
 <a name="item1"><h2>1. Main Repository</h2></a>
 [Back to summary](#item0)   
 
-Este é o meu repositório principal, onde apresento toda a organização da minha conta no GitHub, falo um pouco mais sobre mim, explico sobre os meus repositórios, disponibilizo meu currículo em um website, exibo as certificações que conquistei, os certificados dos eventos que participei e as ferramentas que utilizo.
+Este é o meu repositório principal, onde apresento toda a organização da minha conta no GitHub, falo um pouco mais sobre mim, explico sobre os meus repositórios, disponibilizo meu currículo em um website, exibo as certificações que conquistei, os certificados dos eventos que participei, as línguas que domino e as ferramentas que já utilizei.
 
-Para construção desse repositório fiz um fork de um repositório já existente da plataforma **Digital Innovation One - DIO** (*digitalinnovationone/resume*) que contém um template em **HTML** e **CSS** para criação de um currículo online, sendo disponibilizado em um link hospedado no **GitHub Pages**.
+Para construção desse repositório fiz um fork de um repositório já existente da plataforma **Digital Innovation One - DIO** (*digitalinnovationone/resume*) que contém um template em **HTML** e **CSS** para criação de um currículo online, sendo disponibilizado em um link hospedado no **GitHub Pages**. Para acessar meu currículo online, [clique aqui](https://pedroheeger.github.io/main/).
 
 O repositório original é apenas para montagem do currículo online, mas resolvi adaptá-lo para utilizar como repositório principal e acrescentar diversas outras informações sobre mim e minha conta no GitHub. Apenas utilizei, do repositório original, o arquivo de template em **HMTL** para criação do meu currículo online.
 
@@ -61,7 +63,7 @@ Olá novamente, como já sabe meu nome irei falar um pouco mais sobre mim. Atual
 <a name="item2.1"><h3>2.1. Phase 1 - Civil Engineering</h3></a>
 [Back to item 2](#item2)   
 
-Iniciei minha carreira profissional, em Fevereiro de 2019, ainda durante a faculdade, como assistente administrativo em uma empresa de fiscalização de obras contratada pela empresa de água e saneamento da minha cidade para fiscalizar a construtora contratada que realizou uma obra de ampliação de um centro de reservação de abastecimento de água de minha cidade. Nesta obra foi construído um reservatório apoiado, um reservatório elevado, uma estação elevatória, toda a rede de interligação e a urbanização deste centro de reservação.
+Iniciei minha carreira profissional, em Fevereiro de 2019, ainda durante a faculdade, como assistente administrativo em uma empresa de fiscalização de obras contratada pela empresa de água e saneamento de Salvador para fiscalizar a construtora contratada que realizou uma obra de ampliação de um centro de reservação de abastecimento de água de minha cidade. Nesta obra foi construído um reservatório apoiado, um reservatório elevado, uma estação elevatória, toda a rede de interligação e a urbanização deste centro de reservação.
 
 Após conclusão da obra e com minha graduação concluída, em Junho de 2021, fui contratado pela construtora, em Outubro de 2021, a qual eu tinha fiscalizado, para uma outra obra. Desta vez, uma obra de complementação da ampliação do sistema de esgotamento sanitário de Salvador para as bacias do Trobogy e Cambunas. 
 
@@ -70,44 +72,44 @@ Durante esse período, foi o momento em que comecei a pensar em realizar uma tra
 <a name="item2.2"><h3>2.2. Phase 2 - Getting Started in Technology</h3></a>
 [Back to item 2](#item2)   
 
-Foi nesse momento que ocorreu a virada de chave. Passei a buscar na internet, ler sobre o tema, e vi que a perspectiva do mercado para essa área estava muito boa e só iria aumentar. Então comecei a receber sugestões de cursos de **Python**, e fiquei encantado com aquilo até o momemnto que tomei uma grande decisão na minha vida, talvez uma das maiores. Decidi que iria sair do meu emprego e iria estudar tecnologia. 
+Foi nesse momento que ocorreu a virada de chave. Passei a buscar na internet, ler sobre o tema, e vi que a perspectiva do mercado para essa área estava muito boa e só iria aumentar. Então comecei a receber sugestões de cursos de **Python**, e fiquei encantado com aquilo até o momento que tomei uma grande decisão na minha vida, talvez uma das maiores. Decidi que iria sair do meu emprego e iria estudar tecnologia. 
 
-No final de Agosto de 2021, me desliguei da empresa onde trabalhava e logo surgiu para mim um processo seletivo para realização de um bootcamp de **Engenharia de Dados com Python e Google Cloud** numa edtech chamada **Soul Code Academy**. Analisei sobre o processo e vi que não precisava de experiência, como não sabia nada ainda desse universo que é o mundo da tecnologia, só sabia excel e muito pouco para o que eu achava que sabia, decidi participar. Porém, não passei para fase de seguinte.
+No final de Agosto de 2021, me desliguei da empresa onde trabalhava e logo surgiu para mim um processo seletivo para realização de um bootcamp de **Engenharia de Dados com Python e Google Cloud** numa edtech chamada **SoulCode Academy**. Analisei sobre o processo e vi que não precisava de experiência, como não sabia nada ainda desse universo que é a tecnologia, só sabia excel e muito pouco para o que eu achava que sabia, decidi participar. Infelizmente, não passei para fase de seguinte, mas não me desanimei, pois minha jornada nessa área só estava a começar.
 
-Como eu tinha já pesquisado algumas coisas sobre tecnologia, descobri sobre a área de dados e banco de dados e sobre linguagem de programação, mais presiçamenteo sobre o Python, então comecei a salvar alguns links de vídeos, cursos e plataformas de estudo sobre o tema e pensei vou estudar esses materiais e depois procuro um bootcamp para realizar. Então surgiu uma nova turma para o mesmo bootcamp de dados da **Soul Code Academy**, decidi tentar novamente e passei não só para fase seguinte, como para participar do bootcamp.
+Como eu tinha já pesquisado algumas coisas sobre tecnologia, descobri sobre a área de dados e banco de dados e sobre linguagem de programação, mais precisamente sobre o Python, então comecei a salvar alguns links de vídeos, cursos e plataformas de estudo sobre o tema e pensei vou estudar esses materiais e depois procuro um bootcamp para realizar. Então surgiu uma nova turma para o mesmo bootcamp de dados da **SoulCode Academy**, decidi tentar novamente e passei não só para fase seguinte, como para participar do bootcamp.
 
 <a name="item2.3"><h3>2.3. Phase 3 - My First Bootcamps</h3></a>
 [Back to item 2](#item2)   
 
-No final de Outubro de 2021, iniciei o bootcamp e o aprendizado foi incrível. Para quem não tinha conhecimento nenhum foi super esclarecedor, me fez entender as áreas da tecnologia, coisas básicas que eu não sabia, desde sistemas operacionais com o uso do Linux, passando por conhecimento de redes, linguagem de programação, banco de dados, comunicação entre a linguagem e o banco, conhecimentos de big data e até chegar a clouds. Foi um excelente ponta pé de partida para eu entender as áreas e como as coisas funcionam no mundo da tencologia. A partir desse bootcamp, pesquisar e procurar os assuntos sobre o tema se tornou muito fácil. O bootcamp foi intensivo e durou por três meses, sendo concluido em Fevereiro de 2022. Existe uma pasta específica sobre esse bootcamp em um dos meus repositórios, caso queira saber mais clique aqui. 
+No final de Outubro de 2021, iniciei o bootcamp e o aprendizado foi incrível. Para quem não tinha conhecimento nenhum foi super esclarecedor, me fez entender as áreas da tecnologia, coisas básicas que eu não sabia, desde sistemas operacionais com o uso do Linux, passando por conhecimento de redes, linguagem de programação, banco de dados, comunicação entre a linguagem e o banco, conhecimentos de big data e até chegar a clouds. Foi um excelente ponta pé de partida para eu entender as áreas e como as coisas funcionam no mundo da tencologia. A partir desse bootcamp, pesquisar e procurar os assuntos sobre o tema se tornou muito mais fácil. O bootcamp foi intensivo e durou por três meses, sendo concluido em Fevereiro de 2022. Existe uma pasta específica sobre esse bootcamp em um dos meus repositórios, caso queira saber mais [clique aqui]().
 
-Após a conclusão do bootcamp, fiz outros cursos e fui pesquisando mais sobre os assuntos. Até que em Outubro de 2022, conheci uma plataforma chamada **DIO - Digital Innovation One**, que possui diversos cursos e programas específicos de estudos bem completo. Nessa época, realizei o meu primeiro bootcamp na plataforma que foi o **Geração Tech Unimed-BH - Ciência de Dados** e conheci melhor o universo da ciência de dados e mais uma vez fiquei encantado. Conclui o bootcamp no final de Dezembro desse mesmo ano.
+Após a conclusão do bootcamp, fiz outros cursos e fui pesquisando mais sobre os assuntos. Até que em Outubro de 2022, conheci uma plataforma chamada **DIO - Digital Innovation One**, que possui diversos cursos e programas específicos de estudos bem completo. Nessa época, realizei o meu primeiro bootcamp na plataforma que foi o **Geração Tech Unimed-BH - Ciência de Dados** e conheci melhor a área da ciência de dados e, mais uma vez, fiquei encantado. Conclui o bootcamp no final de Dezembro desse mesmo ano.
 
 <a name="item2.4"><h3>2.4. Phase 4 - Organization of Studies</h3></a>
 [Back to item 2](#item2)
 
 Em 2023, percebi que eu precisava me organizar, que eu tinha muito material, muito conteúdo, mas sentia que estava tudo bagunçado e precisava organizar. Foi então que comecei e ainda estou num processo de organizar todo meu material de estudo, começando do mais básico, no caso o Excel, que agora posso dizer que tenho conhecimento em Excel avançado, passando pelas três áreas de Dados (Análise de Dados, Engenharia de Dados e Ciência de Dados) com objetivo de obter o conhecimento sólido sobre esses temas.
 
-Continuar...
+No momento atual, estou realizando cursos e aulas, organizando materiais que salvei durante esse tempo, seguindo uma sequência, revisando e ampliando meus conhecimentos sobre as áreas que conheci. Meu foco atual é a Engenharia de Dados, mas simpatizo muito com a Ciência de Dados. Também tenho iniciado outros Bootcamps na plataforma da **DIO**, meu objetivo é concluí alguns cursos e bootcamps dessa plataforma para fortalecer minha base de conhecimento e conquistar algumas certificações.
 
 ---
 
 <a name="item3"><h2>3. My GitHub Account</h2></a>
-[](#item0) 
+[Back to summary](#item0) 
 
-Na minha conta do GitHub existe cinco repositórios e irei explicar agora como eles funcionam. Todos esses repositórios existem remotamente (GitHub) e localmente (minha maquina). Na minha maquina eles são salvos em uma pasta do **Google Drive** de novo **4_Proj**, já que formam juntos todos os meus projetos que realizei e a estrutura do meu perfil.
+Na minha conta do GitHub existe cinco repositórios e irei explicar agora como eles funcionam. Todos esses repositórios existem remotamente (GitHub) e localmente (minha maquina). Na minha maquina eles são salvos em uma pasta do **Google Drive** de nome **4_Proj**, já que formam juntos todos os meus projetos que realizei e a estrutura do meu perfil do GitHub.
 
-Nem todos os arquivos dentro das sub-pastas dos repositórios serão disponibilizados no GitHub, porém todo conteúdo está armazenando no **Google Drive** pessoal. O objetivo é diminuir a quantidade de arquivos armazenados que não são versionados como arquivos de Excel (CSV), Power BI, PowerPoint e de imagens. São versionados apenas arquivos relavantes e arquivos de README explicando o conteúdo do repositório e das suas sub-pastas.
+Nem todos os arquivos dentro das sub-pastas dos repositórios serão disponibilizados no GitHub, porém todo conteúdo está armazenando no **Google Drive** pessoal. O objetivo é diminuir a quantidade de arquivos armazenados que não são versionados como arquivos de Excel (CSV), Power BI, PowerPoint e de imagens. São versionados apenas arquivos relavantes e arquivos de README explicando o conteúdo do repositório e das suas sub-pastas, que são os projetos desenvolvidos.
 
 <a name="item3.1"><h3>3.1. Profile Repository (**pedroheeger**)</h3></a>
 [Back to item 3](#item3)   
 
-O primeiro repositório é o **pedroheeger** que é o repositório de perfil do GitHub. Nele só existe um único arquivo **markdown** de README para construção do perfil no GitHub. No perfil é apresentado uma breve introdução sobre mim, as minhas redes sociais, os cartões de status do GitHub e principais linguagens utilizadas, as minha habilidades mais utilizadas, um card direcionando para esse repositório, que é o repositório principal e outros cards direcionando para meus repositórios de estudos.
+O primeiro repositório é o **pedroheeger** que é o repositório de perfil do GitHub. Nele só existe um único arquivo **markdown** de README para construção do perfil no GitHub. No perfil é apresentado uma breve introdução sobre mim, as minhas redes sociais, os cartões de status do GitHub e principais linguagens utilizadas, as minha habilidades mais utilizadas, um card direcionando para esse repositório, que é o repositório principal e outros cards direcionando para meus repositórios de estudos, além de links direto para os projetos que ficam nas sub-pastas dos meus repositórios e links direto para alguns dashboards e reports online.
 
 <a name="item3.2"><h3>3.2. Main Repository (**main)**</h3></a>
 [Back to item 3](#item3) 
 
-O segundo repositório é este, que como já foi dito no início deste arquivo, é o meu repositório principal, onde apresento toda a organização da minha conta no GitHub, falo um pouco mais sobre mim, explico sobre os meus repositórios, disponibilizo meu currículo em um website, exibo as certificações que conquistei, os certificados dos eventos que participei e armazena uma pasta com arquivos auxiliares para os outros repositórios.
+O segundo repositório é este, que como já foi dito no início deste arquivo, é o meu repositório principal, onde apresento toda a organização da minha conta no GitHub, falo um pouco mais sobre mim, explico sobre os meus repositórios, disponibilizo meu currículo em um website, exibo as certificações que conquistei, os certificados dos eventos que participei, as línguas que domino, as ferramentas que já utilizei e os mesmos conteúdos do repositório de perfil de forma mais ampliada.
 
 <a name="item3.3"><h3>3.3. Study Repositories</h3></a>
 [Back to item 3](#item3) 
@@ -119,7 +121,7 @@ Os bootcamps são um conjunto de cursos, as vezes separados por módulos. Já os
 ##### Subdivisions of Repositories
 Esses três repositórios são divididos em níveis de sub-divisões de pastas. Vamos entender cada nível agora.
 
-- Primeiro Nível de Pastas: O primeiro nível de pastas dividi o repositório em sub-pastas para cada plataforma diferente onde realizei o estudo (ex.: DIO, Microsoft Learn, Hashtag, Soul Code Academy)
+- Primeiro Nível de Pastas: O primeiro nível de pastas dividi o repositório em sub-pastas para cada plataforma diferente onde realizei o estudo (ex.: DIO, Microsoft Learn, Hashtag, Soul Code Academy).
 
 <div align="center"><figure>
     <img src="./0-aux/organizacao/nivel1.PNG" alt="nivel1"><br>
@@ -133,7 +135,7 @@ Esses três repositórios são divididos em níveis de sub-divisões de pastas. 
     <figcaption>Segundo Nível de Pastas em um repositório.</figcaption>
 </figure></div><br>
 
-- Terceiro Nível de Pastas: Por fim, o terceiro nível pasta sub-dividi a sub-pasta do software/assunto (segundo nível) ou a sub-pasta da plataforma (primeiro nível) em nome específico com um número de ordem para controle (boot_01, boot_02, course_010, course_029, aula_135, aula_223). Esta sub-pasta conterá todo material do estudo que está sendo realizado. O material pode ser arquivos ou outras pastas, em casos que seja necessário, dentro de um estudo, separar por módulos.
+- Terceiro Nível de Pastas: Por fim, o terceiro nível pasta sub-dividi a sub-pasta do software/assunto (segundo nível) ou a sub-pasta da plataforma (primeiro nível) em um nome específico com um número de ordem para controle (boot_01, boot_02, course_010, course_029, aula_135, aula_223). Esta sub-pasta conterá todo material do estudo que está sendo realizado. O material pode ser arquivos ou outras pastas, nos casos que seja necessário, dentro de um mesmo estudo, separar por módulos.
 
 <div align="center"><figure>
     <img src="./0-aux/organizacao/nivel3.PNG" alt="nivel3"><br>
@@ -155,9 +157,17 @@ Como dito anteriormente, este repositório foi originado de um fork de um reposi
 ---
 
 <a name="item5"><h2>5. Certificate</h2></a>
-[Back to summary](#item0) 
+[Back to summary](#item0)
+
+<a name="item5.1"><h3>5.1. Technology Certificate</h3></a>
+[Back to item 5](#item5)
 
 Neste repositório é disponibilizado uma sub-pasta com todos os certificados que obtive durante o meu processo de aprendizagem. Na sub-pasta está contida os certificados de conclusão de cursos, certificados de conclusão de bootcamps, certificações especiais, entre outros. Para acessá-la, [clique aqui](./cert_ti/).
+
+<a name="item5.2"><h3>5.2. Language Certificate</h3></a>
+[Back to item 5](#item5)
+
+Aqui, também, é disponibilizado uma sub-pasta com todos os certificados referentes aos línguas que aprendi. Para acessar essa sub-pasta, [clique aqui](./cert_languages/).
 
 ---
 
