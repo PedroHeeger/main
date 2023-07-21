@@ -38,9 +38,7 @@ Olá, meu nome é Pedro Heeger e seja muito bem vindo por ter chegado até aqui.
 8. <details><summary><a href="#item8">Main Projects</a></summary>
    8.1. <a href="#item8.1">Bootcamps (Study Repository)</a><br>
    8.2. <a href="#item8.2">Course (Study Repository)</a></details>
-9.  <details><summary><a href="#item9">Main Reports and Dashboards</a></summary>
-    9.1. <a href="#item9.1">Bootcamps (Study Repository)</a><br>
-    9.2. <a href="#item9.2">Course (Study Repository)</a></details>
+9.  <a href="#item9">Reports and Dashboards</a>
 
 ---
 
@@ -311,15 +309,7 @@ These are my main projects from my repositories.
 
 ---
 
-<a name="item9"><h2>9. Main Reports and Dashboards</h2></a>
+<a name="item9"><h2>9. Reports and Dashboards</h2></a>
 [Back to summary](#item0)
 
-These are my main reports and dashboards regarding the projects developed in the my repositories.
-
-<a name="item9.1"><h3>9.1. Bootcamps (Study Repository)</h3></a>
-[Back to item 9](#item9)
-
-<a name="item9.2"><h3>9.2. Course (Study Repository)</h3></a>
-[Back to item 9](#item9)
-
-- <a href="https://app.powerbi.com/view?r=eyJrIjoiOGUyZjM5ZmQtYzE4Yy00YTYxLTg0YzMtMjgzMTYyN2U0MDhiIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9">curso_069 (Desafio Kickstart 1  | Atendimento Laboratorial)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_069/0-aux/logo_1.png" alt="curso_069" width="auto" height="25"></a>
+Neste repositório é disponibilizado, em uma sub-pasta, todos os reports e dashboards (relatórios e paineis) realizados nos projetos desenvolvidos em todos os repositórios de estudos. Para acessá-la e conferir o conteúdo, [clique aqui](./report/).

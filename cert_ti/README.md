@@ -216,26 +216,25 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
   - Plataforma: **Simplifica Treinamentos**   <img src="../0-aux/logos/plataforma/simplifica_treinamentos.png" alt="simplifica_treinamentos" width="auto" height="25">
   - Carga Horária: 10 Horas
   - Concluído em: 17/06/23
+  - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/excel/curso_059)
 
 - [Semana do Excel](../cert_ti/05-particip/data/excel/(23-06-20)%20Cert%20Excel%20PH%20Hashtag%20Trein%20(Semana).pdf)
   - Plataforma: **Hashtag Treinamentos**   <img src="../0-aux/logos/plataforma/hashtag.png" alt="hashtag_treinamentos" width="auto" height="25">
   - Carga Horária: 8 Horas
   - Concluído em: 15/06/23
+  - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/hashtag/excel/curso_060)
 
 - [Semana do Excel na Prática](../cert_ti/05-particip/data/excel/(23-06-22)%20Cert%20Excel%20PH%20Empowerdata%20(Semana).pdf)
   - Plataforma: **Empowerdata**   <img src="../0-aux/logos/plataforma/empowerdata.jpg" alt="empowerdata" width="auto" height="25">
   - Carga Horária: 8 Horas
   - Concluído em: 22/06/23
+  - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/empowerdata/excel/curso_065)
 
 - [Imersão Excel](../cert_ti/05-particip/data/excel/(23-07-06)%20Cert%20Excel%20PH%20Karine%20Lago%20(Imersão).pdf)
-  - Plataforma: **Karine Lago**
+  - Plataforma: **Karine Lago**   <img src="../0-aux/logos/plataforma/karine_lago.jpeg" alt="karine_lago" width="auto" height="25">
   - Carga Horária: 5 Horas
   - Concluído em: 10/07/23
-
-- [Simplifica Excel Express](../cert_ti/05-particip/data/excel/(23-07-17)%20Cert%20Excel%20PH%20Simplif%20Trein%20(Simplifica%20Express).pdf)
-  - Plataforma: **Simplifica Treinamentos**   <img src="../0-aux/logos/plataforma/simplifica_treinamentos.png" alt="simplifica_treinamentos" width="auto" height="25">
-  - Carga Horária: 10 Horas
-  - Concluído em: 17/07/23
+  - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/outros/karine_lago/excel/curso_072)
 
 <a name="item5.3"><h4>5.3. Data - Power BI</h4></a>
 [Back to item 5](#item5)
@@ -244,16 +243,19 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
   - Plataforma: **Simplifica Treinamentos**   <img src="../0-aux/logos/plataforma/simplifica_treinamentos.png" alt="simplifica_treinamentos" width="auto" height="25">
   - Carga Horária: 10 Horas
   - Concluído em: 22/05/23
+  - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_043)
 
-- [Intensivão de Power BI](../cert_ti/05-particip/data/power_bi/(23-05-11)%20Cert%20Power%20BI%20PH%20Hashtag%20(Intensivão).pdf)
+- [Intensivão de Power BI 2023](../cert_ti/05-particip/data/power_bi/(23-05-11)%20Cert%20Power%20BI%20PH%20Hashtag%20(Intensivão).pdf)
   - Plataforma: **Hashtag Treinamentos**   <img src="../0-aux/logos/plataforma/hashtag.png" alt="hashtag_treinamentos" width="auto" height="25">
   - Carga Horária: 8 Horas
   - Concluído em: 11/05/23
+  - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/hashtag/power_bi/curso_041)
 
 - [Acelerador de Carreira com Power BI](../cert_ti/05-particip/data/power_bi/(23-07-16)%20Cert%20Power%20BI%20PH%20Empowerdata%20(Acelerador%20de%20Carreiras).pdf)
-  - Plataforma: **Empowerdata**   <img src="../0-aux/logos/plataforma/empowerdata.jpg" alt="hashtag_treinamentos" width="auto" height="25">
+  - Plataforma: **Empowerdata**   <img src="../0-aux/logos/plataforma/empowerdata.jpg" alt="empowerdata" width="auto" height="25">
   - Carga Horária: 8 Horas
   - Concluído em: 13/07/23
+  - [Pasta do Projeto]()
 
 <a name="item5.4"><h4>5.4. Development - Devops</h4></a>
 [Back to item 5](#item5)
