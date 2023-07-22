@@ -1,11 +1,12 @@
 # Reports and Dashboards
 [Return to repository home folder](../)
 
-Neste repositório apresento todos os reports e dashboards (relatórios e paineis) desenvolvidos nos projetos construídos. Estes materiais estão localizados nos repositórios de estudos, com o uso de várias ferramentas para construção como: **Power BI**, **Excel**, entre outros. 
+Neste repositório apresento todos os reports e dashboards (relatórios e paineis) realizados durante a construção dos projetos, com a utilização dos seguintes software: **Power BI**, **Excel**, entre outros. Estes materiais estão localizados nos meus repositórios de estudos e podem ser acessados através do link **Pasta de Projeto** indicado em cada um deles. O desenvolvimento da maioria desses reports e dashboards foi executado junto com a plataforma do curso, portanto, o design e criativdade de execução não foi minha, apenas, em alguns casos, realizei algumas modificações de meu interesse. Será informado quando a ideia de design do projeto for criada por mim.
 
 <a name="item0"><h1>Summary</h1></a>
 1. <a href="#item1">Excel</a>
 2. <a href="#item2">Power BI</a>
+3. <a href="#item3">Outros</a>
 
 ---
 
@@ -58,7 +59,7 @@ Neste repositório apresento todos os reports e dashboards (relatórios e painei
   - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/empowerdata/excel/curso_065)
     <div align="Center"><figure>
         <img src="./excel/rep_curso_065_logistica.PNG" alt="curso_065"><br>
-        <figcaption>Report Logística.</figcaption>
+        <figcaption>Report Logístico.</figcaption>
     </figure></div>
 
 - [Imersão Excel](../cert_ti/05-particip/data/excel/(23-07-06)%20Cert%20Excel%20PH%20Karine%20Lago%20(Imersão).pdf)
@@ -74,7 +75,7 @@ Neste repositório apresento todos os reports e dashboards (relatórios e painei
 <a name="item2"><h2>2. Power BI</h2></a>
 [Back to summary](#item0)
 
-- [Intensivão de Power BI 2023](../cert_ti/05-particip/data/power_bi/(23-05-11)%20Cert%20Power%20BI%20PH%20Hashtag%20(Intensivão).pdf)
+- Intensivão de Power BI 2022
   - Plataforma: **Hashtag Treinamentos**   <img src="../0-aux/logos/plataforma/hashtag.png" alt="hashtag_treinamentos" width="auto" height="25">
   - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/hashtag/power_bi/curso_040)
   - Aula 1
@@ -98,7 +99,7 @@ Neste repositório apresento todos os reports e dashboards (relatórios e painei
         <figcaption>Report Projetos.</figcaption></a>
     </figure></div>
 
-- Intensivão de Power BI 2023
+- [Intensivão de Power BI 2023](../cert_ti/05-particip/data/power_bi/(23-05-11)%20Cert%20Power%20BI%20PH%20Hashtag%20(Intensivão).pdf)
   - Plataforma: **Hashtag Treinamentos**   <img src="../0-aux/logos/plataforma/hashtag.png" alt="hashtag_treinamentos" width="auto" height="25">
   - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/hashtag/power_bi/curso_041)
   - Aula 1
@@ -122,6 +123,14 @@ Neste repositório apresento todos os reports e dashboards (relatórios e painei
         <figcaption>Report Financeiro.</figcaption></a>
     </figure></div>
 
+- Minicurso Power BI 1
+  - Plataforma: **Hashtag Treinamentos**   <img src="../0-aux/logos/plataforma/hashtag.png" alt="hashtag_treinamentos" width="auto" height="25">
+  - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/hashtag/power_bi/curso_045)
+    <div align="Center"><figure>
+        <img src="./power_bi/rep_curso_045_vendas.PNG" alt="curso_045"><br>
+        <figcaption>Report Vendas.</figcaption>
+    </figure></div>
+
 - [Simplifica Power Excel](../cert_ti/05-particip/data/power_bi/(23-05-22)%20Cert%20Power%20BI%20e%20Excel%20PH%20Simplifica%20Trein.pdf)
   - Plataforma: **Simplifica Treinamentos**   <img src="../0-aux/logos/plataforma/simplifica_treinamentos.png" alt="simplifica_treinamentos" width="auto" height="25">
   - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_043)
@@ -136,6 +145,18 @@ Neste repositório apresento todos os reports e dashboards (relatórios e painei
         <figcaption>Report Vendas.</figcaption></a>
     </figure></div>
 
+- Minicurso Power BI Experience
+  - Plataforma: **Xperiun**   <img src="../0-aux/logos/plataforma/xperiun.png" alt="xperiun" width="auto" height="25">
+  - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_048)
+    <div align="Center"><figure>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiMTRkM2IyZmMtYmE4Ni00MGZmLWFkNmQtZDMwYzNmNzk3OGRjIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_048.1_vendas.PNG" alt="curso_048.1"><br>
+        <figcaption>Report Vendas Modo Dark.</figcaption></a>
+    </figure></div>
+        <div align="Center"><figure>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiMTRkM2IyZmMtYmE4Ni00MGZmLWFkNmQtZDMwYzNmNzk3OGRjIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_048.2_vendas.PNG" alt="curso_048.2"><br>
+        <figcaption>Report Vendas Modo Light.</figcaption></a>
+    </figure></div>
+
 - Desafio Missão ZERO - Bootcamp HPN
   - Plataforma: **Xperiun**   <img src="../0-aux/logos/plataforma/xperiun.png" alt="xperiun" width="auto" height="25">
   - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_051)
@@ -144,10 +165,55 @@ Neste repositório apresento todos os reports e dashboards (relatórios e painei
         <figcaption>Report Vendas.</figcaption></a>
     </figure></div>
 
-- Desafio Missão ZERO - Bootcamp HPN
+- Desafio Kickstart 1  | Atendimento Laboratorial
   - Plataforma: **Xperiun**   <img src="../0-aux/logos/plataforma/xperiun.png" alt="xperiun" width="auto" height="25">
   - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069)
     <div align="Center"><figure>
         <a href="https://app.powerbi.com/view?r=eyJrIjoiOGUyZjM5ZmQtYzE4Yy00YTYxLTg0YzMtMjgzMTYyN2U0MDhiIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_069_atend_lab.PNG" alt="curso_069"><br>
         <figcaption>Report Vendas.</figcaption></a>
+    </figure></div>
+
+---
+
+<a name="item3"><h2>3. Outros</h2></a>
+[Back to summary](#item0)
+
+- Report 1
+    <div align="Center"><figure>
+        <img src="./power_bi/outros/Dash_Compras 1 (2).PNG" alt="nidf_1"><br>
+        <figcaption>Report Compras Layout 1.</figcaption>
+    </figure></div>
+    <div align="Center"><figure>
+        <img src="./power_bi/outros/1.PNG" alt="nidf_1"><br>
+        <figcaption>Report Compras Layout 2.</figcaption>
+    </figure></div>
+
+- Report 2
+    <div align="Center"><figure>
+        <img src="./power_bi/outros/Dash_FluxoCaixa 1 (1).PNG" alt="nidf_2"><br>
+        <figcaption>Report Fluxo de Caixa.</figcaption>
+    </figure></div>
+
+- Report 3
+    <div align="Center"><figure>
+        <img src="./power_bi/outros/Dash_Investimentos 1 (1).PNG" alt="nidf_3"><br>
+        <figcaption>Report Investimentos.</figcaption>
+    </figure></div>
+
+- Report 4
+    <div align="Center"><figure>
+        <img src="./power_bi/outros/Dash_Producao 1 (3).PNG" alt="nidf_4"><br>
+        <figcaption>Report Produção.</figcaption>
+    </figure></div>
+
+- Report 5
+    <div align="Center"><figure>
+        <img src="./excel/rep_vendas_videoxx.PNG" alt="nidf_5"><br>
+        <figcaption>Report Vendas.</figcaption>
+    </figure></div>
+
+- Report 6
+    <div align="Center"><figure>
+        <img src="./excel/rep_vendas_videoxxx.PNG" alt="nidf_6"><br>
+        <figcaption>Report Vendas.</figcaption>
     </figure></div>
