@@ -181,17 +181,17 @@ Neste repositório apresento todos os reports e dashboards (relatórios e painei
         <a href="https://app.powerbi.com/view?r=eyJrIjoiYTAxY2YwMmEtZGIwZi00Y2EzLThmN2UtYTVlMmRjODEzY2QyIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_073.1_logistico.PNG" alt="curso_073.1"><br>
         <figcaption>Report Logístico.</figcaption></a>
     </figure></div>
-    - Aula 2
+  - Aula 2
     <div align="Center"><figure>
         <a href="https://app.powerbi.com/view?r=eyJrIjoiYjcxODVmNzEtMmU3MS00YTc4LTk0ZDUtZjc2YmI4NjdlYzEzIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_073.2_rh.PNG" alt="curso_073.2"><br>
         <figcaption>Report Recursos Humanos (RH).</figcaption></a>
     </figure></div>
-    - Aula 3
+  - Aula 3
     <div align="Center"><figure>
         <a href="https://app.powerbi.com/view?r=eyJrIjoiZGQ5Nzg0NzItODE3MC00NGI1LWI1NWUtMzI1ZDRmNzkwNjhkIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_073.3_vendas.PNG" alt="curso_073.3"><br>
         <figcaption>Report Vendas.</figcaption></a>
     </figure></div>
-    - Aula 3
+  - Aula 3 (Mobile)
     <div align="Center"><figure>
         <a href="https://app.powerbi.com/view?r=eyJrIjoiZGQ5Nzg0NzItODE3MC00NGI1LWI1NWUtMzI1ZDRmNzkwNjhkIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_073.3_vendas_mobile.PNG" alt="curso_073.3_mobile"><br>
         <figcaption>Report Vendas (Mobile).</figcaption></a>
