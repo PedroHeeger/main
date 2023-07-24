@@ -255,7 +255,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
   - Plataforma: **Empowerdata**   <img src="../0-aux/logos/plataforma/empowerdata.jpg" alt="empowerdata" width="auto" height="25">
   - Carga Horária: 8 Horas
   - Concluído em: 13/07/23
-  - [Pasta do Projeto]()
+  - [Pasta do Projeto](https://github.com/PedroHeeger/course/blob/main/empowerdata/power_bi/curso_073)
 
 <a name="item5.4"><h4>5.4. Development - Devops</h4></a>
 [Back to item 5](#item5)
