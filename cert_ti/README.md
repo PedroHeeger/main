@@ -12,6 +12,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
     4.2. <a href="#item4.2">Development</a><br>
     4.3. <a href="#item4.3">Network</a><br>
     4.4. <a href="#item4.4">Operating System (OS)</a><br>
+    4.5. <a href="#item4.5">Operating System (OS) - Virtualization - Docker</a><br>
     4.5. <a href="#item4.5">Programming - JavaScript</a><br>
     4.6. <a href="#item4.6">Programming - Lógica e Algoritmo</a><br>
     4.7. <a href="#item4.7">Programming - Python</a><br>
@@ -89,25 +90,27 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item4.4"><h4>4.4. Operating System (OS)</h4></a>
 [Back to item 4](#item4)
 
-- [Introdução ao Sistema Operacional Linux](../cert_ti/04-curso/os/linux/(23-07-11)%20Introdução%20ao%20Sistema%20Operacional%20Linux%20PH%20DIO.pdf)
-  - Plataforma: **DIO**   <img src="../0-aux/logos/plataforma/dio.jpeg" alt="dio" width="auto" height="25">
-  - Carga Horária: 1 hora
-  - Concluído em: 11/07/23
+- [Introdução ao Sistema Operacional Linux](../cert_ti/04-curso/os/linux/(23-07-11)%20Introdução%20ao%20Sistema%20Operacional%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 hora**; Concluído em: **11/07/23**; [Acesse o curso aqui!]()}
+- [Acesso Remoto a Maquinas Linux](../cert_ti/04-curso/os/linux/(23-07-12)%20Acesso%20Remoto%20a%20Maquinas%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 hora**; Concluído em: **12/07/23**; [Acesse o curso aqui!]()}
+- [Instalando o Linux](../cert_ti/04-curso/os/linux/(23-07-12)%20Instalando%20o%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 hora**; Concluído em: **12/07/23**}
+- [Manipulando Arquivos no Linux](../cert_ti/04-curso/os/linux/(23-07-13)%20Manipulando%20Arquivos%20no%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **3 horas**; Concluído em: **13/07/23**; [Acesse o curso aqui!]()}
+- [Gerenciamento de Discos Linux](../cert_ti/04-curso/os/linux/(23-07-13)%20Manipulando%20Arquivos%20no%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 hora**; Concluído em: **27/07/23**; [Acesse o curso aqui!]()}
+- [Gerenciamento de Pacotes Linux](../cert_ti/04-curso/os/linux/(23-07-13)%20Manipulando%20Arquivos%20no%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 hora**; Concluído em: **27/07/23**; [Acesse o curso aqui!]()}
+- [Gerenciando Usuários no Linux](../cert_ti/04-curso/os/linux/(23-07-13)%20Manipulando%20Arquivos%20no%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 horas**; Concluído em: **27/07/23**; [Acesse o curso aqui!]()}
+- [Copiando Arquivos e Manipulando Processos](../cert_ti/04-curso/os/linux/(23-07-13)%20Manipulando%20Arquivos%20no%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 hora**; Concluído em: **28/07/23**; [Acesse o curso aqui!]()}
+- [Criando um Servidor Web com Linux](../cert_ti/04-curso/os/linux/(23-07-13)%20Manipulando%20Arquivos%20no%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 hora**; Concluído em: **28/07/23**; [Acesse o curso aqui!]()}
+- [Servidor de Banco de Dados com Linux](../cert_ti/04-curso/os/linux/(23-07-13)%20Manipulando%20Arquivos%20no%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 hora**; Concluído em: **28/07/23**; [Acesse o curso aqui!]()}
+- [Servidores de Arquivos com Linux](../cert_ti/04-curso/os/linux/(23-07-13)%20Manipulando%20Arquivos%20no%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 hora**; Concluído em: **28/07/23**: [Acesse o curso aqui!]()}
+- [Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões](../cert_ti/04-curso/os/linux/(23-07-13)%20Manipulando%20Arquivos%20no%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 hora**; Concluído em: **31/07/23**}
+- [Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)](../cert_ti/04-curso/os/linux/(23-07-13)%20Manipulando%20Arquivos%20no%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 hora**; Concluído em: **31/07/23**; [Acesse o curso aqui!]()}
 
-- [Acesso Remoto a Maquinas Linux](../cert_ti/04-curso/os/linux/(23-07-12)%20Acesso%20Remoto%20a%20Maquinas%20Linux%20PH%20DIO.pdf)
-  - Plataforma: **DIO**   <img src="../0-aux/logos/plataforma/dio.jpeg" alt="dio" width="auto" height="25">
-  - Carga Horária: 1 hora
-  - Concluído em: 12/07/23
+<a name="item4.5"><h4>4.5. Operating System (OS) - Virtualization - Docker</h4></a>
+[Back to item 4](#item4)
 
-- [Instalando o Linux](../cert_ti/04-curso/os/linux/(23-07-12)%20Instalando%20o%20Linux%20PH%20DIO.pdf)
+- [Docker: Utilização Prática no Cenário de Microsserviços](../cert_ti/04-curso/os/linux/(23-07-13)%20Manipulando%20Arquivos%20no%20Linux%20PH%20DIO.pdf)
   - Plataforma: **DIO**   <img src="../0-aux/logos/plataforma/dio.jpeg" alt="dio" width="auto" height="25">
-  - Carga Horária: 1 hora
-  - Concluído em: 12/07/23
-
-- [Manipulando Arquivos no Linux](../cert_ti/04-curso/os/linux/(23-07-13)%20Manipulando%20Arquivos%20no%20Linux%20PH%20DIO.pdf)
-  - Plataforma: **DIO**   <img src="../0-aux/logos/plataforma/dio.jpeg" alt="dio" width="auto" height="25">
-  - Carga Horária: 3 horas
-  - Concluído em: 13/07/23
+  - Carga Horária: 2 horas
+  - Concluído em: 31/07/23
 
 <a name="item4.5"><h4>4.5. Programming - JavaScript</h4></a>
 [Back to item 4](#item4)

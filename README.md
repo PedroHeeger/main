@@ -22,23 +22,24 @@ Olá, meu nome é Pedro Heeger e seja muito bem vindo por ter chegado até aqui.
 5. <details><summary><a href="#item5">Certificate</a></summary>
    5.1. <a href="#item5.1">Technology Certificate</a><br>
    5.2. <a href="#item5.2">Language Certificate</a></details>
-6. <details><summary><a href="#item6">All Skills Already Used</a></summary>
-   6.1. <a href="#item6.1">Programming Language</a><br>
-   6.2. <a href="#item6.2">Database Management System (DBMS)</a><br>
-   6.3. <a href="#item6.3">Cloud</a><br>
-   6.4. <a href="#item6.4">Big Data</a><br>
-   6.5. <a href="#item6.5">Operating System (OS)</a><br>
-   6.6. <a href="#item6.6">Business Inteligence (BI)</a><br>
-   6.7. <a href="#item6.7">Other Languages</a><br>
-   6.8. <a href="#item6.8">Repository and Versioning</a><br>
-   6.9. <a href="#item6.9">Integrated Development Environment (IDE)</a><br>
-   6.10. <a href="#item6.10">Library and Framewoks</a><br>
-   6.15. <a href="#item6.15">Others</a></details>
-7. <a href="#item7">Study Repository</a>
-8. <details><summary><a href="#item8">Main Projects</a></summary>
-   8.1. <a href="#item8.1">Bootcamps (Study Repository)</a><br>
-   8.2. <a href="#item8.2">Course (Study Repository)</a></details>
-9.  <a href="#item9">Reports and Dashboards</a>
+6.  <a href="#item6">Reports and Dashboards</a>   
+7.  <a href="#item7">Read Books</a> 
+8. <details><summary><a href="#item8">All Skills Already Used</a></summary>
+   8.1. <a href="#item8.1">Programming Language</a><br>
+   8.2. <a href="#item8.2">Database Management System (DBMS)</a><br>
+   8.3. <a href="#item8.3">Cloud</a><br>
+   8.4. <a href="#item8.4">Big Data</a><br>
+   8.5. <a href="#item8.5">Operating System (OS)</a><br>
+   8.8. <a href="#item8.6">Business Inteligence (BI)</a><br>
+   8.8. <a href="#item8.8">Other Languages</a><br>
+   8.8. <a href="#item8.8">Repository and Versioning</a><br>
+   8.9. <a href="#item8.9">Integrated Development Environment (IDE)</a><br>
+   8.10. <a href="#item8.10">Library and Framewoks</a><br>
+   8.15. <a href="#item8.15">Others</a></details>
+9. <a href="#item9">Study Repository</a>
+10. <details><summary><a href="#item10">Main Projects</a></summary>
+    10.1. <a href="#item10.1">Bootcamps (Study Repository)</a><br>
+    10.2. <a href="#item10.2">Course (Study Repository)</a></details>
 
 ---
 
@@ -169,19 +170,33 @@ Aqui também é disponibilizado uma sub-pasta com todos os certificados referent
 
 ---
 
-<a name="item6"><h2>6. All Skills Already Used</h2></a>
+<a name="item6"><h2>6. Reports and Dashboards</h2></a>
+[Back to summary](#item0)
+
+Neste repositório é disponibilizado, em uma sub-pasta, todos os reports e dashboards (relatórios e paineis) realizados nos projetos desenvolvidos em todos os repositórios de estudos. Para acessá-la e conferir o conteúdo, [clique aqui](./report/).
+
+---
+
+<a name="item7"><h2>7. Read Books</h2></a>
+[Back to summary](#item0)
+
+- Começando com Linux: Comandos, serviços e administração - Casa do Código
+
+---
+
+<a name="item8"><h2>8. All Skills Already Used</h2></a>
 [Back to summary](#item0) 
 
-<a name="item6.1"><h3>6.1. Programming Language</h3></a>
-[Back to item 6](#item6)
+<a name="item8.1"><h3>8.1. Programming Language</h3></a>
+[Back to item 8](#item8)
 
 <div style="display: inline_block">
     <img aling="Center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img aling="Center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-<a name="item6.2"><h3>6.2. Database Management System (DBMS)</h3></a>
-[Back to item 6](#item6)
+<a name="item8.2"><h3>8.2. Database Management System (DBMS)</h3></a>
+[Back to item 8](#item8)
 
 <div style="display: inline_block">
     <img aling="Center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -192,8 +207,8 @@ Aqui também é disponibilizado uma sub-pasta com todos os certificados referent
     <img aling="Center" alt="cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white"/>
 </div>
 
-<a name="item6.3"><h3>6.3. Cloud</h3></a>
-[Back to item 6](#item6)
+<a name="item8.3"><h3>8.3. Cloud</h3></a>
+[Back to item 8](#item8)
 
 <div style="display: inline_block">
     <img aling="Center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -201,16 +216,16 @@ Aqui também é disponibilizado uma sub-pasta com todos os certificados referent
     <img aling="Center" alt="digital_ocean" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"/>
 </div>
 
-<a name="item6.4"><h3>6.4. Big Data</h3></a>
-[Back to item 6](#item6)
+<a name="item8.4"><h3>8.4. Big Data</h3></a>
+[Back to item 8](#item8)
 
 <div style="display: inline_block">
     <img aling="Center" alt="spark" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16"/>
     <img aling="Center" alt="databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white"/>
 </div>
 
-<a name="item6.5"><h3>6.5. Operating System (OS)</h3></a>
-[Back to item 6](#item6)
+<a name="item8.5"><h3>8.5. Operating System (OS)</h3></a>
+[Back to item 8](#item8)
 
 <div style="display: inline_block">
     <img aling="Center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -221,16 +236,16 @@ Aqui também é disponibilizado uma sub-pasta com todos os certificados referent
     <img aling="Center" alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 </div>
 
-<a name="item6.6"><h3>6.6. Business Inteligence (BI)</h3></a>
-[Back to item 6](#item6)
+<a name="item8.6"><h3>8.6. Business Inteligence (BI)</h3></a>
+[Back to item 8](#item8)
 
 <div style="display: inline_block">
     <img aling="Center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
     <img aling="Center" alt="power_bi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
 </div>
 
-<a name="item6.7"><h3>6.7. Other Languages</h3></a>
-[Back to item 6](#item6)
+<a name="item8.7"><h3>8.7. Other Languages</h3></a>
+[Back to item 8](#item8)
 
 <div style="display: inline_block">
     <img aling="Center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -238,16 +253,16 @@ Aqui também é disponibilizado uma sub-pasta com todos os certificados referent
     <img aling="Center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
 
-<a name="item6.8"><h3>6.8. Repository and Versioning</h3></a>
-[Back to item 6](#item6)
+<a name="item8.8"><h3>8.8. Repository and Versioning</h3></a>
+[Back to item 8](#item8)
 
 <div style="display: inline_block">
     <img aling="Center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     <img aling="Center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-<a name="item6.9"><h3>6.9. Integrated Development Environment (IDE)</h3></a>
-[Back to item 6](#item6)
+<a name="item8.9"><h3>8.9. Integrated Development Environment (IDE)</h3></a>
+[Back to item 8](#item8)
 
 <div style="display: inline_block">
     <img aling="Center" alt="visual_studio_code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -257,8 +272,8 @@ Aqui também é disponibilizado uma sub-pasta com todos os certificados referent
     <img aling="Center" alt="replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
 </div>
 
-<a name="item6.10"><h3>6.10. Library and Framewoks</h3></a>
-[Back to item 6](#item6)
+<a name="item8.10"><h3>8.10. Library and Framewoks</h3></a>
+[Back to item 8](#item8)
 
 <div style="display: inline_block">
     <img aling="Center" alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -267,8 +282,8 @@ Aqui também é disponibilizado uma sub-pasta com todos os certificados referent
     <img aling="Center" alt="scikit_learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </div>
 
-<a name="item6.15"><h3>6.15. Others</h3></a>
-[Back to item 6](#item6)
+<a name="item8.15"><h3>8.15. Others</h3></a>
+[Back to item 8](#item8)
 
 <div style="display: inline_block">
     <img aling="Center" alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -279,7 +294,7 @@ Aqui também é disponibilizado uma sub-pasta com todos os certificados referent
 
 ---
 
-<a name="item7"><h2>7. Study Repository</h2></a>
+<a name="item9"><h2>9. Study Repository</h2></a>
 [Back to summary](#item0) 
 
 These are my study repositories, where I create my specific projects for each study I carry out.
@@ -290,26 +305,19 @@ These are my study repositories, where I create my specific projects for each st
 
 ---
 
-<a name="item8"><h2>8. Main Projects</h2></a>
+<a name="item10"><h2>10. Main Projects</h2></a>
 [Back to summary](#item0) 
 
 These are my main projects from my repositories.
 
-<a name="item8.1"><h3>8.1. Bootcamps (Study Repository)</h3></a>
-[Back to item 8](#item8)
+<a name="item10.1"><h3>10.1. Bootcamps (Study Repository)</h3></a>
+[Back to item 10](#item10)
 
 - <a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03">boot_03 (Linux do Zero)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_03/0-aux/logo_boot.png" alt="boot_003" width="auto" height="25"></a>
 
-<a name="item8.2"><h3>8.2. Course (Study Repository)</h3></a>
-[Back to item 8](#item8)
+<a name="item10.2"><h3>10.2. Course (Study Repository)</h3></a>
+[Back to item 10](#item10)
 
 - <a href="https://github.com/PedroHeeger/course/tree/main/dio/python/curso_066">curso_066 (Dev Week - Ifood Ciência de Dados com Python)   <img src="https://github.com/PedroHeeger/course/blob/main/dio/python/curso_066/0-aux/dev_week.png" alt="curso_066" width="auto" height="25"></a>
 
 - <a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069">curso_069 (Desafio Kickstart 1  | Atendimento Laboratorial)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_069/0-aux/logo_1.png" alt="curso_069" width="auto" height="25"></a>
-
----
-
-<a name="item9"><h2>9. Reports and Dashboards</h2></a>
-[Back to summary](#item0)
-
-Neste repositório é disponibilizado, em uma sub-pasta, todos os reports e dashboards (relatórios e paineis) realizados nos projetos desenvolvidos em todos os repositórios de estudos. Para acessá-la e conferir o conteúdo, [clique aqui](./report/).
