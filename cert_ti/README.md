@@ -47,7 +47,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Ciência de Dados](../cert_ti/03-conclu/data/(22-11-26)%20Cert%20Geração%20Tech%20Unimed-BH%20-%20Ciência%20de%20Dados%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **126 Horas**; Concluído em: **26/11/22**; [Pasta do Projeto]()}
 - [Linux do Zero](../cert_ti/03-conclu/os/linux/(23-08-03)%20Cert%20Linux%20do%20Zero%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **44 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03)}
 - [Linux Experience](../cert_ti/03-conclu/os/linux/(23-08-02)%20Cert%20Linux%20Experience%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **42 Horas**; Concluído em: **02/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_004)}
-- [Formação Linux Fundamentals](../cert_ti/03-conclu/os/linux/(23-08-03)%Cert%Formacao%Linux%Fundamentals%PH%DIO.pdf) {Plataforma: **DIO**; Carga Horária: **23 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005)}
+- [Formação Linux Fundamentals](../cert_ti/03-conclu/os/linux/(23-08-03)%20Cert%20Formacao%20Linux%20Fundamentals%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **23 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005)}
 
 ---
 
