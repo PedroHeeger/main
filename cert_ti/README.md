@@ -10,13 +10,14 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 4. <details><summary><a href="#item4">Certificados de Conclusão de Curso</a></summary>
     4.1. <a href="#item4.1">Data - Excel</a><br>
     4.2. <a href="#item4.2">Development</a><br>
-    4.3. <a href="#item4.3">Network</a><br>
-    4.4. <a href="#item4.4">Operating System (OS)</a><br>
-    4.5. <a href="#item4.5">Operating System (OS) - Virtualization - Docker</a><br>
-    4.6. <a href="#item4.6">Programming - JavaScript</a><br>
-    4.7. <a href="#item4.7">Programming - Lógica e Algoritmo</a><br>
-    4.8. <a href="#item4.8">Programming - Python</a><br>
-    4.9. <a href="#item4.9">Programming - Versioning - Git e GitHub</a></details>
+    4.3. <a href="#item4.3">Development - DevOps</a><br>
+    4.4. <a href="#item4.4">Network</a><br>
+    4.5. <a href="#item4.5">Operating System (OS)</a><br>
+    4.6. <a href="#item4.6">Operating System (OS) - Virtualization - Docker</a><br>
+    4.7. <a href="#item4.7">Programming - JavaScript</a><br>
+    4.8. <a href="#item4.8">Programming - Lógica e Algoritmo</a><br>
+    4.9. <a href="#item4.9">Programming - Python</a><br>
+    4.10. <a href="#item4.10">Programming - Versioning - Git e GitHub</a></details>
 5. <details><summary><a href="#item5">Certificados de Participação de Eventos</a></summary>
     5.1. <a href="#item5.1">Data - Excel</a><br>
     5.2. <a href="#item5.2">Data - Power BI</a><br>
@@ -44,9 +45,9 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 
 - [Engenharia de Dados](../cert_ti/03-conclu/data/(22-01-28)%20Cert%20Eng%20Dados%20PH%20SCA.png) {Plataforma: **SoulCode Academy**; Carga Horária: **480 horas**; Período: **25/10/21 à 28/01/22**; [Pasta do Projeto]()}
 - [Ciência de Dados](../cert_ti/03-conclu/data/(22-11-26)%20Cert%20Geração%20Tech%20Unimed-BH%20-%20Ciência%20de%20Dados%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **126 Horas**; Concluído em: **26/11/22**; [Pasta do Projeto]()}
-- [Linux Experience](../cert_ti/03-conclu/data/(23-08-02)%20Cert%20Linux%20Experience%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **42 Horas**; Concluído em: **02/08/23**; [Pasta do Projeto]()}
-- [Formação Linux Fundamentals](../cert_ti/03-conclu/data/(23-08-02)%20Cert%20Linux%20Experience%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **42 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto]()}
-- [Linux do Zero](../cert_ti/03-conclu/data/(23-08-02)%20Cert%20Linux%20Experience%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **44 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03)}
+- [Linux Experience](../cert_ti/03-conclu/os/linux/(23-08-02)%20Cert%20Linux%20Experience%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **42 Horas**; Concluído em: **02/08/23**; [Pasta do Projeto]()}
+- [Formação Linux Fundamentals](../cert_ti/03-conclu/os/linux/(23-08-02)%20Cert%20Linux%20Experience%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **42 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto]()}
+- [Linux do Zero](../cert_ti/03-conclu/os/linux/(23-08-03)%20Cert%20Linux%20do%20Zero%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **44 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03)}
 
 ---
 
@@ -63,14 +64,18 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 
 - [Introdução ao Desenvolvimento Moderno de Software](../cert_ti/04-curso/development/(23-07-03)%20...Desenvolvimento%20Moderno%20de%20Software%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/07/23**; Sem Pasta}
 - [Trabalhando em Equipes Ágeis](../cert_ti/04-curso/development/(23-07-03)%20Trabalhando%20em%20Equipes%20Ágeis%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **3 Horas**; Concluído em: **03/07/23**; Sem Pasta}
-- [DevOps: Tudo o que você precisa saber](../cert_ti/04-curso/development/) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto]()}
 
-<a name="item4.3"><h4>4.3. Network</h4></a>
+<a name="item4.3"><h4>4.3. Development - Devops</h4></a>
+[Back to item 4](#item4)
+
+- [DevOps: Tudo o que você precisa saber](../cert_ti/04-curso/development/devops/(23-08-03)%20DevOps...%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto]()}
+
+<a name="item4.4"><h4>4.4. Network</h4></a>
 [Back to item 4](#item4)
 
 - [Redes de Computadores](../cert_ti/04-curso/network/(22-10-12)%20Cert%20Network%20PH%20CEV.pdf) {Plataforma: **Curso em Video**; Carga Horária: **20 horas**; Concluído em: **12/10/22**; [Pasta do Projeto]()}
 
-<a name="item4.4"><h4>4.4. Operating System (OS)</h4></a>
+<a name="item4.5"><h5>4.5. Operating System (OS)</h4></a>
 [Back to item 4](#item4)
 
 - [Introdução ao Sistema Operacional Linux](../cert_ti/04-curso/os/linux/(23-07-11)%20Introdução%20ao%20Sistema%20Operacional%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **11/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/02-linux#item2.1)}
@@ -87,36 +92,36 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões](../cert_ti/04-curso/os/linux/(23-07-31)%20Iac...Criação...Usuários%2C%20Diretórios%20e%20Permissões%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **31/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/02-linux#item2.9)}
 - [Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)](../cert_ti/04-curso/os/linux/(23-07-31)%20Iac...Servidor%20Web%20(Apache)%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **31/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/03-servidor_linux#item3.4)}
 
-<a name="item4.5"><h4>4.5. Operating System (OS) - Virtualization - Docker</h4></a>
+<a name="item4.6"><h4>4.6. Operating System (OS) - Virtualization - Docker</h4></a>
 [Back to item 4](#item4)
 
 - [Docker: Utilização Prática no Cenário de Microsserviços](../cert_ti/04-curso/os/linux/(23-07-31)%20Docker-Utilização...Cenário%20de%20Microsserviços%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **31/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/03-servidor_linux#item3.5)}
 
-<a name="item4.6"><h4>4.6. Programming - JavaScript</h4></a>
+<a name="item4.7"><h4>4.7. Programming - JavaScript</h4></a>
 [Back to item 4](#item4)
 
 - [JavaScript](../cert_ti/04-curso/programming/java_script/(22-08-20)%20Cert%20JavaScript%20PH%20CEV.pdf) {Plataforma: **Curso em Vídeo**; Carga Horária: **40 Horas**; Concluído em: **20/08/22**; [Pasta do Projeto]()}
-- [Fundamentos de Codificação](../cert_ti/04-curso/programming/java_script/(21-06-19)%20Cert%20JS%201%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **19/06/21**;}
-- [Fundamentos de Programação II](../cert_ti/04-curso/programming/java_script/(22-08-22)%20Cert%20JS%202%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **22/08/22**}
-- [Introdução à Entrevista](../cert_ti/04-curso/programming/java_script/(22-09-22)%20Cert%20JS%203%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **22/09/22**}
-- [Métodos de Array](../cert_ti/04-curso/programming/java_script/(22-10-24)%20Cert%20JS%204%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **24/10/22**}
-- [Animações](../cert_ti/04-curso/programming/java_script/(22-10-24)%20Cert%20JS%205%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **24/10/22**}
-- [Animações II](../cert_ti/04-curso/programming/java_script/(23-02-20)%20Cert%20JS%206%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **20/02/23**}
+- [Fundamentos de Codificação](../cert_ti/04-curso/programming/java_script/(21-06-19)%20Cert%20JS%201%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **19/06/21**; Sem Pasta}
+- [Fundamentos de Programação II](../cert_ti/04-curso/programming/java_script/(22-08-22)%20Cert%20JS%202%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **22/08/22**; Sem Pasta}
+- [Introdução à Entrevista](../cert_ti/04-curso/programming/java_script/(22-09-22)%20Cert%20JS%203%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **22/09/22**; Sem Pasta}
+- [Métodos de Array](../cert_ti/04-curso/programming/java_script/(22-10-24)%20Cert%20JS%204%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **24/10/22**; Sem Pasta}
+- [Animações](../cert_ti/04-curso/programming/java_script/(22-10-24)%20Cert%20JS%205%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **24/10/22**; Sem Pasta}
+- [Animações II](../cert_ti/04-curso/programming/java_script/(23-02-20)%20Cert%20JS%206%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **20/02/23**; Sem Pasta}
 
-<a name="item4.7"><h4>4.7. Programming - Lógica e Algoritmo</h4></a>
+<a name="item4.8"><h4>4.8. Programming - Lógica e Algoritmo</h4></a>
 [Back to item 4](#item4)
 
 - [Lógica 18+](../cert_ti/04-curso/programming/logica_algoritmo/(22-04-29)%20Cert%20Lógica%2018+%20PH%20SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **29/04/22**; [Pasta do Projeto]()}
 - [Introdução à Programação e Pensamento Computacional](../cert_ti/04-curso/programming/logica_algoritmo/(22-10-09)%20...Programação%20e%20Pensamento%20Computacional%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **09/10/22**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/01.05-logica_programacao)}
 
-<a name="item4.8"><h4>4.8. Programming - Python</h4></a>
+<a name="item4.9"><h4>4.9. Programming - Python</h4></a>
 [Back to item 4](#item4)
 
 - [SoulOn  - Python 1](../cert_ti/04-curso/programming/python/(21-11-28)%20Cert%20Mod-1%20Python%20PH%20SCA%20R1.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **28/11/21**; [Pasta do Projeto]()}
 - [SoulOn  - Python 2](../cert_ti/04-curso/programming/python/(22-04-25)%20Cert%20Mod-2%20Python%20PH%20SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**;Concluído em: **25/04/22**; [Pasta do Projeto]()}
 - [SoulOn  - Python 3](../cert_ti/04-curso/programming/python/(22-04-27)%20Cert%20Mod-3%20Python%20PH%20SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **27/04/22**; [Pasta do Projeto]()}
 
-<a name="item4.9"><h4>4.9. Programming - Versioning - Git e GitHub</h4></a>
+<a name="item4.10"><h4>4.10. Programming - Versioning - Git e GitHub</h4></a>
 [Back to item 4](#item4)
 
 - [Git e GitHub](../cert_ti/04-curso/programming/versioning/git_github/(22-06-04)%20Cert%20Git%20e%20GitHub%20PH%20CEV.pdf) {Plataforma: **Curso em Vídeo**; Carga Horária: **20 Horas**; Concluído em: **04/06/22**; [Pasta do Projeto]()}
