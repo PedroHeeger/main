@@ -18,7 +18,7 @@ Olá, meu nome é Pedro Heeger e seja muito bem vindo por ter chegado até aqui.
     3.1. <a href="#item3.1">Profile Repository (pedroheeger)</a><br>
     3.2. <a href="#item3.2">Main Repository (main)</a><br>
     3.3. <a href="#item3.3">Study Repositories</a></details>
-4. <a href="#item4">Curriculum</a>
+4. <a href="#item4">Resume</a>
 5. <details><summary><a href="#item5">Certificate</a></summary>
    5.1. <a href="#item5.1">Technology Certificate</a><br>
    5.2. <a href="#item5.2">Language Certificate</a></details>
@@ -148,7 +148,7 @@ Esses três repositórios são divididos em níveis de sub-divisões de pastas. 
 
 ---
 
-<a name="item4"><h2>4. Curriculum</h2></a>
+<a name="item4"><h2>4. Resume</h2></a>
 [Back to summary](#item0) 
 
 Como dito anteriormente, este repositório foi originado de um fork de um repositório já existente da plataforma **Digital Innovation One - DIO** (*digitalinnovationone/resume*) que contém um template em **HTML** e **CSS** para criação de um currículo online, sendo disponibilizado em um link hospedado no **GitHub Pages**. Acesse o meu currículo [aqui](https://pedroheeger.github.io/main/).
