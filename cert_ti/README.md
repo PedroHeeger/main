@@ -45,8 +45,8 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Engenharia de Dados](../cert_ti/03-conclu/data/(22-01-28)%20Cert%20Eng%20Dados%20PH%20SCA.png) {Plataforma: **SoulCode Academy**; Carga Horária: **480 horas**; Período: **25/10/21 à 28/01/22**; [Pasta do Projeto]()}
 - [Ciência de Dados](../cert_ti/03-conclu/data/(22-11-26)%20Cert%20Geração%20Tech%20Unimed-BH%20-%20Ciência%20de%20Dados%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **126 Horas**; Concluído em: **26/11/22**; [Pasta do Projeto]()}
 - [Linux Experience](../cert_ti/03-conclu/data/(23-08-02)%20Cert%20Linux%20Experience%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **42 Horas**; Concluído em: **02/08/23**; [Pasta do Projeto]()}
-- [Linux Experience](../cert_ti/03-conclu/data/(23-08-02)%20Cert%20Linux%20Experience%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **42 Horas**; Concluído em: **02/08/23**; [Pasta do Projeto]()}
-- [Linux Experience](../cert_ti/03-conclu/data/(23-08-02)%20Cert%20Linux%20Experience%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **42 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto]()}
+- [Formação Linux Fundamentals](../cert_ti/03-conclu/data/(23-08-02)%20Cert%20Linux%20Experience%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **42 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto]()}
+- [Linux do Zero](../cert_ti/03-conclu/data/(23-08-02)%20Cert%20Linux%20Experience%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **44 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03)}
 
 ---
 
@@ -61,8 +61,9 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item4.2"><h4>4.2. Development</h4></a>
 [Back to item 4](#item4)
 
-- [Introdução ao Desenvolvimento Moderno de Software](../cert_ti/04-curso/development/(23-07-03)%20...Desenvolvimento%20Moderno%20de%20Software%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/07/23**; [Pasta do Projeto]()}
-- [Trabalhando em Equipes Ágeis](../cert_ti/04-curso/development/(23-07-03)%20Trabalhando%20em%20Equipes%20Ágeis%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **3 Horas**; Concluído em: **03/07/23**; [Pasta do Projeto]()}
+- [Introdução ao Desenvolvimento Moderno de Software](../cert_ti/04-curso/development/(23-07-03)%20...Desenvolvimento%20Moderno%20de%20Software%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/07/23**; Sem Pasta}
+- [Trabalhando em Equipes Ágeis](../cert_ti/04-curso/development/(23-07-03)%20Trabalhando%20em%20Equipes%20Ágeis%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **3 Horas**; Concluído em: **03/07/23**; Sem Pasta}
+- [DevOps: Tudo o que você precisa saber](../cert_ti/04-curso/development/) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto]()}
 
 <a name="item4.3"><h4>4.3. Network</h4></a>
 [Back to item 4](#item4)
@@ -72,24 +73,24 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item4.4"><h4>4.4. Operating System (OS)</h4></a>
 [Back to item 4](#item4)
 
-- [Introdução ao Sistema Operacional Linux](../cert_ti/04-curso/os/linux/(23-07-11)%20Introdução%20ao%20Sistema%20Operacional%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **11/07/23**; [Pasta do Projeto]()}
-- [Acesso Remoto a Maquinas Linux](../cert_ti/04-curso/os/linux/(23-07-12)%20Acesso%20Remoto%20a%20Maquinas%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **12/07/23**; [Pasta do Projeto]()}
-- [Instalando o Linux](../cert_ti/04-curso/os/linux/(23-07-12)%20Instalando%20o%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **12/07/23**}
-- [Manipulando Arquivos no Linux](../cert_ti/04-curso/os/linux/(23-07-13)%20Manipulando%20Arquivos%20no%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **3 Horas**; Concluído em: **13/07/23**; [Pasta do Projeto]()}
-- [Gerenciamento de Discos Linux](../cert_ti/04-curso/os/linux/(23-07-27)%20Gerenciamento%20de%20Discos%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **27/07/23**; [Pasta do Projeto]()}
-- [Gerenciamento de Pacotes Linux](../cert_ti/04-curso/os/linux/(23-07-27)%20Gerenciamento%20de%20Pacotes%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **27/07/23**; [Pasta do Projeto]()}
-- [Gerenciando Usuários no Linux](../cert_ti/04-curso/os/linux/(23-07-27)%20Gerenciando%20Usuários%20no%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **27/07/23**; [Pasta do Projeto]()}
-- [Copiando Arquivos e Manipulando Processos](../cert_ti/04-curso/os/linux/(23-07-28)%20Copiando%20Arquivos%20e%20Manipulando%20Processos%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **28/07/23**; [Pasta do Projeto]()}
-- [Criando um Servidor Web com Linux](../cert_ti/04-curso/os/linux/(23-07-28)%20Criando%20um%20Servidor%20Web%20com%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **28/07/23**; [Pasta do Projeto]()}
-- [Servidor de Banco de Dados com Linux](../cert_ti/04-curso/os/linux/(23-07-28)%20Servidor%20de%20Banco%20de%20Dados%20com%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **28/07/23**; [Pasta do Projeto]()}
-- [Servidores de Arquivos com Linux](../cert_ti/04-curso/os/linux/(23-07-28)%20Servidores%20de%20Arquivos%20com%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **28/07/23**: [Pasta do Projeto]()}
-- [Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões](../cert_ti/04-curso/os/linux/(23-07-31)%20Iac...Criação...Usuários%2C%20Diretórios%20e%20Permissões%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **31/07/23**}
-- [Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)](../cert_ti/04-curso/os/linux/(23-07-31)%20Iac...Servidor%20Web%20(Apache)%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **31/07/23**; [Pasta do Projeto]()}
+- [Introdução ao Sistema Operacional Linux](../cert_ti/04-curso/os/linux/(23-07-11)%20Introdução%20ao%20Sistema%20Operacional%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **11/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/02-linux#item2.1)}
+- [Acesso Remoto a Maquinas Linux](../cert_ti/04-curso/os/linux/(23-07-12)%20Acesso%20Remoto%20a%20Maquinas%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **12/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/02-linux#item2.3)}
+- [Instalando o Linux](../cert_ti/04-curso/os/linux/(23-07-12)%20Instalando%20o%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **12/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/02-linux#item2.2)}
+- [Manipulando Arquivos no Linux](../cert_ti/04-curso/os/linux/(23-07-13)%20Manipulando%20Arquivos%20no%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **3 Horas**; Concluído em: **13/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/02-linux#item2.4)}
+- [Gerenciamento de Discos Linux](../cert_ti/04-curso/os/linux/(23-07-27)%20Gerenciamento%20de%20Discos%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **27/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/02-linux#item2.7)}
+- [Gerenciamento de Pacotes Linux](../cert_ti/04-curso/os/linux/(23-07-27)%20Gerenciamento%20de%20Pacotes%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **27/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/02-linux#item2.6)}
+- [Gerenciando Usuários no Linux](../cert_ti/04-curso/os/linux/(23-07-27)%20Gerenciando%20Usuários%20no%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **27/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/02-linux#item2.5)}
+- [Copiando Arquivos e Manipulando Processos](../cert_ti/04-curso/os/linux/(23-07-28)%20Copiando%20Arquivos%20e%20Manipulando%20Processos%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **28/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/02-linux#item2.8)}
+- [Criando um Servidor Web com Linux](../cert_ti/04-curso/os/linux/(23-07-28)%20Criando%20um%20Servidor%20Web%20com%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **28/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/03-servidor_linux#item3.2)}
+- [Servidor de Banco de Dados com Linux](../cert_ti/04-curso/os/linux/(23-07-28)%20Servidor%20de%20Banco%20de%20Dados%20com%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **28/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/03-servidor_linux#item3.3)}
+- [Servidores de Arquivos com Linux](../cert_ti/04-curso/os/linux/(23-07-28)%20Servidores%20de%20Arquivos%20com%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **28/07/23**: [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/03-servidor_linux#item3.1)}
+- [Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões](../cert_ti/04-curso/os/linux/(23-07-31)%20Iac...Criação...Usuários%2C%20Diretórios%20e%20Permissões%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **31/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/02-linux#item2.9)}
+- [Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)](../cert_ti/04-curso/os/linux/(23-07-31)%20Iac...Servidor%20Web%20(Apache)%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **31/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/03-servidor_linux#item3.4)}
 
 <a name="item4.5"><h4>4.5. Operating System (OS) - Virtualization - Docker</h4></a>
 [Back to item 4](#item4)
 
-- [Docker: Utilização Prática no Cenário de Microsserviços](../cert_ti/04-curso/os/linux/(23-07-31)%20Docker-Utilização...Cenário%20de%20Microsserviços%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **31/07/23**; [Pasta do Projeto]()}
+- [Docker: Utilização Prática no Cenário de Microsserviços](../cert_ti/04-curso/os/linux/(23-07-31)%20Docker-Utilização...Cenário%20de%20Microsserviços%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **31/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/03-servidor_linux#item3.5)}
 
 <a name="item4.6"><h4>4.6. Programming - JavaScript</h4></a>
 [Back to item 4](#item4)
@@ -106,7 +107,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 [Back to item 4](#item4)
 
 - [Lógica 18+](../cert_ti/04-curso/programming/logica_algoritmo/(22-04-29)%20Cert%20Lógica%2018+%20PH%20SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **29/04/22**; [Pasta do Projeto]()}
-- [Introdução à Programação e Pensamento Computacional](../cert_ti/04-curso/programming/logica_algoritmo/(22-10-09)%20...Programação%20e%20Pensamento%20Computacional%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **09/10/22**; [Pasta do Projeto]()}
+- [Introdução à Programação e Pensamento Computacional](../cert_ti/04-curso/programming/logica_algoritmo/(22-10-09)%20...Programação%20e%20Pensamento%20Computacional%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **09/10/22**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/01.05-logica_programacao)}
 
 <a name="item4.8"><h4>4.8. Programming - Python</h4></a>
 [Back to item 4](#item4)
@@ -120,7 +121,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 
 - [Git e GitHub](../cert_ti/04-curso/programming/versioning/git_github/(22-06-04)%20Cert%20Git%20e%20GitHub%20PH%20CEV.pdf) {Plataforma: **Curso em Vídeo**; Carga Horária: **20 Horas**; Concluído em: **04/06/22**; [Pasta do Projeto]()}
 - [Introdução ao Git e ao GitHub](../cert_ti/04-curso/programming/versioning/git_github/(22-10-31)%20Introdução%20ao%20Git%20e%20ao%20GitHub%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **31/10/22**; [Pasta do Projeto]()}
-- [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](../cert_ti/04-event/programming/versioning/git_github/(22-11-08)%20Criando%20seu%20Primeiro%20Repositório%20no%20GitHub...%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **08/11/22**}
+- [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](../cert_ti/04-event/programming/versioning/git_github/(22-11-08)%20Criando%20seu%20Primeiro%20Repositório%20no%20GitHub...%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **08/11/22**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/01.07-github)}
 
 ---
 
