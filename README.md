@@ -318,9 +318,9 @@ These are my main projects from my repositories.
 <a name="item10.2"><h3>10.2. Course (Study Repository)</h3></a>
 [Back to item 10](#item10)
 
-- <a href="https://github.com/PedroHeeger/course/tree/main/hashtag/power_bi/curso_041">curso_041 (Intensivão de Power BI 2023)   <img src="https://github.com/PedroHeeger/course/tree/main/hashtag/power_bi/curso_041/0-aux/logo_course.png" alt="curso_041" width="auto" height="25"></a>
+- <a href="https://github.com/PedroHeeger/course/tree/main/hashtag/power_bi/curso_041">curso_041 (Intensivão de Power BI 2023)   <img src="https://github.com/PedroHeeger/course/blob/main/hashtag/power_bi/curso_041/0-aux/logo_course.png" alt="curso_041" width="auto" height="25"></a>
 
-- <a href="https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_043">curso_043 (Simplifica Power Excel)   <img src="https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_043/0-aux/logo_course.png" alt="curso_043" width="auto" height="25"></a>
+- <a href="https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_043">curso_043 (Simplifica Power Excel)   <img src="https://github.com/PedroHeeger/course/blob/main/simplifica_trein/power_bi/curso_043/0-aux/logo_course.png" alt="curso_043" width="auto" height="25"></a>
 
 - <a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_048">curso_048 (Minicurso Power BI Experience)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_048/0-aux/logo_course.png" alt="curso_048" width="auto" height="25"></a>
 
