@@ -45,9 +45,9 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 
 - [Engenharia de Dados](../cert_ti/03-conclu/data/(22-01-28)%20Cert%20Eng%20Dados%20PH%20SCA.png) {Plataforma: **SoulCode Academy**; Carga Horária: **480 horas**; Período: **25/10/21 à 28/01/22**; [Pasta do Projeto]()}
 - [Ciência de Dados](../cert_ti/03-conclu/data/(22-11-26)%20Cert%20Geração%20Tech%20Unimed-BH%20-%20Ciência%20de%20Dados%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **126 Horas**; Concluído em: **26/11/22**; [Pasta do Projeto]()}
-- [Linux Experience](../cert_ti/03-conclu/os/linux/(23-08-02)%20Cert%20Linux%20Experience%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **42 Horas**; Concluído em: **02/08/23**; [Pasta do Projeto]()}
-- [Formação Linux Fundamentals](../cert_ti/03-conclu/os/linux/(23-08-02)%20Cert%20Linux%20Experience%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **42 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto]()}
 - [Linux do Zero](../cert_ti/03-conclu/os/linux/(23-08-03)%20Cert%20Linux%20do%20Zero%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **44 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03)}
+- [Linux Experience](../cert_ti/03-conclu/os/linux/(23-08-02)%20Cert%20Linux%20Experience%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **42 Horas**; Concluído em: **02/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_004)}
+- [Formação Linux Fundamentals](../cert_ti/03-conclu/os/linux/(23-08-03)%Cert%Formacao%Linux%Fundamentals%PH%DIO.pdf) {Plataforma: **DIO**; Carga Horária: **23 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005)}
 
 ---
 
@@ -57,7 +57,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item4.1"><h4>4.1. Data - Excel</h4></a>
 [Back to item 4](#item4)
 
-- [Excel 2010 - Básico](../cert_ti/04-curso/data/excel/(20-08-14)%20Cert%20Excel%20Básic%20PH%20UIATEC.pdf) {Plataforma: **UAITEC**; Carga Horária: **40 Horas**; Concluído em: **14/08/2020**}
+- [Excel 2010 - Básico](../cert_ti/04-curso/data/excel/(20-08-14)%20Cert%20Excel%20Básic%20PH%20UIATEC.pdf) {Plataforma: **UAITEC**; Carga Horária: **40 Horas**; Concluído em: **14/08/2020**; Sem Pasta}
 
 <a name="item4.2"><h4>4.2. Development</h4></a>
 [Back to item 4](#item4)
@@ -91,6 +91,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Servidores de Arquivos com Linux](../cert_ti/04-curso/os/linux/(23-07-28)%20Servidores%20de%20Arquivos%20com%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **28/07/23**: [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/03-servidor_linux#item3.1)}
 - [Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões](../cert_ti/04-curso/os/linux/(23-07-31)%20Iac...Criação...Usuários%2C%20Diretórios%20e%20Permissões%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **31/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/02-linux#item2.9)}
 - [Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)](../cert_ti/04-curso/os/linux/(23-07-31)%20Iac...Servidor%20Web%20(Apache)%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **31/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/03-servidor_linux#item3.4)}
+- [Conhecendo o Linux Desktop](../cert_ti/04-curso/os/linux/(23-08-03)%Conhecendo%o%Linux%Desktop%PH%DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005#item5.1)}
 
 <a name="item4.6"><h4>4.6. Operating System (OS) - Virtualization - Docker</h4></a>
 [Back to item 4](#item4)
