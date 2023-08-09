@@ -148,6 +148,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Simplifica Power Excel](../cert_ti/05-particip/data/power_bi/(23-05-22)%20Cert%20Power%20BI%20e%20Excel%20PH%20Simplifica%20Trein.pdf) {Plataforma: **Simplifica Treinamentos**; Carga Horária: **10 Horas**; Concluído em: **22/05/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_043)}
 - [Intensivão de Power BI 2023](../cert_ti/05-particip/data/power_bi/(23-05-11)%20Cert%20Power%20BI%20PH%20Hashtag%20(Intensivão).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **8 Horas**; Concluído em: **11/05/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/hashtag/power_bi/curso_041)}
 - [Acelerador de Carreira com Power BI](../cert_ti/05-particip/data/power_bi/(23-07-16)%20Cert%20Power%20BI%20PH%20Empowerdata%20(Acelerador%20de%20Carreiras).pdf) {Plataforma: **Empowerdata**; Carga Horária: **8 Horas**; Concluído em: **13/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/blob/main/empowerdata/power_bi/curso_073)}
+- [Simplifica Power BI](../cert_ti/05-particip/data/power_bi/) {Plataforma: **Simplifica Treinamentos**; Carga Horária: **10 Horas**; Concluído em: **10/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_075)}
 
 <a name="item5.3"><h4>5.3. Development - Devops</h4></a>
 [Back to item 5](#item5)

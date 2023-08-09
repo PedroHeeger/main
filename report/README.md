@@ -197,6 +197,44 @@ Neste repositório apresento todos os reports e dashboards (relatórios e painei
         <figcaption>Report Vendas (Mobile).</figcaption></a>
     </figure></div>
 
+- 002 - Desafio Kickstart | Filmes Netflix
+  - Plataforma: **Xperiun**   <img src="../0-aux/logos/plataforma/xperiun.png" alt="xperiun" width="auto" height="25">
+  - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_074)
+    <div align="Center"><figure>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiY2I3Mzg5YTEtYTM2Ni00MTllLThlNjQtZTc3NDkzZTFkZDU0IiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_074_avaliacao_titulos.png" alt="curso_074"><br>
+        <figcaption>Report Avaliação de Títulos.</figcaption></a>
+    </figure></div>
+
+- [Simplifica Power BI](../cert_ti/05-particip/data/power_bi/)
+  - Plataforma: **Simplifica Treinamentos**   <img src="../0-aux/logos/plataforma/simplifica_treinamentos.png" alt="simplifica_treinamentos" width="auto" height="25">
+  - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_075)
+  - Aula 1
+    <div align="Center"><figure>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiMDQ0MWEwNTMtZjQwMS00ODVhLWEyMGMtMGRlYTQ4ZTU5MWNlIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9&pageName=ReportSection"><img src="./power_bi/rep_curso_075.1_vendas.png" alt="curso_075.1"><br>
+        <figcaption>Report Vendas.</figcaption></a>
+    </figure></div>
+    <div align="Center"><figure>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiMDQ0MWEwNTMtZjQwMS00ODVhLWEyMGMtMGRlYTQ4ZTU5MWNlIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_075.1_vendas_mob.png" alt="curso_075.1_mob"><br>
+        <figcaption>Report Vendas (Mobile).</figcaption></a>
+    </figure></div>
+  - Aula 2
+    <div align="Center"><figure>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiNWIxMzJhYzktNTk5Yy00NGM0LWI0Y2QtOGFlNzI2MDM0OTQ1IiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_075.2_atendimentos.png" alt="curso_075.2"><br>
+        <figcaption>Report Atendimentos.</figcaption></a>
+    </figure></div>
+
+  - Aula 3
+    <div align="Center"><figure>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiNDRlNmU5NTMtYjk0ZC00NGI2LTkyYTMtZTdmOWQ2NjhiNDRkIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_043_vendas.PNG" alt="curso_043.2"><br>
+        <figcaption>Report Vendas.</figcaption></a>
+    </figure></div>
+
+  - Aula 4
+    <div align="Center"><figure>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiNDRlNmU5NTMtYjk0ZC00NGI2LTkyYTMtZTdmOWQ2NjhiNDRkIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_043_vendas.PNG" alt="curso_043.2"><br>
+        <figcaption>Report Vendas.</figcaption></a>
+    </figure></div>
+
 ---
 
 <a name="item3"><h2>3. Outros</h2></a>

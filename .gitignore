@@ -5,3 +5,5 @@ cert_ti/02-selos
 cert_ti/03-conclu/data/mat
 cert_ti/03-conclu/os/linux/mat
 cert_ti/03-conclu/os/linux/mod
+cert_ti/03-conclu/os/virtualization/docker/mat
+cert_ti/03-conclu/os/virtualization/docker/mod
