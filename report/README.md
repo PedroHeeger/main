@@ -222,17 +222,15 @@ Neste repositório apresento todos os reports e dashboards (relatórios e painei
         <a href="https://app.powerbi.com/view?r=eyJrIjoiNWIxMzJhYzktNTk5Yy00NGM0LWI0Y2QtOGFlNzI2MDM0OTQ1IiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_075.2_atendimentos.png" alt="curso_075.2"><br>
         <figcaption>Report Atendimentos.</figcaption></a>
     </figure></div>
-
   - Aula 3
     <div align="Center"><figure>
-        <a href="https://app.powerbi.com/view?r=eyJrIjoiNDRlNmU5NTMtYjk0ZC00NGI2LTkyYTMtZTdmOWQ2NjhiNDRkIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_043_vendas.PNG" alt="curso_043.2"><br>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiMWZjZTIwNjktODQ3Ny00OTg2LWFlYjEtYzQ3MGMwMjM0NzhlIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_075.3_vendas1.png" alt="curso_075.3"><br>
         <figcaption>Report Vendas.</figcaption></a>
     </figure></div>
-
   - Aula 4
     <div align="Center"><figure>
-        <a href="https://app.powerbi.com/view?r=eyJrIjoiNDRlNmU5NTMtYjk0ZC00NGI2LTkyYTMtZTdmOWQ2NjhiNDRkIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_043_vendas.PNG" alt="curso_043.2"><br>
-        <figcaption>Report Vendas.</figcaption></a>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiY2Y5YTY4ODctZTA5Zi00Y2MyLThmMDYtMjE2MjI3Y2QwZDhmIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_075.4_analise_perfil.png" alt="curso_075.4"><br>
+        <figcaption>Report Análise de Perfil.</figcaption></a>
     </figure></div>
 
 ---
