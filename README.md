@@ -336,4 +336,4 @@ These are my main projects from my repositories.
 
 - <a href="https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_075">curso_075 (Simplifica Power BI)   <img src="https://github.com/PedroHeeger/course/blob/main/simplifica_trein/power_bi/curso_075/0-aux/logo_course.png" alt="curso_075" width="auto" height="25"></a>
 
-- <a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077">curso_077 (Linux Fundamentals)   <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_077/0-aux/logo_course.png" alt="curso_077" width="auto" height="25"></a>
+- <a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077">curso_077 (Linux Fundamentals)   <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_077/0-aux/logo_course.jpg" alt="curso_077" width="auto" height="25"></a>
