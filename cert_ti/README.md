@@ -54,6 +54,8 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Formação Linux Fundamentals](../cert_ti/03-conclu/os/linux/(23-08-03)%20Cert%20Formacao%20Linux%20Fundamentals%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **23 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005)}
 - [Formação Docker Fundamentals](../cert_ti/03-conclu/os/virtualization/docker/(23-08-22)%20Cert%20Formacao%20Docker%20Fundamentals%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **15 Horas**; Concluído em: **22/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006)}
 - [Formação HTML Web Developer](../cert_ti/03-conclu/programming/html/(23-08-25)%20Cert%20Formacao%20HTML%20Web%20Developer%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **21 Horas**; Concluído em: **25/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007)}
+- [Descubra a Nuvem AWS - Nexa Resources](../cert_ti/03-conclu/cloud/aws/(23-09-14)%20Descubra%20a%20Nuvem%20AWS%20-%20Nexa%20Resources%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **6 Horas**; Concluído em: **14/09/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_013)}
+- [Descubra a Nuvem AWS – LocalizaLabs](../cert_ti/03-conclu/cloud/aws/(23-09-14)%20Descubra%20a%20Nuvem%20AWS%20-%20LocalizaLabs%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **14/09/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_014)}
 
 ---
 
