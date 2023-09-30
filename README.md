@@ -305,7 +305,8 @@ These are my study repositories, where I create my specific projects for each st
 
 ---
 
-<a name="item10"><h2>10. Main Projects</h2></a>
+<!-- <a name="item10"><h2>10. Main Projects</h2></a>
+
 [Back to summary](#item0) 
 
 These are my main projects from my repositories.
@@ -336,4 +337,167 @@ These are my main projects from my repositories.
 
 - <a href="https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_075">curso_075 (Simplifica Power BI)   <img src="https://github.com/PedroHeeger/course/blob/main/simplifica_trein/power_bi/curso_075/0-aux/logo_course.png" alt="curso_075" width="auto" height="25"></a>
 
-- <a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077">curso_077 (Linux Fundamentals)   <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_077/0-aux/logo_course.jpg" alt="curso_077" width="auto" height="25"></a>
+- <a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077">curso_077 (Linux Fundamentals)   <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_077/0-aux/logo_course.jpg" alt="curso_077" width="auto" height="25"></a> -->
+
+
+
+<details>
+<summary><a name="item10"><h2 style="margin: 0;">10. Main Projects</h2></a></summary>
+    <details><summary>Cloud Computing</summary>
+        <ul>
+            <li><details><summary>AWS</summary>
+                <ul>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011">boot_011 (Bootcamp Cloud AWS)   <img src="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/0-aux/logo_boot.png" alt="boot_011" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_012">boot_012 (Formação AWS Cloud Practitioner Certification)   <img src="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_012/0-aux/logo_boot.png" alt="boot_012" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_013">boot_013 (Descubra a Nuvem AWS - Nexa Resources)   <img src="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_013/0-aux/logo_boot.png" alt="boot_013" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_014">boot_014 (Descubra a Nuvem AWS – LocalizaLabs)   <img src="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_014/0-aux/logo_boot.png" alt="boot_014" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
+    <details><summary>Big Data</summary>
+        <ul>
+            <li><details><summary>Apache Kafka</summary>
+                <ul>
+                    <li><a href="">boot_ ()   <img src="" alt="" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>Apache Spark</summary>
+                <ul>
+                    <li><a href="">boot_ ()   <img src="" alt="" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>Databricks</summary>
+                <ul>
+                    <li><a href="">boot_ ()   <img src="" alt="" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
+    <details><summary>Cluster Management Software</summary>
+        <ul>
+            <li><details><summary>Kubernetes</summary>
+                <ul>
+                    <li><a href="">boot_ ()   <img src="" alt="" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
+    <details><summary>Configuration Management (CM)</summary>
+        <ul>
+            <li><details><summary>Terraform</summary>
+                <ul>
+                    <li><a href="">boot_ ()   <img src="" alt="" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
+    <details><summary>Data</summary>
+        <ul>
+            <li><details><summary>Power BI</summary>
+                <ul>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/hashtag/power_bi/curso_041">curso_041 (Intensivão de Power BI 2023)   <img src="https://github.com/PedroHeeger/course/blob/main/hashtag/power_bi/curso_041/0-aux/logo_course.png" alt="curso_041" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_043">curso_043 (Simplifica Power Excel)   <img src="https://github.com/PedroHeeger/course/blob/main/simplifica_trein/power_bi/curso_043/0-aux/logo_course.png" alt="curso_043" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_048">curso_048 (Minicurso Power BI Experience)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_048/0-aux/logo_course.png" alt="curso_048" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_051">curso_051 (Desafio Missão ZERO - Bootcamp HPN)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_051/0-aux/logo_course.png" alt="curso_051" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_069">curso_069 (Desafio Kickstart 1  | Atendimento Laboratorial)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_069/0-aux/logo_course.png" alt="curso_069" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/xperiun/power_bi/curso_074">curso_074 (002 - Desafio Kickstart | Filmes Netflix)   <img src="https://github.com/PedroHeeger/course/blob/main/xperiun/power_bi/curso_074/0-aux/logo_course.png" alt="curso_074" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_075">curso_075 (Simplifica Power BI)   <img src="https://github.com/PedroHeeger/course/blob/main/simplifica_trein/power_bi/curso_075/0-aux/logo_course.png" alt="curso_075" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>MySQL Server</summary>
+                <ul>
+                    <li><a href="">boot_ ()   <img src="" alt="" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
+    <details><summary>Operating System (OS)</summary>
+        <ul>
+            <li><details><summary>Linux</summary>
+                <ul>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003">boot_003 (Linux do Zero)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_003/0-aux/logo_boot.png" alt="boot_003" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_004">boot_004 (Linux Experience)   <img src="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_004/0-aux/logo_boot.png" alt="boot_004" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005">boot_005 (Formação Linux Fundamentals)   <img src="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005/0-aux/logo_boot.png" alt="boot_005" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077">curso_077 (Linux Fundamentals)   <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_077/0-aux/logo_course.jpg" alt="curso_077" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
+    <details><summary>Programming</summary>
+        <ul>
+            <li><details><summary>HTML</summary>
+                <ul>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007">boot_007 (Formação HTML Web Developer)   <img src="https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/0-aux/logo_boot.png" alt="boot_007" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>Java</summary>
+                <ul>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010">boot_010 (Formação Java Developer)   <img src="https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/0-aux/logo_boot.png" alt="boot_010" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>Python</summary>
+                <ul>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/dio/python/curso_066">curso_066 (Dev Week - Ifood Ciência de Dados com Python)   <img src="https://github.com/PedroHeeger/course/blob/main/dio/python/curso_066/0-aux/dev_week.png" alt="curso_066" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>Spring</summary>
+                <ul>
+                    <li><a href="">boot_ ()   <img src="" alt="" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>        
+    <details><summary>Programming Logic</summary>
+        <ul>
+            <li><details><summary>???</summary>
+                <ul>
+                    <li><a href="">boot_ ()   <img src="" alt="" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
+    <details><summary>Versioning</summary>
+        <ul>
+            <li><details><summary>???</summary>
+                <ul>
+                    <li><a href="">boot_ ()   <img src="" alt="" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
+    <details><summary>Virtualization</summary>
+        <ul>
+            <li><details><summary>Docker</summary>
+                <ul>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006">boot_006 (Formação Docker Fundamentals)   <img src="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/0-aux/logo_boot.png" alt="boot_006" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
+    <details><summary>Web Devolopment</summary>
+        <ul>
+            <li><details><summary>???</summary>
+                <ul>
+                    <li><a href="">boot_ ()   <img src="" alt="" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
+    <details><summary>Workflow Management System (WFMS)</summary>
+        <ul>
+            <li><details><summary>Apache Airflow</summary>
+                <ul>
+                    <li><a href="">boot_ ()   <img src="" alt="" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+            <li><details><summary>GitHub Actions</summary>
+                <ul>
+                    <li><a href="">boot_ ()   <img src="" alt="" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
+</details>
+
+[Back to summary](#item0) 
