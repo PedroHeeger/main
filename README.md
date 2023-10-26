@@ -415,7 +415,7 @@ These are my main projects from my repositories.
     </details>
     <details><summary>DevOps</summary>
         <ul>
-            <li><details><summary>DevOps   <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/contentdevops.png" alt="devops" width="auto" height="25"></summary>
+            <li><details><summary>DevOps   <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/content/devops.png" alt="devops" width="auto" height="25"></summary>
                 <ul>
                     <li><a href="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_081">curso_081 (Imersão DevOps & Cloud 1)   <img src="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_081/0-aux/logo_course.png" alt="curso_081" width="auto" height="25"></a></li>
                 </ul>
