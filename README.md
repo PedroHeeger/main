@@ -413,6 +413,15 @@ These are my main projects from my repositories.
             </details></li>
         </ul>
     </details>
+    <details><summary>DevOps</summary>
+        <ul>
+            <li><details><summary>DevOps   <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/contentdevops.png" alt="devops" width="auto" height="25"></summary>
+                <ul>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/outros/fabricio_veronez/devops/curso_081">curso_081 (Imersão DevOps & Cloud 1)   <img src="https://github.com/PedroHeeger/course/tree/main/outros/fabricio_veronez/devops/curso_081/0-aux/logo_course.png" alt="curso_081" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
     <details><summary>Operating System (OS)</summary>
         <ul>
             <li><details><summary>Linux   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="auto" height="25"></summary>
