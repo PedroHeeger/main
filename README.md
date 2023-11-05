@@ -182,6 +182,9 @@ Neste repositório é disponibilizado, em uma sub-pasta, todos os reports e dash
 [Back to summary](#item0)
 
 - Começando com Linux: Comandos, serviços e administração - Casa do Código
+- Linux Fundamentals - 4.Linux
+- Linux Essentials - 4.Linux
+- Linux Gerencia de Pacotes - IFRN
 
 ---
 
