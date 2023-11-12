@@ -399,6 +399,16 @@ These are my main projects from my repositories.
             </details></li>
         </ul>
     </details>
+    <details><summary>Containerization</summary>
+        <ul>
+            <li><details><summary>Docker   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="auto" height="25"></summary>
+                <ul>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006">boot_006 (Formação Docker Fundamentals)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/docker/boot_006/0-aux/logo_boot.png" alt="boot_006" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/docker/curso_084">curso_084 (Containers Fundamentals)   <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/docker/curso_084/0-aux/logo_course.jpg" alt="curso_084" width="auto" height="25"></a></li>
+                </ul>
+            </details></li>
+        </ul>
+    </details>
     <details><summary>Data</summary>
         <ul>
             <li><details><summary>Power BI   <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/software/microsoft_powerbi.png" alt="powerbi" width="auto" height="25"></summary>
@@ -424,6 +434,7 @@ These are my main projects from my repositories.
             <li><details><summary>DevOps   <img src="https://github.com/PedroHeeger/main/blob/main/0-aux/logos/content/devops.png" alt="devops" width="auto" height="25"></summary>
                 <ul>
                     <li><a href="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_081">curso_081 (Imersão DevOps & Cloud 1)   <img src="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_081/0-aux/logo_course.png" alt="curso_081" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/devops/curso_085">curso_085 (DevOps Essentials)   <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/devops/curso_085/0-aux/logo_course.jpg" alt="curso_085" width="auto" height="25"></a></li>
                 </ul>
             </details></li>
         </ul>
@@ -436,6 +447,7 @@ These are my main projects from my repositories.
                     <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_004">boot_004 (Linux Experience)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_004/0-aux/logo_boot.png" alt="boot_004" width="auto" height="25"></a></li>
                     <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005">boot_005 (Formação Linux Fundamentals)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/linux/boot_005/0-aux/logo_boot.png" alt="boot_005" width="auto" height="25"></a></li>
                     <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077">curso_077 (Linux Fundamentals)   <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_077/0-aux/logo_course.jpg" alt="curso_077" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_083">curso_083 (Linux Essentials)   <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/linux/curso_083/0-aux/logo_course.jpg" alt="curso_083" width="auto" height="25"></a></li>
                 </ul>
             </details></li>
         </ul>
@@ -478,15 +490,6 @@ These are my main projects from my repositories.
             <li><details><summary>???</summary>
                 <ul>
                     <li><a href="">boot_ ()   <img src="" alt="" width="auto" height="25"></a></li>
-                </ul>
-            </details></li>
-        </ul>
-    </details>
-    <details><summary>Virtualization</summary>
-        <ul>
-            <li><details><summary>Docker   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="auto" height="25"></summary>
-                <ul>
-                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006">boot_006 (Formação Docker Fundamentals)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/docker/boot_006/0-aux/logo_boot.png" alt="boot_006" width="auto" height="25"></a></li>
                 </ul>
             </details></li>
         </ul>
