@@ -110,6 +110,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 [Back to item 4](#item4)
 
 - [DevOps: Tudo o que você precisa saber](../cert_ti/04-curso/development/devops/(23-08-03)%20DevOps...%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto]()}
+- [523 - DevOps Essentials](../cert_ti/04-curso/development/devops/(23-11-12)%20DevOps%20Essentials%20PH%204.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **12 Horas**; Concluído em: **12/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/devops/curso_085)}
 
 <a name="item4.8"><h4>4.8. Network</h4></a>
 [Back to item 4](#item4)
@@ -134,6 +135,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)](../cert_ti/04-curso/os/linux/(23-07-31)%20Iac...Servidor%20Web%20(Apache)%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **31/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/03-servidor_linux#item3.4)}
 - [Conhecendo o Linux Desktop](../cert_ti/04-curso/os/linux/(23-08-03)%20Conhecendo%20o%20Linux%20Desktop%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005#item5.1)}
 - [701 - Linux Fundamentals](../cert_ti/04-curso/os/linux/(23-08-22)%20Linux%20Fundamentals%20PH%204.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **20 Horas**; Concluído em: **22/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077)}
+- [702 - Linux Essentials](../cert_ti/04-curso/os/linux/(23-11-05)%20Linux%20Essentials%20PH%204.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **20 Horas**; Concluído em: **05/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_083)}
 
 <a name="item4.10"><h4>4.10. Operating System (OS) - Virtualization - Docker</h4></a>
 [Back to item 4](#item4)
@@ -149,6 +151,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Load Balancer](../cert_ti/04-curso/os/virtualization/docker/(23-08-21)%20Load%20Balancer%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **21/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.2)}
 - [Criando um Cluster com o Docker Swarm](../cert_ti/04-curso/os/virtualization/docker/(23-08-22)%20Criando%20um%20Cluster%20com%20o%20Docker%20Swarm%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **22/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.1)}
 - [Definição de um Cluster Swarm Local com o Vagrant](../cert_ti/04-curso/os/virtualization/docker/(23-08-22)%20Definição%20de%20um%20Cluster%20Swarm%20Local%20com%20o%20Vagrant%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **22/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.3)}
+- [538 - Containers Fundamentals](../cert_ti/04-curso/os/virtualization/docker/(23-11-09)%20Containers%20Fundamentals%20PH%204.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **20 Horas**; Concluído em: **09/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/docker/curso_084)}
 
 <a name="item4.11"><h4>4.11. Programming - Lógica e Algoritmo</h4></a>
 [Back to item 4](#item4)

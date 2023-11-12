@@ -185,6 +185,9 @@ Neste repositório é disponibilizado, em uma sub-pasta, todos os reports e dash
 - Linux Fundamentals - 4.Linux
 - Linux Essentials - 4.Linux
 - Linux Gerencia de Pacotes - IFRN
+- Containers Fundamentls - 4.Linux
+- Containers com Docker: Do desenvolvimento à producão - Cada do Código
+- DevOps Essentials - 4.Linux
 
 ---
 
