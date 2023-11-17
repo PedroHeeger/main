@@ -233,6 +233,25 @@ Neste repositório apresento todos os reports e dashboards (relatórios e painei
         <figcaption>Report Análise de Perfil.</figcaption></a>
     </figure></div>
 
+- [Semana Power BI](../cert_ti/05-particip/data/power_bi/)
+  - Plataforma: **Cubo Três**   <img src="../0-aux/logos/plataforma/cubo_tres.jpeg" alt="cubo_tres" width="auto" height="25">
+  - [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/cubo_tres/power_bi/curso_091)
+  - Aula 1
+    <div align="Center"><figure>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiNDlhMDYxZjktZGQ1OS00M2E4LThmYTUtNzlkMzY1Zjc0NGRkIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_091.1_comercial.png" alt="curso_091.1"><br>
+        <figcaption>Report Comercial.</figcaption></a>
+    </figure></div>
+  - Aula 2
+    <div align="Center"><figure>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiNDlhMDYxZjktZGQ1OS00M2E4LThmYTUtNzlkMzY1Zjc0NGRkIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9" alt="curso_091.2"><br>
+        <figcaption>Report Análise de Produtos.</figcaption></a>
+    </figure></div>
+  - Aula 3
+    <div align="Center"><figure>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiNDlhMDYxZjktZGQ1OS00M2E4LThmYTUtNzlkMzY1Zjc0NGRkIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9" alt="curso_091.3"><br>
+        <figcaption>Report Fluxo de Caixa.</figcaption></a>
+    </figure></div>
+
 ---
 
 <a name="item3"><h2>3. Outros</h2></a>
