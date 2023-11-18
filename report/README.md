@@ -243,12 +243,12 @@ Neste repositório apresento todos os reports e dashboards (relatórios e painei
     </figure></div>
   - Aula 2
     <div align="Center"><figure>
-        <a href="https://app.powerbi.com/view?r=eyJrIjoiNDlhMDYxZjktZGQ1OS00M2E4LThmYTUtNzlkMzY1Zjc0NGRkIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9" alt="curso_091.2"><br>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiNDlhMDYxZjktZGQ1OS00M2E4LThmYTUtNzlkMzY1Zjc0NGRkIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_091.2_analise_produtos.png" alt="curso_091.2"><br>
         <figcaption>Report Análise de Produtos.</figcaption></a>
     </figure></div>
   - Aula 3
     <div align="Center"><figure>
-        <a href="https://app.powerbi.com/view?r=eyJrIjoiNDlhMDYxZjktZGQ1OS00M2E4LThmYTUtNzlkMzY1Zjc0NGRkIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9" alt="curso_091.3"><br>
+        <a href="https://app.powerbi.com/view?r=eyJrIjoiNDlhMDYxZjktZGQ1OS00M2E4LThmYTUtNzlkMzY1Zjc0NGRkIiwidCI6ImI1NTJmZWJlLWFkMjgtNGI4Ny1iZjI5LTFlODhiYmZkY2I4ZiJ9"><img src="./power_bi/rep_curso_091.3_fluxo_caixa.png" alt="curso_091.3"><br>
         <figcaption>Report Fluxo de Caixa.</figcaption></a>
     </figure></div>
 
