@@ -110,7 +110,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 [Back to item 4](#item4)
 
 - [DevOps: Tudo o que você precisa saber](../cert_ti/04-curso/development/devops/(23-08-03)%20DevOps...%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto]()}
-- [523 - DevOps Essentials](../cert_ti/04-curso/development/devops/(23-11-12)%20DevOps%20Essentials%20PH%204.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **12 Horas**; Concluído em: **12/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/devops/curso_085)}
+- [523 - DevOps Essentials](../cert_ti/04-curso/development/devops/(23-11-12)%20DevOps%20Essentials%20PH%204.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **20 Horas**; Concluído em: **12/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/devops/curso_085)}
 
 <a name="item4.8"><h4>4.8. Network</h4></a>
 [Back to item 4](#item4)
@@ -261,6 +261,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Intensivão de Power BI 2023](../cert_ti/05-particip/data/power_bi/(23-05-11)%20Cert%20Power%20BI%20PH%20Hashtag%20(Intensivão).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **8 Horas**; Concluído em: **11/05/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/hashtag/power_bi/curso_041)}
 - [Acelerador de Carreira com Power BI](../cert_ti/05-particip/data/power_bi/(23-07-16)%20Cert%20Power%20BI%20PH%20Empowerdata%20(Acelerador%20de%20Carreiras).pdf) {Plataforma: **Empowerdata**; Carga Horária: **8 Horas**; Concluído em: **13/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/blob/main/empowerdata/power_bi/curso_073)}
 - [Simplifica Power BI Express](../cert_ti/05-particip/data/power_bi/(23-08-15)%20Cert%20Power%20BI%20PH%20Simplifica%20Trein.pdf) {Plataforma: **Simplifica Treinamentos**; Carga Horária: **10 Horas**; Concluído em: **10/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_075)}
+- [Semana Power BI](../cert_ti/05-particip/data/power_bi/(23-11-19)%20Cert%20Power%20BI%20PH%20Cubo%20Três%20(Semana).pdf) {Plataforma: **Cubo Três**; Carga Horária: **8 Horas**; Concluído em: **19/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/cubo_tres/power_bi/curso_091)}
 
 <a name="item5.3"><h4>5.3. Development - Devops</h4></a>
 [Back to item 5](#item5)
