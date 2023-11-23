@@ -358,6 +358,7 @@ These are my main projects from my repositories.
                     <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_012">boot_012 (Formação AWS Cloud Practitioner Certification)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/aws/boot_012/0-aux/logo_boot.png" alt="boot_012" width="auto" height="25"></a></li>
                     <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_013">boot_013 (Descubra a Nuvem AWS - Nexa Resources)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/aws/boot_013/0-aux/logo_boot.png" alt="boot_013" width="auto" height="25"></a></li>
                     <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_014">boot_014 (Descubra a Nuvem AWS – LocalizaLabs)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/aws/boot_014/0-aux/logo_boot.png" alt="boot_014" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_094">curso_094 (Elementos essenciais do AWS Cloud Practitioner)   <img src="https://github.com/PedroHeeger/course/blob/main/aws_skill_builder/aws/curso_094/0-aux/logo_course.png" alt="curso_094" width="auto" height="25"></a></li>
                 </ul>
             </details></li>
         </ul>

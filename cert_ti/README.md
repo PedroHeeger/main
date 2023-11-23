@@ -94,6 +94,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Descubra a Nuvem](../cert_ti/04-curso/cloud/aws/(23-09-14)%20Descubra%20a%20Nuvem%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **14/09/2023**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_013#item1.1)}
 - [Conhecendo os Serviços da AWS](../cert_ti/04-curso/cloud/aws/(23-09-14)%20Conhecendo%20os%20Serviços%20da%20AWS%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **14/09/2023**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_013#item1.2)}
 - [Criando sua Conta na AWS](../cert_ti/04-curso/cloud/aws/(23-09-14)%20Criando%20sua%20Conta%20na%20AWS%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **14/09/2023**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_013#item1.6)}
+- [Elementos essenciais do AWS Cloud Practitioner](../cert_ti/04-curso/cloud/aws/(23-11-22)%20Elementos%20essenciais%20do%20AWS%20Cloud%20Practitioner%20PH%20AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **4 Horas**; Concluído em: **22/11/2023**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_094)}
 
 <a name="item4.5"><h4>4.5. Data - Excel</h4></a>
 [Back to item 4](#item4)
