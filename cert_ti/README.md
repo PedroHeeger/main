@@ -107,6 +107,8 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Introduction to Amazon Elastic Container Registry](../cert_ti/04-curso/cloud/aws/(23-12-17)%20Introduction...(ECR)%20PH%20AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **17/12/2023**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_103)}
 - [Introduction to AWS Fargate](../cert_ti/04-curso/cloud/aws/(23-12-15)%20Introduction...Fargate%20PH%20AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **15/12/2023**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_104)}
 - [Amazon Elastic Container Service (ECS) Primer](../cert_ti/04-curso/cloud/aws/(23-12-17)%20Amazon...(ECS)%20Primer%20PH%20AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **17/12/2023**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_105)}
+- [Introdução ao Amazon Bedrock](../cert_ti/04-curso/cloud/aws/(23-12-28)%20Introdução%20ao%20Amazon%20Bedrock%20PH%20AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **28/12/2023**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_111)}
+- [Amazon CodeWhisperer: Introdução](../cert_ti/04-curso/cloud/aws/(23-12-28)%20Amazon%20CodeWhisperer...%20PH%20AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **28/12/2023**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_112)}
 
 <a name="item4.5"><h4>4.5. Data - Excel</h4></a>
 [Back to item 4](#item4)
