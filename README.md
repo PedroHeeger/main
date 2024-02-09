@@ -378,6 +378,7 @@ These are my main projects from my repositories.
                     <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_111">curso_111 (Introdução ao Amazon Bedrock)   <img src="https://github.com/PedroHeeger/course/blob/main/aws_skill_builder/aws/curso_111/0-aux/logo_course.png" alt="curso_111" width="auto" height="25"></a></li>
                     <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_112">curso_112 (Amazon CodeWhisperer: Introdução)   <img src="https://github.com/PedroHeeger/course/blob/main/aws_skill_builder/aws/curso_112/0-aux/logo_course.png" alt="curso_112" width="auto" height="25"></a></li>
                     <li><a href="https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_114">curso_114 (Amazon EKS Primer)   <img src="https://github.com/PedroHeeger/course/blob/main/aws_skill_builder/aws/curso_114/0-aux/logo_course.png" alt="curso_114" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/course/tree/main/outros/henrylle_maia/aws/curso_117">curso_117 (Domine AWS com Henrylle Maia)   <img src="https://github.com/PedroHeeger/course/blob/main/outros/henrylle_maia/aws/curso_117/0-aux/logo_course.png" alt="curso_117" width="auto" height="25"></a></li>
                 </ul>
             </details></li>
         </ul>
@@ -455,6 +456,7 @@ These are my main projects from my repositories.
                 <ul>
                     <li><a href="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_081">curso_081 (Imersão DevOps & Cloud 1)   <img src="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_081/0-aux/logo_course.png" alt="curso_081" width="auto" height="25"></a></li>
                     <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/devops/curso_085">curso_085 (DevOps Essentials)   <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/devops/curso_085/0-aux/logo_course.jpg" alt="curso_085" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_116">curso_116 (Imersão Docker e Kubernetes)   <img src="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_116/0-aux/logo_course.png" alt="curso_116" width="auto" height="25"></a></li>
                 </ul>
             </details></li>
         </ul>
