@@ -5,6 +5,12 @@ cert_ti/02-selos
 cert_ti/03-conclu/cloud/aws/mat
 cert_ti/03-conclu/cloud/aws/mod
 cert_ti/03-conclu/data/mat
+cert_ti/03-conclu/development/devops/mat
+cert_ti/03-conclu/development/devops/mod
+cert_ti/03-conclu/distributed_computing/kubernetes/mat
+cert_ti/03-conclu/distributed_computing/kubernetes/mod
+cert_ti/03-conclu/distributed_computing/docker/mat
+cert_ti/03-conclu/distributed_computing/docker/mod
 cert_ti/03-conclu/os/linux/mat
 cert_ti/03-conclu/os/linux/mod
 cert_ti/03-conclu/os/virtualization/docker/mat
@@ -13,3 +19,5 @@ cert_ti/03-conclu/programming/html/mat
 cert_ti/03-conclu/programming/html/mod
 cert_ti/03-conclu/programming/java/mat
 cert_ti/03-conclu/programming/java/mod
+
+cert_ti/04-curso/distributed_computing/kubernetes/

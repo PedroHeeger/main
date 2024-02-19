@@ -9,24 +9,25 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 3. <a href="#item3">Certificados de Conclusão de Bootcamp</a><br>
 4. <details><summary><a href="#item4">Certificados de Conclusão de Curso</a></summary>
     4.1. <a href="#item4.1">Cloud - AWS</a><br>
-    4.5. <a href="#item4.5">Data - Excel</a><br>
+    4.4. <a href="#item4.4">Data - Excel</a><br>
     4.6. <a href="#item4.6">Development</a><br>
     4.7. <a href="#item4.7">Development - DevOps</a><br>
-    4.8. <a href="#item4.8">Network</a><br>
-    4.9. <a href="#item4.9">Operating System (OS)</a><br>
-    4.10. <a href="#item4.10">Operating System (OS) - Virtualization - Docker</a><br>
-    4.11. <a href="#item4.11">Programming - Lógica e Algoritmo</a><br>
-    4.12. <a href="#item4.12">Programming - JavaScript</a><br>
-    4.13. <a href="#item4.13">Programming - Python</a><br>
-    4.14. <a href="#item4.14">Programming - Java</a><br>
-    4.22. <a href="#item4.22">Programming - HTML</a><br>
-    4.25. <a href="#item4.25">Programming - Versioning - Git e GitHub</a></details>
+    4.10 <a href="#item4.10">Distributed Computing - Docker</a><br>
+    4.11 <a href="#item4.11">Distributed Computing - Kubernetes</a><br>
+    4.15. <a href="#item4.15">Network</a><br>
+    4.17. <a href="#item4.17">Operating System (OS)</a><br>
+    4.22. <a href="#item4.22">Programming - Lógica e Algoritmo</a><br>
+    4.23. <a href="#item4.23">Programming - JavaScript</a><br>
+    4.24. <a href="#item4.24">Programming - Python</a><br>
+    4.25. <a href="#item4.25">Programming - Java</a><br>
+    4.26. <a href="#item4.26">Programming - HTML</a><br>
+    4.30. <a href="#item4.30">Programming - Versioning - Git e GitHub</a></details>
 5. <details><summary><a href="#item5">Certificados de Participação de Eventos</a></summary>
-    5.1. <a href="#item5.1">Data - Excel</a><br>
-    5.2. <a href="#item5.2">Data - Power BI</a><br>
-    5.3. <a href="#item5.3">Development - Devops</a><br>
-    5.4. <a href="#item5.4">Programming - JavaScript</a><br>
-    5.4. <a href="#item5.5">Programming - Python</a></details>
+    5.4. <a href="#item5.4">Data - Excel</a><br>
+    5.5. <a href="#item5.5">Data - Power BI</a><br>
+    5.7. <a href="#item5.7">Development - Devops</a><br>
+    5.23. <a href="#item5.23">Programming - JavaScript</a><br>
+    5.24. <a href="#item5.24">Programming - Python</a></details>
 6. <a href="#item6">Badges Conquistadas</a>
 
 ---
@@ -52,7 +53,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Linux do Zero](../cert_ti/03-conclu/os/linux/(23-08-03)%20Cert%20Linux%20do%20Zero%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **44 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003)}
 - [Linux Experience](../cert_ti/03-conclu/os/linux/(23-08-02)%20Cert%20Linux%20Experience%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **42 Horas**; Concluído em: **02/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_004)}
 - [Formação Linux Fundamentals](../cert_ti/03-conclu/os/linux/(23-08-03)%20Cert%20Formacao%20Linux%20Fundamentals%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **23 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005)}
-- [Formação Docker Fundamentals](../cert_ti/03-conclu/os/virtualization/docker/(23-08-22)%20Cert%20Formacao%20Docker%20Fundamentals%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **15 Horas**; Concluído em: **22/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006)}
+- [Formação Docker Fundamentals](../cert_ti/03-conclu/distributed_computing/docker/(23-08-22)_Cert_Formacao_Docker_Fundamentals_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **15 Horas**; Concluído em: **22/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006)}
 - [Formação HTML Web Developer](../cert_ti/03-conclu/programming/html/(23-08-25)%20Cert%20Formacao%20HTML%20Web%20Developer%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **21 Horas**; Concluído em: **25/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007)}
 - [Bootcamp Cloud AWS](../cert_ti/03-conclu/cloud/aws/(23-10-05)%20Bootcamp%20Cloud%20AWS%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **73 Horas**; Concluído em: **05/10/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011)}
 - [Formação AWS Cloud Practitioner Certification](../cert_ti/03-conclu/cloud/aws/(23-10-06)%20Formação%20AWS%20Cloud%20Practitioner%20Certification%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **28 Horas**; Concluído em: **06/10/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_012)}
@@ -117,7 +118,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Introduction to Amazon SageMaker](../cert_ti/04-curso/cloud/aws/(23-12-29)_Introduction_to_Amazon_SageMaker_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **29/12/2023**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_113)}
 - [Amazon EKS Primer](../cert_ti/04-curso/cloud/aws/(24-01-10)_Amazon_EKS_Primer_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **10/01/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_114)}
 
-<a name="item4.5"><h4>4.5. Data - Excel</h4></a>
+<a name="item4.4"><h4>4.4. Data - Excel</h4></a>
 [Back to item 4](#item4)
 
 - [Excel 2010 - Básico](../cert_ti/04-curso/data/excel/(20-08-14)%20Cert%20Excel%20Básic%20PH%20UIATEC.pdf) {Plataforma: **UAITEC**; Carga Horária: **40 Horas**; Concluído em: **14/08/2020**; Sem Pasta}
@@ -134,12 +135,33 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [DevOps: Tudo o que você precisa saber](../cert_ti/04-curso/development/devops/(23-08-03)%20DevOps...%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto]()}
 - [523 - DevOps Essentials](../cert_ti/04-curso/development/devops/(23-11-12)%20DevOps%20Essentials%20PH%204.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **20 Horas**; Concluído em: **12/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/devops/curso_085)}
 
-<a name="item4.8"><h4>4.8. Network</h4></a>
+<a name="item4.10"><h4>4.10. Distributed Computing - Docker</h4></a>
+[Back to item 4](#item4)
+
+- [Docker: Utilização Prática no Cenário de Microsserviços](../cert_ti/04-curso/distributed_computing/docker/(23-07-31)_Docker...Cenario...Microsservicos_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **31/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/03-servidor_linux#item3.5)}
+- [Introdução e Laboratório Virtual](../cert_ti/04-curso/distributed_computing/docker/(23-08-17)_Introducao...Laboratorio_Virtual_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **17/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.1)}
+- [Primeiros Passos com o Docker](../cert_ti/04-curso/distributed_computing/docker/(23-08-18)_Primeiros_Passos...Docker_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **18/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.2)}
+- [Armazenamento de Dados com Docker](../cert_ti/04-curso/distributed_computing/docker/(23-08-18)_Armazenamento...Dados...Docker_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **18/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.3)}
+- [Processamento, Logs e Rede com Docker](../cert_ti/04-curso/distributed_computing/docker/(23-08-19)_Processamento...Logs...Rede...Docker_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **19/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.4)}
+- [Definição e Criação de um Docker File](../cert_ti/04-curso/distributed_computing/docker/(23-08-19)_Definicao...Criacao...Docker_File_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **19/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/02-dockerfile_compose#item2.1)}
+- [Docker Compose](../cert_ti/04-curso/distributed_computing/docker/(23-08-21)_Docker_Compose_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **21/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/02-dockerfile_compose#item2.2)}
+- [Criando um Container de uma Aplicação WEB](../cert_ti/04-curso/distributed_computing/docker/(23-08-21)_Criando...Container...Aplicacao_WEB_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **21/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/02-dockerfile_compose#item2.3)}
+- [Criando um Cluster com o Docker Swarm](../cert_ti/04-curso/distributed_computing/docker/(23-08-22)_Criando...Cluster...Docker_Swarm_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **22/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.1)}
+- [Load Balancer](../cert_ti/04-curso/distributed_computing/docker/(23-08-21)_Load_Balancer_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **21/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.2)}
+- [Definição de um Cluster Swarm Local com o Vagrant](../cert_ti/04-curso/distributed_computing/docker/(23-08-22)_Definicao...Cluster_Swarm_Local...Vagrant_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **22/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.3)}
+- [538 - Containers Fundamentals](../cert_ti/04-curso/distributed_computing/docker/(23-11-09)_Containers_Fundamentals_PH_4.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **20 Horas**; Concluído em: **09/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/docker/curso_084)}
+
+<a name="item4.11"><h4>4.11. Distributed Computing - Kubernetes</h4></a>
 [Back to item 4](#item4)
 
 - [Redes de Computadores](../cert_ti/04-curso/network/(22-10-12)%20Cert%20Network%20PH%20CEV.pdf) {Plataforma: **Curso em Video**; Carga Horária: **20 horas**; Concluído em: **12/10/22**; [Pasta do Projeto]()}
 
-<a name="item4.9"><h5>4.9. Operating System (OS)</h4></a>
+<a name="item4.15"><h4>4.15. Network</h4></a>
+[Back to item 4](#item4)
+
+- [Redes de Computadores](../cert_ti/04-curso/network/(22-10-12)%20Cert%20Network%20PH%20CEV.pdf) {Plataforma: **Curso em Video**; Carga Horária: **20 horas**; Concluído em: **12/10/22**; [Pasta do Projeto]()}
+
+<a name="item4.17"><h5>4.17. Operating System (OS)</h4></a>
 [Back to item 4](#item4)
 
 - [Introdução ao Sistema Operacional Linux](../cert_ti/04-curso/os/linux/(23-07-11)%20Introdução%20ao%20Sistema%20Operacional%20Linux%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **11/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/02-linux#item2.1)}
@@ -159,29 +181,13 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [701 - Linux Fundamentals](../cert_ti/04-curso/os/linux/(23-08-22)%20Linux%20Fundamentals%20PH%204.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **20 Horas**; Concluído em: **22/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077)}
 - [702 - Linux Essentials](../cert_ti/04-curso/os/linux/(23-11-05)%20Linux%20Essentials%20PH%204.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **20 Horas**; Concluído em: **05/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_083)}
 
-<a name="item4.10"><h4>4.10. Operating System (OS) - Virtualization - Docker</h4></a>
-[Back to item 4](#item4)
-
-- [Docker: Utilização Prática no Cenário de Microsserviços](../cert_ti/04-curso/os/linux/(23-07-31)%20Docker-Utilização...Cenário%20de%20Microsserviços%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **31/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/03-servidor_linux#item3.5)}
-- [Introdução e Laboratório Virtual](../cert_ti/04-curso/os/virtualization/docker/(23-08-17)%20Introdução%20e%20Laboratório%20Virtual%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **17/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.1)}
-- [Armazenamento de Dados com Docker](../cert_ti/04-curso/os/virtualization/docker/(23-08-18)%20Armazenamento%20de%20Dados%20com%20Docker%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **18/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.3)}
-- [Primeiros Passos com o Docker](../cert_ti/04-curso/os/virtualization/docker/(23-08-18)%20Primeiros%20Passos%20com%20o%20Docker%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **18/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.2)}
-- [Definição e Criação de um Docker File](../cert_ti/04-curso/os/virtualization/docker/(23-08-19)%20Definição%20e%20Criação%20de%20um%20Docker%20File%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **19/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/02-dockerfile_compose#item2.1)}
-- [Processamento, Logs e Rede com Docker](../cert_ti/04-curso/os/virtualization/docker/(23-08-19)%20Processamento,%20Logs%20e%20Rede%20com%20Docker%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **19/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/01-introducao_docker#item1.4)}
-- [Criando um Container de uma Aplicação WEB](../cert_ti/04-curso/os/virtualization/docker/(23-08-21)%20Criando%20um%20Container%20de%20uma%20Aplicação%20WEB%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **21/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/02-dockerfile_compose#item2.3)}
-- [Docker Compose](../cert_ti/04-curso/os/virtualization/docker/(23-08-21)%20Docker%20Compose%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **21/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/02-dockerfile_compose#item2.2)}
-- [Load Balancer](../cert_ti/04-curso/os/virtualization/docker/(23-08-21)%20Load%20Balancer%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **21/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.2)}
-- [Criando um Cluster com o Docker Swarm](../cert_ti/04-curso/os/virtualization/docker/(23-08-22)%20Criando%20um%20Cluster%20com%20o%20Docker%20Swarm%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **22/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.1)}
-- [Definição de um Cluster Swarm Local com o Vagrant](../cert_ti/04-curso/os/virtualization/docker/(23-08-22)%20Definição%20de%20um%20Cluster%20Swarm%20Local%20com%20o%20Vagrant%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **22/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/docker/boot_006/03-docker_swarm#item3.3)}
-- [538 - Containers Fundamentals](../cert_ti/04-curso/os/virtualization/docker/(23-11-09)%20Containers%20Fundamentals%20PH%204.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **20 Horas**; Concluído em: **09/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/docker/curso_084)}
-
-<a name="item4.11"><h4>4.11. Programming - Lógica e Algoritmo</h4></a>
+<a name="item4.22"><h4>4.22. Programming - Lógica e Algoritmo</h4></a>
 [Back to item 4](#item4)
 
 - [Lógica 18+](../cert_ti/04-curso/programming/logica_algoritmo/(22-04-29)%20Cert%20Lógica%2018+%20PH%20SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **29/04/22**; [Pasta do Projeto]()}
 - [Introdução à Programação e Pensamento Computacional](../cert_ti/04-curso/programming/logica_algoritmo/(22-10-09)%20...Programação%20e%20Pensamento%20Computacional%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **09/10/22**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/01.05-logica_programacao)}
 
-<a name="item4.12"><h4>4.12. Programming - JavaScript</h4></a>
+<a name="item4.23"><h4>4.23. Programming - JavaScript</h4></a>
 [Back to item 4](#item4)
 
 - [JavaScript](../cert_ti/04-curso/programming/java_script/(22-08-20)%20Cert%20JavaScript%20PH%20CEV.pdf) {Plataforma: **Curso em Vídeo**; Carga Horária: **40 Horas**; Concluído em: **20/08/22**; [Pasta do Projeto]()}
@@ -192,14 +198,14 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Animações](../cert_ti/04-curso/programming/java_script/(22-10-24)%20Cert%20JS%205%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **24/10/22**; Sem Pasta}
 - [Animações II](../cert_ti/04-curso/programming/java_script/(23-02-20)%20Cert%20JS%206%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **20/02/23**; Sem Pasta}
 
-<a name="item4.13"><h4>4.13. Programming - Python</h4></a>
+<a name="item4.24"><h4>4.24. Programming - Python</h4></a>
 [Back to item 4](#item4)
 
 - [SoulOn  - Python 1](../cert_ti/04-curso/programming/python/(21-11-28)%20Cert%20Mod-1%20Python%20PH%20SCA%20R1.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **28/11/21**; [Pasta do Projeto]()}
 - [SoulOn  - Python 2](../cert_ti/04-curso/programming/python/(22-04-25)%20Cert%20Mod-2%20Python%20PH%20SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**;Concluído em: **25/04/22**; [Pasta do Projeto]()}
 - [SoulOn  - Python 3](../cert_ti/04-curso/programming/python/(22-04-27)%20Cert%20Mod-3%20Python%20PH%20SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **27/04/22**; [Pasta do Projeto]()}
 
-<a name="item4.14"><h4>4.14. Programming - Java</h4></a>
+<a name="item4.25"><h4>4.25. Programming - Java</h4></a>
 [Back to item 4](#item4)
 
 - [Introdução à Plataforma Java](../cert_ti/04-curso/programming/java/(23-08-26)%20Introdução%20à%20Plataforma%20Java%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **26/08/2023**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/01-fundamentos#item1.1)}
@@ -241,7 +247,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 
 
 
-<a name="item4.22"><h4>4.22. Programming - HTML</h4></a>
+<a name="item4.26"><h4>4.26. Programming - HTML</h4></a>
 [Back to item 4](#item4)
 
 - [Entendendo Comunicação Client x Server](../cert_ti/04-curso/programming/html/(23-08-23)%20Entendendo%20Comunicação%20Client%20x%20Server%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **23/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/01-primeiros_passos#item1.1)}
@@ -256,7 +262,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [HTML: Recursos Especiais](../cert_ti/04-curso/programming/html/(23-08-25)%20HTML;%20Recursos%20Especiais%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **25/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/03-ampliando_conhecimento#item3.2)}
 - [Recriando o Wikipedia com Layout Moderno](../cert_ti/04-curso/programming/html/(23-08-25)%20Recriando%20o%20Wikipedia...%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **25/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/03-ampliando_conhecimento#item3.3)}
 
-<a name="item4.24"><h4>4.24. Programming - Versioning - Git e GitHub</h4></a>
+<a name="item4.30"><h4>4.30. Programming - Versioning - Git e GitHub</h4></a>
 [Back to item 4](#item4)
 
 - [Git e GitHub](../cert_ti/04-curso/programming/versioning/git_github/(22-06-04)%20Cert%20Git%20e%20GitHub%20PH%20CEV.pdf) {Plataforma: **Curso em Vídeo**; Carga Horária: **20 Horas**; Concluído em: **04/06/22**; [Pasta do Projeto]()}
@@ -268,7 +274,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item5"><h3>5. Certificados de Participação de Eventos</h3></a>
 [Back to summary](#item0)
 
-<a name="item5.1"><h4>5.1. Data - Excel</h4></a>
+<a name="item5.4"><h4>5.4. Data - Excel</h4></a>
 [Back to item 5](#item5)
 
 - [Simplifica Excel Express](../cert_ti/05-particip/data/excel/(23-06-17)%20Cert%20Excel%20PH%20Simplif%20Trein%20(Simplifica%20Express).pdf) {Plataforma: **Simplifica Treinamentos**; Carga Horária: **10 Horas**; Concluído em: **17/06/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/excel/curso_059)}
@@ -276,7 +282,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Semana do Excel na Prática](../cert_ti/05-particip/data/excel/(23-06-22)%20Cert%20Excel%20PH%20Empowerdata%20(Semana).pdf) {Plataforma: **Empowerdata**; Carga Horária: **8 Horas**; Concluído em: **22/06/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/empowerdata/excel/curso_065)}
 - [Imersão Excel](../cert_ti/05-particip/data/excel/(23-07-06)%20Cert%20Excel%20PH%20Karine%20Lago%20(Imersão).pdf) {Plataforma: **Karine Lago**; Carga Horária: **5 Horas**; Concluído em: **10/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/outros/karine_lago/excel/curso_072)}
 
-<a name="item5.2"><h4>5.2. Data - Power BI</h4></a>
+<a name="item5.5"><h4>5.5. Data - Power BI</h4></a>
 [Back to item 5](#item5)
 
 - [Simplifica Power Excel](../cert_ti/05-particip/data/power_bi/(23-05-22)%20Cert%20Power%20BI%20e%20Excel%20PH%20Simplifica%20Trein.pdf) {Plataforma: **Simplifica Treinamentos**; Carga Horária: **10 Horas**; Concluído em: **22/05/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_043)}
@@ -285,17 +291,17 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Simplifica Power BI Express](../cert_ti/05-particip/data/power_bi/(23-08-15)%20Cert%20Power%20BI%20PH%20Simplifica%20Trein.pdf) {Plataforma: **Simplifica Treinamentos**; Carga Horária: **10 Horas**; Concluído em: **10/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_075)}
 - [Semana Power BI](../cert_ti/05-particip/data/power_bi/(23-11-19)%20Cert%20Power%20BI%20PH%20Cubo%20Três%20(Semana).pdf) {Plataforma: **Cubo Três**; Carga Horária: **8 Horas**; Concluído em: **19/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/cubo_tres/power_bi/curso_091)}
 
-<a name="item5.3"><h4>5.3. Development - Devops</h4></a>
+<a name="item5.7"><h4>5.7. Development - Devops</h4></a>
 [Back to item 5](#item5)
 
 - [Iniciativa Devops](../cert_ti/05-particip/development/devops/(22-08-10)%20Cert%20Devops%20PH%20Fabrício%20Veronez%20(Iniciativa%20Devops).pdf) {Plataforma: **Fabrício Veronez**; Carga Horária: **10 Horas**; Concluído em: **10/08/22**; [Pasta do Projeto]()}
 
-<a name="item5.4"><h4>5.4. Programming - JavaScript</h4></a>
+<a name="item5.23"><h4>5.23. Programming - JavaScript</h4></a>
 [Back to item 5](#item5)
 
 - [Intensivão de JavaScript](../cert_ti/05-particip/programming/java_script/(23-09-09)%20Cert%20JavaScript%20PH%20Hashtag%20(Intensivão).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **5 Horas**; Concluído em: **01/09/23**; [Pasta do Projeto]()}
 
-<a name="item5.5"><h4>5.5. Programming - Python</h4></a>
+<a name="item5.24"><h4>5.24. Programming - Python</h4></a>
 [Back to item 5](#item5)
 
 - [Intensivão de Python](../cert_ti/05-particip/programming/python/(23-05-23)%20Cert%20Python%20PH%20Hashtag%20(Intesivão).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **8 Horas**; Concluído em: **18/05/23**; [Pasta do Projeto]()}
