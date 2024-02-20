@@ -406,7 +406,7 @@ These are my main projects from my repositories.
         <ul>
             <li><details><summary>Kubernetes   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="auto" height="25"></summary>
                 <ul>
-                    <li><a href="">boot_ ()   <img src="" alt="" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015">boot_015 (Formação Kubernetes Fundamentals)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/kubernetes/boot_015/0-aux/logo_boot.png" alt="boot_015" width="auto" height="25"></a></li>
                 </ul>
             </details></li>
         </ul>
@@ -420,7 +420,7 @@ These are my main projects from my repositories.
             </details></li>
         </ul>
     </details>
-    <details><summary>Containerization</summary>
+    <details><summary>Container Manager</summary>
         <ul>
             <li><details><summary>Docker   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="auto" height="25"></summary>
                 <ul>
