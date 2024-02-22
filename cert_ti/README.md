@@ -12,6 +12,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
     4.4. <a href="#item4.4">Data - Excel</a><br>
     4.6. <a href="#item4.6">Development</a><br>
     4.7. <a href="#item4.7">Development - DevOps</a><br>
+    4.8. <a href="#item4.8">Development - Versioning - Git e GitHub</a><br>
     4.10 <a href="#item4.10">Distributed Computing - Docker</a><br>
     4.11 <a href="#item4.11">Distributed Computing - Kubernetes</a><br>
     4.15. <a href="#item4.15">Network</a><br>
@@ -20,8 +21,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
     4.23. <a href="#item4.23">Programming - JavaScript</a><br>
     4.24. <a href="#item4.24">Programming - Python</a><br>
     4.25. <a href="#item4.25">Programming - Java</a><br>
-    4.26. <a href="#item4.26">Programming - HTML</a><br>
-    4.30. <a href="#item4.30">Programming - Versioning - Git e GitHub</a></details>
+    4.26. <a href="#item4.26">Programming - HTML</a></details>
 5. <details><summary><a href="#item5">Certificados de Participação de Eventos</a></summary>
     5.4. <a href="#item5.4">Data - Excel</a><br>
     5.5. <a href="#item5.5">Data - Power BI</a><br>
@@ -127,14 +127,21 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item4.6"><h4>4.6. Development</h4></a>
 [Back to item 4](#item4)
 
-- [Introdução ao Desenvolvimento Moderno de Software](../cert_ti/04-curso/development/(23-07-03)%20...Desenvolvimento%20Moderno%20de%20Software%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/07/23**; Sem Pasta}
-- [Trabalhando em Equipes Ágeis](../cert_ti/04-curso/development/(23-07-03)%20Trabalhando%20em%20Equipes%20Ágeis%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **3 Horas**; Concluído em: **03/07/23**; Sem Pasta}
+- [Introdução ao Desenvolvimento Moderno de Software](../cert_ti/04-curso/development/(23-07-03)...Desenvolvimento_Moderno...Software_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/07/23**; Sem Pasta}
+- [Trabalhando em Equipes Ágeis](../cert_ti/04-curso/development/(23-07-03)_Trabalhando...Equipes_Ageis_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **3 Horas**; Concluído em: **03/07/23**; Sem Pasta}
 
 <a name="item4.7"><h4>4.7. Development - Devops</h4></a>
 [Back to item 4](#item4)
 
 - [DevOps: Tudo o que você precisa saber](../cert_ti/04-curso/development/devops/(23-08-03)%20DevOps...%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto]()}
 - [523 - DevOps Essentials](../cert_ti/04-curso/development/devops/(23-11-12)%20DevOps%20Essentials%20PH%204.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **20 Horas**; Concluído em: **12/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/devops/curso_085)}
+
+<a name="item4.8"><h4>4.8. Programming - Versioning - Git e GitHub</h4></a>
+[Back to item 4](#item4)
+
+- [Git e GitHub](../cert_ti/04-curso/development/versioning/git_github/(22-06-04)_Cert_Git...GitHub_PH_CEV.pdf) {Plataforma: **Curso em Vídeo**; Carga Horária: **20 Horas**; Concluído em: **04/06/22**; [Pasta do Projeto]()}
+- [Introdução ao Git e ao GitHub](../cert_ti/04-curso/development/versioning/git_github/(22-10-31)_Introducao...Git...GitHub_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **31/10/22**; [Pasta do Projeto]()}
+- [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](../cert_ti/04-curso/development/versioning/git_github/(22-11-08)_Criando...Primeiro_Repositorio_GitHub...PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **08/11/22**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/01.07-github)}
 
 <a name="item4.10"><h4>4.10. Distributed Computing - Docker</h4></a>
 [Back to item 4](#item4)
@@ -195,8 +202,8 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item4.22"><h4>4.22. Programming - Lógica e Algoritmo</h4></a>
 [Back to item 4](#item4)
 
-- [Lógica 18+](../cert_ti/04-curso/programming/logica_algoritmo/(22-04-29)%20Cert%20Lógica%2018+%20PH%20SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **29/04/22**; [Pasta do Projeto]()}
-- [Introdução à Programação e Pensamento Computacional](../cert_ti/04-curso/programming/logica_algoritmo/(22-10-09)%20...Programação%20e%20Pensamento%20Computacional%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **09/10/22**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/01.05-logica_programacao)}
+- [Lógica 18+](../cert_ti/04-curso/programming/logica_algoritmo/(22-04-29)_Cert_Logica_18+_PH_SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **29/04/22**; [Pasta do Projeto]()}
+- [Introdução à Programação e Pensamento Computacional](../cert_ti/04-curso/programming/logica_algoritmo/(22-10-09)...Programacao...Pensamento_Computacional_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **09/10/22**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/01.05-logica_programacao)}
 
 <a name="item4.23"><h4>4.23. Programming - JavaScript</h4></a>
 [Back to item 4](#item4)
@@ -272,13 +279,6 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Entendendo HTML Semântico](../cert_ti/04-curso/programming/html/(23-08-25)_Entendendo_HTML_Semantico_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **25/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/03-ampliando_conhecimento#item3.1)}
 - [HTML: Recursos Especiais](../cert_ti/04-curso/programming/html/(23-08-25)_HTML_Recursos_Especiais_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **25/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/03-ampliando_conhecimento#item3.2)}
 - [Recriando o Wikipedia com Layout Moderno](../cert_ti/04-curso/programming/html/(23-08-25)_Recriando...Wikipedia...PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **25/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/03-ampliando_conhecimento#item3.3)}
-
-<a name="item4.30"><h4>4.30. Programming - Versioning - Git e GitHub</h4></a>
-[Back to item 4](#item4)
-
-- [Git e GitHub](../cert_ti/04-curso/programming/versioning/git_github/(22-06-04)%20Cert%20Git%20e%20GitHub%20PH%20CEV.pdf) {Plataforma: **Curso em Vídeo**; Carga Horária: **20 Horas**; Concluído em: **04/06/22**; [Pasta do Projeto]()}
-- [Introdução ao Git e ao GitHub](../cert_ti/04-curso/programming/versioning/git_github/(22-10-31)%20Introdução%20ao%20Git%20e%20ao%20GitHub%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **31/10/22**; [Pasta do Projeto]()}
-- [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](../cert_ti/04-event/programming/versioning/git_github/(22-11-08)%20Criando%20seu%20Primeiro%20Repositório%20no%20GitHub...%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **08/11/22**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_03/01.07-github)}
 
 ---
 
