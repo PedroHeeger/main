@@ -133,8 +133,13 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item4.7"><h4>4.7. Development - Devops</h4></a>
 [Back to item 4](#item4)
 
-- [DevOps: Tudo o que você precisa saber](../cert_ti/04-curso/development/devops/(23-08-03)%20DevOps...%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto]()}
-- [523 - DevOps Essentials](../cert_ti/04-curso/development/devops/(23-11-12)%20DevOps%20Essentials%20PH%204.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **20 Horas**; Concluído em: **12/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/devops/curso_085)}
+- [DevOps: Tudo o que você precisa saber](../cert_ti/04-curso/development/devops/(23-08-03)_DevOps_Tudo...PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/03-servidor_linux#item3.6)}
+- [523 - DevOps Essentials](../cert_ti/04-curso/development/devops/(23-11-12)_DevOps_Essentials_PH_4.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **20 Horas**; Concluído em: **12/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/devops/curso_085)}
+- [Entendendo O Que é DevOps](../cert_ti/04-curso/development/devops/(24-02-19)_Entendendo...DevOps_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **19/02/24**; [Pasta do Projeto]()}
+- [Introdução ao DevSecOps](../cert_ti/04-curso/development/devops/(24-02-20)_Introducao...DevSecOps_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **20/02/24**; [Pasta do Projeto]()}
+- [DevOps e Processos de Desenvolvimento de Software](../cert_ti/04-curso/development/devops/(24-02-22)_DevOps...Desenvolvimento...Software_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **22/02/24**; [Pasta do Projeto]()}
+- [Introdução ao DevOps com CI/CD](../cert_ti/04-curso/development/devops/(24-02-22)_Introducao...DevOps...CI-CD_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **22/02/24**; [Pasta do Projeto]()}
+
 
 <a name="item4.8"><h4>4.8. Programming - Versioning - Git e GitHub</h4></a>
 [Back to item 4](#item4)
