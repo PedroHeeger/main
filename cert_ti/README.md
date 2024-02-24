@@ -48,8 +48,8 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item3"><h3>3. Certificados de Conclusão de Bootcamp</h3></a>
 [Back to summary](#item0)
 
-- [Engenharia de Dados](../cert_ti/03-conclu/data/(22-01-28)%20Cert%20Eng%20Dados%20PH%20SCA.png) {Plataforma: **SoulCode Academy**; Carga Horária: **480 horas**; Período: **25/10/21 à 28/01/22**; [Pasta do Projeto]()}
-- [Ciência de Dados](../cert_ti/03-conclu/data/(22-11-26)%20Cert%20Geração%20Tech%20Unimed-BH%20-%20Ciência%20de%20Dados%20PH%20DIO.pdf) {Plataforma: **DIO**; Carga Horária: **126 Horas**; Concluído em: **26/11/22**; [Pasta do Projeto]()}
+- [Engenharia de Dados](../cert_ti/03-conclu/data/(22-01-28)_Cert_Eng_Dados_PH_SCA.png) {Plataforma: **SoulCode Academy**; Carga Horária: **480 horas**; Período: **25/10/21 à 28/01/22**; [Pasta do Projeto]()}
+- [Ciência de Dados](../cert_ti/03-conclu/data/(22-11-26)_Cert_Geracao...Unimed-BH_Ciencia...Dados_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **126 Horas**; Concluído em: **26/11/22**; [Pasta do Projeto]()}
 - [Linux do Zero](../cert_ti/03-conclu/os/linux/(23-08-03)_Cert_Linux...Zero_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **44 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003)}
 - [Linux Experience](../cert_ti/03-conclu/os/linux/(23-08-02)_Cert_Linux_Experience_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **42 Horas**; Concluído em: **02/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_004)}
 - [Formação Linux Fundamentals](../cert_ti/03-conclu/os/linux/(23-08-03)_Cert_Formacao_Linux_Fundamentals_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **23 Horas**; Concluído em: **03/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_005)}
@@ -123,7 +123,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item4.4"><h4>4.4. Data - Excel</h4></a>
 [Back to item 4](#item4)
 
-- [Excel 2010 - Básico](../cert_ti/04-curso/data/excel/(20-08-14)%20Cert%20Excel%20Básic%20PH%20UIATEC.pdf) {Plataforma: **UAITEC**; Carga Horária: **40 Horas**; Concluído em: **14/08/2020**; Sem Pasta}
+- [Excel 2010 - Básico](../cert_ti/04-curso/data/excel/(20-08-14)_Cert_Excel_Basic_PH_UIATEC.pdf) {Plataforma: **UAITEC**; Carga Horária: **40 Horas**; Concluído em: **14/08/2020**; Sem Pasta}
 
 <a name="item4.6"><h4>4.6. Development</h4></a>
 [Back to item 4](#item4)
@@ -189,7 +189,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item4.15"><h4>4.15. Network</h4></a>
 [Back to item 4](#item4)
 
-- [Redes de Computadores](../cert_ti/04-curso/network/(22-10-12)%20Cert%20Network%20PH%20CEV.pdf) {Plataforma: **Curso em Video**; Carga Horária: **20 horas**; Concluído em: **12/10/22**; [Pasta do Projeto]()}
+- [Redes de Computadores](../cert_ti/04-curso/network/(22-10-12)_Cert_Network_PH_CEV.pdf) {Plataforma: **Curso em Video**; Carga Horária: **20 horas**; Concluído em: **12/10/22**; [Pasta do Projeto]()}
 
 <a name="item4.17"><h5>4.17. Operating System (OS)</h4></a>
 [Back to item 4](#item4)
@@ -220,20 +220,20 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item4.23"><h4>4.23. Programming - JavaScript</h4></a>
 [Back to item 4](#item4)
 
-- [JavaScript](../cert_ti/04-curso/programming/java_script/(22-08-20)%20Cert%20JavaScript%20PH%20CEV.pdf) {Plataforma: **Curso em Vídeo**; Carga Horária: **40 Horas**; Concluído em: **20/08/22**; [Pasta do Projeto]()}
-- [Fundamentos de Codificação](../cert_ti/04-curso/programming/java_script/(21-06-19)%20Cert%20JS%201%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **19/06/21**; Sem Pasta}
-- [Fundamentos de Programação II](../cert_ti/04-curso/programming/java_script/(22-08-22)%20Cert%20JS%202%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **22/08/22**; Sem Pasta}
-- [Introdução à Entrevista](../cert_ti/04-curso/programming/java_script/(22-09-22)%20Cert%20JS%203%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **22/09/22**; Sem Pasta}
-- [Métodos de Array](../cert_ti/04-curso/programming/java_script/(22-10-24)%20Cert%20JS%204%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **24/10/22**; Sem Pasta}
-- [Animações](../cert_ti/04-curso/programming/java_script/(22-10-24)%20Cert%20JS%205%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **24/10/22**; Sem Pasta}
-- [Animações II](../cert_ti/04-curso/programming/java_script/(23-02-20)%20Cert%20JS%206%20PH%20GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **20/02/23**; Sem Pasta}
+- [JavaScript](../cert_ti/04-curso/programming/java_script/(22-08-20)_Cert_JavaScript_PH_CEV.pdf) {Plataforma: **Curso em Vídeo**; Carga Horária: **40 Horas**; Concluído em: **20/08/22**; [Pasta do Projeto]()}
+- [Fundamentos de Codificação](../cert_ti/04-curso/programming/java_script/(21-06-19)_Cert_JS_1_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **19/06/21**; Sem Pasta}
+- [Fundamentos de Programação II](../cert_ti/04-curso/programming/java_script/(22-08-22)_Cert_JS_2_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **22/08/22**; Sem Pasta}
+- [Introdução à Entrevista](../cert_ti/04-curso/programming/java_script/(22-09-22)_Cert_JS_3_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **22/09/22**; Sem Pasta}
+- [Métodos de Array](../cert_ti/04-curso/programming/java_script/(22-10-24)_Cert_JS_4_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **24/10/22**; Sem Pasta}
+- [Animações](../cert_ti/04-curso/programming/java_script/(22-10-24)_Cert_JS_5_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **24/10/22**; Sem Pasta}
+- [Animações II](../cert_ti/04-curso/programming/java_script/(23-02-20)_Cert_JS_6_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **20/02/23**; Sem Pasta}
 
 <a name="item4.24"><h4>4.24. Programming - Python</h4></a>
 [Back to item 4](#item4)
 
-- [SoulOn  - Python 1](../cert_ti/04-curso/programming/python/(21-11-28)%20Cert%20Mod-1%20Python%20PH%20SCA%20R1.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **28/11/21**; [Pasta do Projeto]()}
-- [SoulOn  - Python 2](../cert_ti/04-curso/programming/python/(22-04-25)%20Cert%20Mod-2%20Python%20PH%20SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**;Concluído em: **25/04/22**; [Pasta do Projeto]()}
-- [SoulOn  - Python 3](../cert_ti/04-curso/programming/python/(22-04-27)%20Cert%20Mod-3%20Python%20PH%20SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **27/04/22**; [Pasta do Projeto]()}
+- [SoulOn  - Python 1](../cert_ti/04-curso/programming/python/(21-11-28)_Cert_Mod-1_Python_PH_SCA_(R1).pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **28/11/21**; [Pasta do Projeto]()}
+- [SoulOn  - Python 2](../cert_ti/04-curso/programming/python/(22-04-25)_Cert_Mod-2_Python_PH_SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**;Concluído em: **25/04/22**; [Pasta do Projeto]()}
+- [SoulOn  - Python 3](../cert_ti/04-curso/programming/python/(22-04-27)_Cert_Mod-3_Python_PH_SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **27/04/22**; [Pasta do Projeto]()}
 
 <a name="item4.25"><h4>4.25. Programming - Java</h4></a>
 [Back to item 4](#item4)
@@ -300,35 +300,35 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item5.4"><h4>5.4. Data - Excel</h4></a>
 [Back to item 5](#item5)
 
-- [Simplifica Excel Express](../cert_ti/05-particip/data/excel/(23-06-17)%20Cert%20Excel%20PH%20Simplif%20Trein%20(Simplifica%20Express).pdf) {Plataforma: **Simplifica Treinamentos**; Carga Horária: **10 Horas**; Concluído em: **17/06/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/excel/curso_059)}
-- [Semana do Excel](../cert_ti/05-particip/data/excel/(23-06-20)%20Cert%20Excel%20PH%20Hashtag%20Trein%20(Semana).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **8 Horas**; Concluído em: **15/06/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/hashtag/excel/curso_060)}
-- [Semana do Excel na Prática](../cert_ti/05-particip/data/excel/(23-06-22)%20Cert%20Excel%20PH%20Empowerdata%20(Semana).pdf) {Plataforma: **Empowerdata**; Carga Horária: **8 Horas**; Concluído em: **22/06/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/empowerdata/excel/curso_065)}
-- [Imersão Excel](../cert_ti/05-particip/data/excel/(23-07-06)%20Cert%20Excel%20PH%20Karine%20Lago%20(Imersão).pdf) {Plataforma: **Karine Lago**; Carga Horária: **5 Horas**; Concluído em: **10/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/outros/karine_lago/excel/curso_072)}
+- [Simplifica Excel Express](../cert_ti/05-particip/data/excel/(23-06-17)_Cert_Excel_PH_Simplif_Trein_(Simplifica_Express).pdf) {Plataforma: **Simplifica Treinamentos**; Carga Horária: **10 Horas**; Concluído em: **17/06/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/excel/curso_059)}
+- [Semana do Excel](../cert_ti/05-particip/data/excel/(23-06-20)_Cert_Excel_PH_Hashtag_Trein_(Semana).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **8 Horas**; Concluído em: **15/06/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/hashtag/excel/curso_060)}
+- [Semana do Excel na Prática](../cert_ti/05-particip/data/excel/(23-06-22)_Cert_Excel_PH_Empowerdata_(Semana).pdf) {Plataforma: **Empowerdata**; Carga Horária: **8 Horas**; Concluído em: **22/06/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/empowerdata/excel/curso_065)}
+- [Imersão Excel](../cert_ti/05-particip/data/excel/(23-07-06)_Cert_Excel_PH_Karine_Lago_(Imersao).pdf) {Plataforma: **Karine Lago**; Carga Horária: **5 Horas**; Concluído em: **10/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/outros/karine_lago/excel/curso_072)}
 
 <a name="item5.5"><h4>5.5. Data - Power BI</h4></a>
 [Back to item 5](#item5)
 
-- [Simplifica Power Excel](../cert_ti/05-particip/data/power_bi/(23-05-22)%20Cert%20Power%20BI%20e%20Excel%20PH%20Simplifica%20Trein.pdf) {Plataforma: **Simplifica Treinamentos**; Carga Horária: **10 Horas**; Concluído em: **22/05/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_043)}
-- [Intensivão de Power BI 2023](../cert_ti/05-particip/data/power_bi/(23-05-11)%20Cert%20Power%20BI%20PH%20Hashtag%20(Intensivão).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **8 Horas**; Concluído em: **11/05/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/hashtag/power_bi/curso_041)}
-- [Acelerador de Carreira com Power BI](../cert_ti/05-particip/data/power_bi/(23-07-16)%20Cert%20Power%20BI%20PH%20Empowerdata%20(Acelerador%20de%20Carreiras).pdf) {Plataforma: **Empowerdata**; Carga Horária: **8 Horas**; Concluído em: **13/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/blob/main/empowerdata/power_bi/curso_073)}
-- [Simplifica Power BI Express](../cert_ti/05-particip/data/power_bi/(23-08-15)%20Cert%20Power%20BI%20PH%20Simplifica%20Trein.pdf) {Plataforma: **Simplifica Treinamentos**; Carga Horária: **10 Horas**; Concluído em: **10/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_075)}
-- [Semana Power BI](../cert_ti/05-particip/data/power_bi/(23-11-19)%20Cert%20Power%20BI%20PH%20Cubo%20Três%20(Semana).pdf) {Plataforma: **Cubo Três**; Carga Horária: **8 Horas**; Concluído em: **19/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/cubo_tres/power_bi/curso_091)}
+- [Simplifica Power Excel](../cert_ti/05-particip/data/power_bi/(23-05-22)_Cert_Power_BI...Excel_PH_Simplifica_Trein.pdf) {Plataforma: **Simplifica Treinamentos**; Carga Horária: **10 Horas**; Concluído em: **22/05/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_043)}
+- [Intensivão de Power BI 2023](../cert_ti/05-particip/data/power_bi/(23-05-11)_Cert_Power_BI_PH_Hashtag_(Intensivao).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **8 Horas**; Concluído em: **11/05/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/hashtag/power_bi/curso_041)}
+- [Acelerador de Carreira com Power BI](../cert_ti/05-particip/data/power_bi/(23-07-13)_Cert_Power_BI_PH_Empowerdata_(Acelerador...Carreiras).pdf) {Plataforma: **Empowerdata**; Carga Horária: **8 Horas**; Concluído em: **13/07/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/blob/main/empowerdata/power_bi/curso_073)}
+- [Simplifica Power BI Express](../cert_ti/05-particip/data/power_bi/(23-08-15)_Cert_Power_BI_PH_Simplifica_Trein_(Express).pdf) {Plataforma: **Simplifica Treinamentos**; Carga Horária: **10 Horas**; Concluído em: **15/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/simplifica_trein/power_bi/curso_075)}
+- [Semana Power BI](../cert_ti/05-particip/data/power_bi/(23-11-19)_Cert_Power_BI_PH_Cubo_Tres_(Semana).pdf) {Plataforma: **Cubo Três**; Carga Horária: **8 Horas**; Concluído em: **19/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/cubo_tres/power_bi/curso_091)}
 
 <a name="item5.7"><h4>5.7. Development - Devops</h4></a>
 [Back to item 5](#item5)
 
-- [Iniciativa Devops](../cert_ti/05-particip/development/devops/(22-08-10)%20Cert%20Devops%20PH%20Fabrício%20Veronez%20(Iniciativa%20Devops).pdf) {Plataforma: **Fabrício Veronez**; Carga Horária: **10 Horas**; Concluído em: **10/08/22**; [Pasta do Projeto]()}
+- [Iniciativa Devops](../cert_ti/05-particip/development/devops/(22-08-10)_Cert_Devops_PH_Fabricio_Veronez_(Iniciativa_Devops).pdf) {Plataforma: **Fabrício Veronez**; Carga Horária: **10 Horas**; Concluído em: **10/08/22**; [Pasta do Projeto]()}
 
 <a name="item5.23"><h4>5.23. Programming - JavaScript</h4></a>
 [Back to item 5](#item5)
 
-- [Intensivão de JavaScript](../cert_ti/05-particip/programming/java_script/(23-09-09)%20Cert%20JavaScript%20PH%20Hashtag%20(Intensivão).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **5 Horas**; Concluído em: **01/09/23**; [Pasta do Projeto]()}
+- [Intensivão de JavaScript](../cert_ti/05-particip/programming/java_script/(23-09-09)_Cert_JavaScript_PH_Hashtag_(Intensivao).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **5 Horas**; Concluído em: **01/09/23**; [Pasta do Projeto]()}
 
 <a name="item5.24"><h4>5.24. Programming - Python</h4></a>
 [Back to item 5](#item5)
 
-- [Intensivão de Python](../cert_ti/05-particip/programming/python/(23-05-23)%20Cert%20Python%20PH%20Hashtag%20(Intesivão).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **8 Horas**; Concluído em: **18/05/23**; [Pasta do Projeto]()}
-- [Jornada de Python](../cert_ti/05-particip/programming/python/(23-07-27)%20Cert%20Python%20PH%20Hashtag%20(Jornada).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **8 Horas**; Concluído em: **27/07/23**; [Pasta do Projeto]()}
+- [Intensivão de Python](../cert_ti/05-particip/programming/python/(23-05-23)_Cert_Python_PH_Hashtag_(Intesivao).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **8 Horas**; Concluído em: **18/05/23**; [Pasta do Projeto]()}
+- [Jornada de Python](../cert_ti/05-particip/programming/python/(23-07-27)_Cert_Python_PH_Hashtag_(Jornada).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **8 Horas**; Concluído em: **27/07/23**; [Pasta do Projeto]()}
 
 ---
 
@@ -336,11 +336,11 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 [Back to summary](#item0) 
 
 <div>
-  <img src="../cert_ti/06-badgr/(22-08-03)%20Docker%20PH%20Iniciativa%20Devops.png" alt="iniciativa_devops-docker" width="auto" height="180">
-  <img src="../cert_ti/06-badgr/(22-08-05) Kubernetes PH Iniciativa Devops.png" alt="iniciativa_devops-kubernetes" width="auto" height="180">
-  <img src="../cert_ti/06-badgr/(22-08-06) Terraform PH Iniciativa Devops.png" alt="iniciativa_devops-terrafom" width="auto" height="180">
-  <img src="../cert_ti/06-badgr/(22-08-06) GitHub Actions PH Iniciativa Devops.png" alt="iniciativa_devops-github_actions" width="auto" height="180">
-  <img src="../cert_ti/06-badgr/(22-08-07) Prometheus e Grafana PH Iniciativa Devops.png" alt="iniciativa_devops-prometheus_grafana" width="auto" height="180">
+  <img src="../cert_ti/06-badgr/(22-08-03)_Docker_PH_Iniciativa_Devops.png" alt="iniciativa_devops-docker" width="auto" height="180">
+  <img src="../cert_ti/06-badgr/(22-08-05)_Kubernetes_PH_Iniciativa_Devops.png" alt="iniciativa_devops-kubernetes" width="auto" height="180">
+  <img src="../cert_ti/06-badgr/(22-08-06)_Terraform_PH_Iniciativa_Devops.png" alt="iniciativa_devops-terrafom" width="auto" height="180">
+  <img src="../cert_ti/06-badgr/(22-08-06)_GitHub_Actions_PH_Iniciativa_Devops.png" alt="iniciativa_devops-github_actions" width="auto" height="180">
+  <img src="../cert_ti/06-badgr/(22-08-07)_Prometheus...Grafana_PH_Iniciativa_Devops.png" alt="iniciativa_devops-prometheus_grafana" width="auto" height="180">
 </div>
 
 
