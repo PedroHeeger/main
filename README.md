@@ -352,7 +352,7 @@ These are my main projects from my repositories.
 <summary><a name="item10"><h2 style="margin: 0;">10. Main Projects</h2></a></summary>
     <details><summary>Cloud Computing</summary>
         <ul>
-            <li><details><summary>AWS   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="auto" height="25"></summary>
+            <li><details><summary>AWS   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="auto" height="25"></summary>
                 <ul>
                     <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011">boot_011 (Bootcamp Cloud AWS)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/aws/boot_011/0-aux/logo_boot.png" alt="boot_011" width="auto" height="25"></a></li>
                     <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_012">boot_012 (Formação AWS Cloud Practitioner Certification)   <img src="https://github.com/PedroHeeger/boot/blob/main/dio/aws/boot_012/0-aux/logo_boot.png" alt="boot_012" width="auto" height="25"></a></li>
@@ -457,6 +457,8 @@ These are my main projects from my repositories.
                     <li><a href="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_081">curso_081 (Imersão DevOps & Cloud 1)   <img src="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_081/0-aux/logo_course.png" alt="curso_081" width="auto" height="25"></a></li>
                     <li><a href="https://github.com/PedroHeeger/course/tree/main/4.linux/devops/curso_085">curso_085 (DevOps Essentials)   <img src="https://github.com/PedroHeeger/course/blob/main/4.linux/devops/curso_085/0-aux/logo_course.jpg" alt="curso_085" width="auto" height="25"></a></li>
                     <li><a href="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_116">curso_116 (Imersão Docker e Kubernetes)   <img src="https://github.com/PedroHeeger/course/blob/main/outros/fabricio_veronez/devops/curso_116/0-aux/logo_course.png" alt="curso_116" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017">boot_017 (Formação DevOps Fundamentals)   <img src="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017/0-aux/logo_boot.png" alt="boot_017" width="auto" height="25"></a></li>
+                    <li><a href="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_020">boot_020 (Jornada DevOps com AWS - Impulso)   <img src="https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_020/0-aux/logo_boot.webp" alt="boot_020" width="auto" height="25"></a></li>
                 </ul>
             </details></li>
         </ul>

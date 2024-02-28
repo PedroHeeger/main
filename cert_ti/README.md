@@ -60,7 +60,8 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Descubra a Nuvem AWS - Nexa Resources](../cert_ti/03-conclu/cloud/aws/(23-09-14)_Cert_Descubra...Nuvem_AWS-Nexa_Resources_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **6 Horas**; Concluído em: **14/09/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_013)}
 - [Descubra a Nuvem AWS – LocalizaLabs](../cert_ti/03-conclu/cloud/aws/(23-09-14)_Cert_Descubra...Nuvem_AWS-LocalizaLabs_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **14/09/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_014)}
 - [Formação Kubernetes Fundamentals](../cert_ti/03-conclu/distributed_computing/kubernetes/(24-02-20)_Cert_Formacao_Kubernetes_Fundamentals_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **19 Horas**; Concluído em: **20/02/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015)}
-- [Formação DevOps Fundamentals](../cert_ti/03-conclu/development/devops/(24-04-23)_Cert_Formacao_DevOps_Fundamentals_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **14 Horas**; Concluído em: **23/02/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017)}
+- [Formação DevOps Fundamentals](../cert_ti/03-conclu/development/devops/(24-02-23)_Cert_Formacao_DevOps_Fundamentals_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **14 Horas**; Concluído em: **23/02/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017)}
+- [Jornada DevOps com AWS - Impulso](../cert_ti/03-conclu/development/devops/(24-02-28)_Cert_Jornada_DevOps...AWS-Impulso_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **69 Horas**; Concluído em: **28/02/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017)}
 
 ---
 
