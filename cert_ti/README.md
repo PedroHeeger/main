@@ -17,17 +17,18 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
     4.11 <a href="#item4.11">Distributed Computing - Kubernetes</a><br>
     4.15. <a href="#item4.15">Network</a><br>
     4.17. <a href="#item4.17">Operating System (OS)</a><br>
-    4.22. <a href="#item4.22">Programming - Lógica e Algoritmo</a><br>
+    4.21. <a href="#item4.21">Programming - HTML</a></details>
+    4.22. <a href="#item4.22">Programming - Java</a><br>
     4.23. <a href="#item4.23">Programming - JavaScript</a><br>
-    4.24. <a href="#item4.24">Programming - Python</a><br>
-    4.25. <a href="#item4.25">Programming - Java</a><br>
-    4.26. <a href="#item4.26">Programming - HTML</a></details>
+    4.24. <a href="#item4.24">Programming - Lógica e Algoritmo</a><br>
+    4.25. <a href="#item4.25">Programming - PowerShell</a><br>
+    4.26. <a href="#item4.26">Programming - Python</a><br>
 5. <details><summary><a href="#item5">Certificados de Participação de Eventos</a></summary>
     5.4. <a href="#item5.4">Data - Excel</a><br>
     5.5. <a href="#item5.5">Data - Power BI</a><br>
     5.7. <a href="#item5.7">Development - Devops</a><br>
     5.23. <a href="#item5.23">Programming - JavaScript</a><br>
-    5.24. <a href="#item5.24">Programming - Python</a></details>
+    5.26. <a href="#item5.26">Programming - Python</a></details>
 6. <a href="#item6">Badges Conquistadas</a>
 
 ---
@@ -212,31 +213,22 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [701 - Linux Fundamentals](../cert_ti/04-curso/os/linux/(23-08-22)_Linux_Fundamentals_PH_4.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **20 Horas**; Concluído em: **22/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_077)}
 - [702 - Linux Essentials](../cert_ti/04-curso/os/linux/(23-11-05)_Linux_Essentials_PH_4.Linux.pdf) {Plataforma: **4.Linux**; Carga Horária: **20 Horas**; Concluído em: **05/11/23**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/4.linux/linux/curso_083)}
 
-<a name="item4.22"><h4>4.22. Programming - Lógica e Algoritmo</h4></a>
+<a name="item4.21"><h4>4.21. Programming - HTML</h4></a>
 [Back to item 4](#item4)
 
-- [Lógica 18+](../cert_ti/04-curso/programming/logica_algoritmo/(22-04-29)_Cert_Logica_18+_PH_SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **29/04/22**; [Pasta do Projeto]()}
-- [Introdução à Programação e Pensamento Computacional](../cert_ti/04-curso/programming/logica_algoritmo/(22-10-09)...Programacao...Pensamento_Computacional_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **09/10/22**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/01.05-logica_programacao)}
+- [Entendendo Comunicação Client x Server](../cert_ti/04-curso/programming/html/(23-08-23)_Entendendo_Comunicacao_Client...Server_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **23/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/01-primeiros_passos#item1.1)}
+- [Introdução ao HTML na Prática](../cert_ti/04-curso/programming/html/(23-08-23)_Introducao...HTML_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **23/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/01-primeiros_passos#item1.2)}
+- [Criar Uma Página Web Utilizando as Tags Aprendidas](../cert_ti/04-curso/programming/html/(23-08-23)_Criar...Pagina_Web...PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **23/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/01-primeiros_passos#item1.4)}
+- [Trabalhando com Formulários em HTML](../cert_ti/04-curso/programming/html/(23-08-24)_Trabalhando....Formularios...HTML_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **24/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/02-conceitos_basicos#item2.1)}
+- [Estruturando seu HTML + Formatações](../cert_ti/04-curso/programming/html/(23-08-24)_Estruturando...HTML...Formatacoes_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **24/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/02-conceitos_basicos#item2.2)}
+- [Trabalhando com Mídias utilizando HTML](../cert_ti/04-curso/programming/html/(23-08-24)_Trabalhando...Midias_utilizando_HTML_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **24/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/02-conceitos_basicos#item2.3)}
+- [Criando Tabelas com HTML](../cert_ti/04-curso/programming/html/(23-08-24)_Criando_Tabelas...HTML_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **24/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/02-conceitos_basicos#item2.4)}
+- [Criando seu Primeiro Site Completo com HTML](../cert_ti/04-curso/programming/html/(23-08-25)_Criando...Site_Completo...HTML_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **25/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/02-conceitos_basicos#item2.5)}
+- [Entendendo HTML Semântico](../cert_ti/04-curso/programming/html/(23-08-25)_Entendendo_HTML_Semantico_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **25/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/03-ampliando_conhecimento#item3.1)}
+- [HTML: Recursos Especiais](../cert_ti/04-curso/programming/html/(23-08-25)_HTML_Recursos_Especiais_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **25/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/03-ampliando_conhecimento#item3.2)}
+- [Recriando o Wikipedia com Layout Moderno](../cert_ti/04-curso/programming/html/(23-08-25)_Recriando...Wikipedia...PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **25/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/03-ampliando_conhecimento#item3.3)}
 
-<a name="item4.23"><h4>4.23. Programming - JavaScript</h4></a>
-[Back to item 4](#item4)
-
-- [JavaScript](../cert_ti/04-curso/programming/java_script/(22-08-20)_Cert_JavaScript_PH_CEV.pdf) {Plataforma: **Curso em Vídeo**; Carga Horária: **40 Horas**; Concluído em: **20/08/22**; [Pasta do Projeto]()}
-- [Fundamentos de Codificação](../cert_ti/04-curso/programming/java_script/(21-06-19)_Cert_JS_1_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **19/06/21**; Sem Pasta}
-- [Fundamentos de Programação II](../cert_ti/04-curso/programming/java_script/(22-08-22)_Cert_JS_2_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **22/08/22**; Sem Pasta}
-- [Introdução à Entrevista](../cert_ti/04-curso/programming/java_script/(22-09-22)_Cert_JS_3_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **22/09/22**; Sem Pasta}
-- [Métodos de Array](../cert_ti/04-curso/programming/java_script/(22-10-24)_Cert_JS_4_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **24/10/22**; Sem Pasta}
-- [Animações](../cert_ti/04-curso/programming/java_script/(22-10-24)_Cert_JS_5_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **24/10/22**; Sem Pasta}
-- [Animações II](../cert_ti/04-curso/programming/java_script/(23-02-20)_Cert_JS_6_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **20/02/23**; Sem Pasta}
-
-<a name="item4.24"><h4>4.24. Programming - Python</h4></a>
-[Back to item 4](#item4)
-
-- [SoulOn  - Python 1](../cert_ti/04-curso/programming/python/(21-11-28)_Cert_Mod-1_Python_PH_SCA_(R1).pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **28/11/21**; [Pasta do Projeto]()}
-- [SoulOn  - Python 2](../cert_ti/04-curso/programming/python/(22-04-25)_Cert_Mod-2_Python_PH_SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**;Concluído em: **25/04/22**; [Pasta do Projeto]()}
-- [SoulOn  - Python 3](../cert_ti/04-curso/programming/python/(22-04-27)_Cert_Mod-3_Python_PH_SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **27/04/22**; [Pasta do Projeto]()}
-
-<a name="item4.25"><h4>4.25. Programming - Java</h4></a>
+<a name="item4.22"><h4>4.22. Programming - Java</h4></a>
 [Back to item 4](#item4)
 
 - [Introdução à Plataforma Java](../cert_ti/04-curso/programming/java/(23-08-26)_Introducao...Plataforma_Java_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **26/08/2023**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/java/boot_010/01-fundamentos#item1.1)}
@@ -276,22 +268,34 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Explorando Padrões de Projetos na Prática com Java](../cert_ti/04-curso/programming/java) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **27/08/2023**; [Pasta do Projeto]()}
 - [Conhecendo Spring Data JPA na prática com Java](../cert_ti/04-curso/programming/java) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **27/08/2023**; [Pasta do Projeto]()}
 
-
-
-<a name="item4.26"><h4>4.26. Programming - HTML</h4></a>
+<a name="item4.23"><h4>4.23. Programming - JavaScript</h4></a>
 [Back to item 4](#item4)
 
-- [Entendendo Comunicação Client x Server](../cert_ti/04-curso/programming/html/(23-08-23)_Entendendo_Comunicacao_Client...Server_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **23/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/01-primeiros_passos#item1.1)}
-- [Introdução ao HTML na Prática](../cert_ti/04-curso/programming/html/(23-08-23)_Introducao...HTML_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **23/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/01-primeiros_passos#item1.2)}
-- [Criar Uma Página Web Utilizando as Tags Aprendidas](../cert_ti/04-curso/programming/html/(23-08-23)_Criar...Pagina_Web...PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **23/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/01-primeiros_passos#item1.4)}
-- [Trabalhando com Formulários em HTML](../cert_ti/04-curso/programming/html/(23-08-24)_Trabalhando....Formularios...HTML_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **24/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/02-conceitos_basicos#item2.1)}
-- [Estruturando seu HTML + Formatações](../cert_ti/04-curso/programming/html/(23-08-24)_Estruturando...HTML...Formatacoes_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **24/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/02-conceitos_basicos#item2.2)}
-- [Trabalhando com Mídias utilizando HTML](../cert_ti/04-curso/programming/html/(23-08-24)_Trabalhando...Midias_utilizando_HTML_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **24/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/02-conceitos_basicos#item2.3)}
-- [Criando Tabelas com HTML](../cert_ti/04-curso/programming/html/(23-08-24)_Criando_Tabelas...HTML_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **24/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/02-conceitos_basicos#item2.4)}
-- [Criando seu Primeiro Site Completo com HTML](../cert_ti/04-curso/programming/html/(23-08-25)_Criando...Site_Completo...HTML_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **25/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/02-conceitos_basicos#item2.5)}
-- [Entendendo HTML Semântico](../cert_ti/04-curso/programming/html/(23-08-25)_Entendendo_HTML_Semantico_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **25/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/03-ampliando_conhecimento#item3.1)}
-- [HTML: Recursos Especiais](../cert_ti/04-curso/programming/html/(23-08-25)_HTML_Recursos_Especiais_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **25/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/03-ampliando_conhecimento#item3.2)}
-- [Recriando o Wikipedia com Layout Moderno](../cert_ti/04-curso/programming/html/(23-08-25)_Recriando...Wikipedia...PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **25/08/23**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/html/boot_007/03-ampliando_conhecimento#item3.3)}
+- [JavaScript](../cert_ti/04-curso/programming/java_script/(22-08-20)_Cert_JavaScript_PH_CEV.pdf) {Plataforma: **Curso em Vídeo**; Carga Horária: **40 Horas**; Concluído em: **20/08/22**; [Pasta do Projeto]()}
+- [Fundamentos de Codificação](../cert_ti/04-curso/programming/java_script/(21-06-19)_Cert_JS_1_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **19/06/21**; Sem Pasta}
+- [Fundamentos de Programação II](../cert_ti/04-curso/programming/java_script/(22-08-22)_Cert_JS_2_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **22/08/22**; Sem Pasta}
+- [Introdução à Entrevista](../cert_ti/04-curso/programming/java_script/(22-09-22)_Cert_JS_3_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **22/09/22**; Sem Pasta}
+- [Métodos de Array](../cert_ti/04-curso/programming/java_script/(22-10-24)_Cert_JS_4_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **24/10/22**; Sem Pasta}
+- [Animações](../cert_ti/04-curso/programming/java_script/(22-10-24)_Cert_JS_5_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **24/10/22**; Sem Pasta}
+- [Animações II](../cert_ti/04-curso/programming/java_script/(23-02-20)_Cert_JS_6_PH_GrassH.png) {Plataforma: **Grasshoper**; Carga Horária: -; Concluído em: **20/02/23**; Sem Pasta}
+
+<a name="item4.24"><h4>4.24. Programming - Lógica e Algoritmo</h4></a>
+[Back to item 4](#item4)
+
+- [Lógica 18+](../cert_ti/04-curso/programming/logica_algoritmo/(22-04-29)_Cert_Logica_18+_PH_SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **29/04/22**; [Pasta do Projeto]()}
+- [Introdução à Programação e Pensamento Computacional](../cert_ti/04-curso/programming/logica_algoritmo/(22-10-09)...Programacao...Pensamento_Computacional_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **09/10/22**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/01.05-logica_programacao)}
+
+<a name="item4.25"><h4>4.25. Programming - Python</h4></a>
+[Back to item 4](#item4)
+
+- [Aprenda PowerShell do zero](../cert_ti/04-curso/programming/power_shell/(24-03-20)_Cert_PowerShell_PH_UDM.pdf) {Plataforma: **Udemy**; Carga Horária: **4 Horas**; Concluído em: **20/03/24**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/udemy/powershell/curso_119)}
+
+<a name="item4.26"><h4>4.26. Programming - Python</h4></a>
+[Back to item 4](#item4)
+
+- [SoulOn  - Python 1](../cert_ti/04-curso/programming/python/(21-11-28)_Cert_Mod-1_Python_PH_SCA_(R1).pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **28/11/21**; [Pasta do Projeto]()}
+- [SoulOn  - Python 2](../cert_ti/04-curso/programming/python/(22-04-25)_Cert_Mod-2_Python_PH_SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**;Concluído em: **25/04/22**; [Pasta do Projeto]()}
+- [SoulOn  - Python 3](../cert_ti/04-curso/programming/python/(22-04-27)_Cert_Mod-3_Python_PH_SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **27/04/22**; [Pasta do Projeto]()}
 
 ---
 
@@ -325,7 +329,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 
 - [Intensivão de JavaScript](../cert_ti/05-particip/programming/java_script/(23-09-09)_Cert_JavaScript_PH_Hashtag_(Intensivao).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **5 Horas**; Concluído em: **01/09/23**; [Pasta do Projeto]()}
 
-<a name="item5.24"><h4>5.24. Programming - Python</h4></a>
+<a name="item5.26"><h4>5.26. Programming - Python</h4></a>
 [Back to item 5](#item5)
 
 - [Intensivão de Python](../cert_ti/05-particip/programming/python/(23-05-23)_Cert_Python_PH_Hashtag_(Intesivao).pdf) {Plataforma: **Hashtag Treinamentos**; Carga Horária: **8 Horas**; Concluído em: **18/05/23**; [Pasta do Projeto]()}
