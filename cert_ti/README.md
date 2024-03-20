@@ -17,12 +17,12 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
     4.11 <a href="#item4.11">Distributed Computing - Kubernetes</a><br>
     4.15. <a href="#item4.15">Network</a><br>
     4.17. <a href="#item4.17">Operating System (OS)</a><br>
-    4.21. <a href="#item4.21">Programming - HTML</a></details>
+    4.21. <a href="#item4.21">Programming - HTML</a>
     4.22. <a href="#item4.22">Programming - Java</a><br>
     4.23. <a href="#item4.23">Programming - JavaScript</a><br>
     4.24. <a href="#item4.24">Programming - Lógica e Algoritmo</a><br>
     4.25. <a href="#item4.25">Programming - PowerShell</a><br>
-    4.26. <a href="#item4.26">Programming - Python</a><br>
+    4.26. <a href="#item4.26">Programming - Python</a><br></details>
 5. <details><summary><a href="#item5">Certificados de Participação de Eventos</a></summary>
     5.4. <a href="#item5.4">Data - Excel</a><br>
     5.5. <a href="#item5.5">Data - Power BI</a><br>
