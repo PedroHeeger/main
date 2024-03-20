@@ -285,7 +285,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Lógica 18+](../cert_ti/04-curso/programming/logica_algoritmo/(22-04-29)_Cert_Logica_18+_PH_SCA.pdf) {Plataforma: **SoulCode Academy**; Carga Horária: **40 Horas**; Concluído em: **29/04/22**; [Pasta do Projeto]()}
 - [Introdução à Programação e Pensamento Computacional](../cert_ti/04-curso/programming/logica_algoritmo/(22-10-09)...Programacao...Pensamento_Computacional_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **09/10/22**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/01.05-logica_programacao)}
 
-<a name="item4.25"><h4>4.25. Programming - Python</h4></a>
+<a name="item4.25"><h4>4.25. Programming - PowerShell</h4></a>
 [Back to item 4](#item4)
 
 - [Aprenda PowerShell do zero](../cert_ti/04-curso/programming/power_shell/(24-03-20)_Cert_PowerShell_PH_UDM.pdf) {Plataforma: **Udemy**; Carga Horária: **4 Horas**; Concluído em: **20/03/24**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/udemy/powershell/curso_119)}
