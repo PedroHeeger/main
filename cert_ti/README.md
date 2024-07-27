@@ -5,6 +5,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 
 <a name="item0"><h2>Summary</h2></a>
 1. <a href="#item1">Certificações Especiais</a><br>
+    1.1. <a href="#item1.1">Cloud - AWS</a><br>
 2. <a href="#item2">Selos de Competência do Linkedin</a><br>
 3. <a href="#item3">Certificados de Conclusão de Bootcamp</a><br>
 4. <details><summary><a href="#item4">Certificados de Conclusão de Curso</a></summary>
@@ -35,6 +36,11 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 
 <a name="item1"><h3>1. Certificações Especiais</h3></a>
 [Back to summary](#item0) 
+
+<a name="item1.1"><h4>1.1. Cloud - AWS</h4></a>
+[Back to item 1](#item1)
+
+- [AWS Certified Cloud Practitioner](../cert_ti/01-espec/cloud/aws/(24-07-22)_aws_clf-c02.pdf) {Plataforma: **AWS**; Carga Horária: -; Concluído em: **22/07/2024**}
 
 ---
 
@@ -341,6 +347,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 [Back to summary](#item0) 
 
 <div>
+  <img src="../cert_ti/06-badgr/(24-07-22)_aws_clf-c02.png" alt="aws_clf-c02" width="auto" height="180">
   <img src="../cert_ti/06-badgr/(22-08-03)_Docker_PH_Iniciativa_Devops.png" alt="iniciativa_devops-docker" width="auto" height="180">
   <img src="../cert_ti/06-badgr/(22-08-05)_Kubernetes_PH_Iniciativa_Devops.png" alt="iniciativa_devops-kubernetes" width="auto" height="180">
   <img src="../cert_ti/06-badgr/(22-08-06)_Terraform_PH_Iniciativa_Devops.png" alt="iniciativa_devops-terrafom" width="auto" height="180">
