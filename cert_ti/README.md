@@ -4,8 +4,8 @@
 Neste repositório apresento todas as certificações em tecnologia que tirei durante minha jornada. Essas certificações são divididas em seis tipos que são:  certificações especiais (de plataformas de software como: Microsoft, AWS, Google, Databricks, Cisco, entre outras), selos de competência do **Linkedin**, certificados de conclusão de bootcamp, certificados de conclusão de curso, certificados de participação de eventos e badgr conquistadas.
 
 <a name="item0"><h2>Summary</h2></a>
-1. <a href="#item1">Certificações Especiais</a><br>
-    1.1. <a href="#item1.1">Cloud - AWS</a><br>
+1. <details><summary><a href="#item1">Certificações Especiais</a></summary>
+    1.1. <a href="#item1.1">Cloud - AWS</a><br></details>
 2. <a href="#item2">Selos de Competência do Linkedin</a><br>
 3. <a href="#item3">Certificados de Conclusão de Bootcamp</a><br>
 4. <details><summary><a href="#item4">Certificados de Conclusão de Curso</a></summary>
@@ -40,7 +40,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item1.1"><h4>1.1. Cloud - AWS</h4></a>
 [Back to item 1](#item1)
 
-- [AWS Certified Cloud Practitioner](../cert_ti/01-espec/cloud/aws/(24-07-22)_aws_clf-c02.pdf) {Plataforma: **AWS**; Carga Horária: -; Concluído em: **22/07/2024**}
+- [AWS Certified Cloud Practitioner](../cert_ti/01-espec/cloud/aws/(24-07-22)_aws_clf-c02.pdf) {Plataforma: **AWS**; Carga Horária: -; Concluído em: **22/07/2024**; [Badge](../cert_ti/06-badgr/(24-07-22)_aws_clf-c02.png)}
 
 ---
 
