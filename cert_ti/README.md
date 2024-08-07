@@ -69,6 +69,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Formação Kubernetes Fundamentals](../cert_ti/03-conclu/distributed_computing/kubernetes/(24-02-20)_Cert_Formacao_Kubernetes_Fundamentals_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **19 Horas**; Concluído em: **20/02/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/kubernetes/boot_015)}
 - [Formação DevOps Fundamentals](../cert_ti/03-conclu/development/devops/(24-02-23)_Cert_Formacao_DevOps_Fundamentals_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **14 Horas**; Concluído em: **23/02/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017)}
 - [Jornada DevOps com AWS - Impulso](../cert_ti/03-conclu/development/devops/(24-02-28)_Cert_Jornada_DevOps...AWS-Impulso_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **69 Horas**; Concluído em: **28/02/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_020)}
+- [Programa AWS re/Start](../cert_ti/03-conclu/cloud/aws/(24-07-30)_Cert_Programa_AWS_re-start.pdf) {Plataforma: **Escola da Nuvem (EDN)**; Carga Horária: **181 Horas**; Concluído em: **30/07/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_022)}
 
 ---
 
