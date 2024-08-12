@@ -9,7 +9,8 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 2. <a href="#item2">Selos de Competência do Linkedin</a><br>
 3. <a href="#item3">Certificados de Conclusão de Bootcamp</a><br>
 4. <details><summary><a href="#item4">Certificados de Conclusão de Curso</a></summary>
-    4.1. <a href="#item4.1">Cloud - AWS</a><br>
+    4.1. <a href="#item4.1">Artificial Intelligence (AI)</a><br>
+    4.2. <a href="#item4.2">Cloud - AWS</a><br>
     4.4. <a href="#item4.4">Data - Excel</a><br>
     4.6. <a href="#item4.6">Development</a><br>
     4.7. <a href="#item4.7">Development - DevOps</a><br>
@@ -70,6 +71,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Formação DevOps Fundamentals](../cert_ti/03-conclu/development/devops/(24-02-23)_Cert_Formacao_DevOps_Fundamentals_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **14 Horas**; Concluído em: **23/02/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_017)}
 - [Jornada DevOps com AWS - Impulso](../cert_ti/03-conclu/development/devops/(24-02-28)_Cert_Jornada_DevOps...AWS-Impulso_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **69 Horas**; Concluído em: **28/02/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_020)}
 - [Programa AWS re/Start](../cert_ti/03-conclu/cloud/aws/(24-07-30)_Cert_Programa_AWS_re-start.pdf) {Plataforma: **Escola da Nuvem (EDN)**; Carga Horária: **181 Horas**; Concluído em: **30/07/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_022)}
+- [Formação Fundamentos de Inteligência Artificial](../cert_ti/03-conclu/ai/(24-08-12)_Cert_Formacao_Fundamentos...IA_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **10 Horas**; Concluído em: **12/08/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024)}
 
 ---
 
@@ -77,6 +79,16 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 [Back to summary](#item0)
 
 <a name="item4.1"><h4>4.1. Cloud - AWS</h4></a>
+[Back to item 4](#item4)
+
+- [Introdução à Inteligência Artificial](../cert_ti/04-curso/ai/(24-08-09)_Introducao...IA_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **09/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item1.1)}
+- [Aplicações e Impacto da IA no Mundo Atual](../cert_ti/04-curso/ai/(24-08-09)_Aplicacoes...IA...Mundo_Atual_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **09/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item1.2)}
+- [Aplicações Práticas da Inteligência Artificial](../cert_ti/04-curso/ai/(24-08-10)_Aplicacoes_Pratica...IA_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **10/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item2.1)}
+- [Desafio de Projeto: Natural ou Fake Natty? Como Vencer na Era das Ias Generativas!](../cert_ti/04-curso/ai/(24-08-12)_DP-Natural...Fake_Natty...IAs_Generativas_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **12/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item2.2)}
+- [Visão Computacional](../cert_ti/04-curso/ai/(24-08-12)_Visao_Computacional_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **12/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item3.3)}
+
+
+<a name="item4.2"><h4>4.2. Cloud - AWS</h4></a>
 [Back to item 4](#item4)
 
 - [Primeiros Passos com AWS](../cert_ti/04-curso/cloud/aws/(22-11-22)_Primeiros_Passos...AWS_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **22/11/2022**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/aws/boot_011/03-aws_foundation#item3.1)}
