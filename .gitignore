@@ -4,6 +4,8 @@ cert_ti/0-sub-pastas
 cert_ti/02-selos
 cert_ti/03-conclu/ai/mat
 cert_ti/03-conclu/ai/mod
+cert_ti/03-conclu/blockchain/mat
+cert_ti/03-conclu/blockchain/mod
 cert_ti/03-conclu/cloud/aws/mat
 cert_ti/03-conclu/cloud/aws/mod
 cert_ti/03-conclu/data/mat
