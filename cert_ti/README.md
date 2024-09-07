@@ -83,11 +83,19 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item4.1"><h4>4.1. Artificial Intelligence (AI)</h4></a>
 [Back to item 4](#item4)
 
+- [Algoritmos e Aprendizado de Máquina](../cert_ti/04-curso/ai/(24-08-07)_Algoritmos...Aprendizado...Maquina_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **07/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/01-fundamentos_ml_ia_gen#item1.2)}
+- [Processamento de Linguagem Natural](../cert_ti/04-curso/ai/(24-08-07)_Processamento...Linguagem_Natural_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **07/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/01-fundamentos_ml_ia_gen#item1.3)}
+- [O que são IAs Generativas](../cert_ti/04-curso/ai/(24-08-07)...IAs_Generativas_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **07/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/01-fundamentos_ml_ia_gen#item1.4)}
+- [Introdução ao SageMaker Canvas: IA Generativas Sem Código](../cert_ti/04-curso/ai/(24-08-09)_Introducao...SageMaker_Canvas...PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **3 Horas**; Concluído em: **09/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/02-nlp#item2.2)}
+- [Transformando Dados em Insights com SageMaker Canvas](../cert_ti/04-curso/ai/(24-08-09)_Transformando...Insights...SageMaker_Cavans_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **09/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/02-nlp#item2.3)}
+- [Desafios de Projetos: Previsão de Estoque Inteligente na AWS com Sagemaker Canvas](../cert_ti/04-curso/ai/) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **09/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/02-nlp#item2.7)}
+
 - [Introdução à Inteligência Artificial](../cert_ti/04-curso/ai/(24-08-09)_Introducao...IA_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **09/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item1.1)}
 - [Aplicações e Impacto da IA no Mundo Atual](../cert_ti/04-curso/ai/(24-08-09)_Aplicacoes...IA...Mundo_Atual_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **09/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item1.2)}
 - [Aplicações Práticas da Inteligência Artificial](../cert_ti/04-curso/ai/(24-08-10)_Aplicacoes_Pratica...IA_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **10/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item2.1)}
 - [Desafio de Projeto: Natural ou Fake Natty? Como Vencer na Era das Ias Generativas!](../cert_ti/04-curso/ai/(24-08-12)_DP-Natural...Fake_Natty...IAs_Generativas_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **12/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item2.2)}
 - [Visão Computacional](../cert_ti/04-curso/ai/(24-08-12)_Visao_Computacional_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **12/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item3.3)}
+- [Mentoria: Amazon Bedrock: A Nova Era da Inteligência Artificial Generativa](../cert_ti/04-curso/ai/(24-09-06)_Ment_Amazon_Bedrock...IA_Generativa_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **06/09/2024**; [Pasta do Projeto]()}
 
 <a name="item4.2"><h4>4.2. Blockchain</h4></a>
 [Back to item 4](#item4)
