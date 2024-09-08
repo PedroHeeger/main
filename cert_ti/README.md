@@ -74,6 +74,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Programa AWS re/Start](../cert_ti/03-conclu/cloud/aws/(24-07-30)_Cert_Programa_AWS_re-start.pdf) {Plataforma: **Escola da Nuvem (EDN)**; Carga Horária: **181 Horas**; Concluído em: **30/07/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/devops/boot_022)}
 - [Formação Fundamentos de Inteligência Artificial](../cert_ti/03-conclu/ai/(24-08-12)_Cert_Formacao_Fundamentos...IA_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **10 Horas**; Concluído em: **12/08/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024)}
 - [Formação Web3 Fundamentals](../cert_ti/03-conclu/blockchain/(24-09-03)_Cert_Formacao_Web3_Fundamentals_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **28 Horas**; Concluído em: **03/09/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/)}
+- [Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3](../cert_ti/03-conclu/ai/(24-09-08)_Cert_Bootcamp_Nexa...IA_Generativa...Claude_3_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **10 Horas**; Concluído em: **08/09/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_028)}
 
 ---
 
@@ -95,7 +96,9 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Aplicações Práticas da Inteligência Artificial](../cert_ti/04-curso/ai/(24-08-10)_Aplicacoes_Pratica...IA_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **10/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item2.1)}
 - [Desafio de Projeto: Natural ou Fake Natty? Como Vencer na Era das Ias Generativas!](../cert_ti/04-curso/ai/(24-08-12)_DP-Natural...Fake_Natty...IAs_Generativas_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **12/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item2.2)}
 - [Visão Computacional](../cert_ti/04-curso/ai/(24-08-12)_Visao_Computacional_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **12/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024#item3.3)}
-- [Mentoria: Amazon Bedrock: A Nova Era da Inteligência Artificial Generativa](../cert_ti/04-curso/ai/(24-09-06)_Ment_Amazon_Bedrock...IA_Generativa_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **06/09/2024**; [Pasta do Projeto]()}
+- [Mentoria: Amazon Bedrock: A Nova Era da Inteligência Artificial Generativa](../cert_ti/04-curso/ai/(24-09-06)_Ment_Amazon_Bedrock...IA_Generativa_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **06/09/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_028#item2.1)}
+- [Mentoria: Dominando IA Generativa com Claude 3 no Amazon Bedrock](../cert_ti/04-curso/ai/(24-09-08)_Ment...IA_Generativa...Claude_3...Amazon_Bedrock_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **08/09/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_028#item2.2)}
+- [Mentoria: Amazon Q: IA Generatica como Copiloto de Programação Python](../cert_ti/04-curso/ai/(24-09-08)_Ment_Amazon%20Q_IA_Generativa...Copiloto...PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **08/09/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_028#item2.3)}
 
 <a name="item4.2"><h4>4.2. Blockchain</h4></a>
 [Back to item 4](#item4)
