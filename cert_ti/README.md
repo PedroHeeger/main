@@ -75,7 +75,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Formação Fundamentos de Inteligência Artificial](../cert_ti/03-conclu/ai/(24-08-12)_Cert_Formacao_Fundamentos...IA_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **10 Horas**; Concluído em: **12/08/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_024)}
 - [Formação Blockchain Specialist](../cert_ti/03-conclu/blockchain/(24-09-09)_Cert_Formacao_Blockchain_Specialist_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **25 Horas**; Concluído em: **09/09/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/)}
 - [Formação Web3 Fundamentals](../cert_ti/03-conclu/blockchain/(24-09-03)_Cert_Formacao_Web3_Fundamentals_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **28 Horas**; Concluído em: **03/09/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/)}
-- [Binance - Blockchain Developer with Solidity](../cert_ti/03-conclu/blockchain/(24-09-03)_Cert_Formacao_Web3_Fundamentals_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **28 Horas**; Concluído em: **09/09/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_027/)}
+- [Binance - Blockchain Developer with Solidity](../cert_ti/03-conclu/blockchain/(24-09-13)_Cert_Binance-Blockchain...Solidity_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **54 Horas**; Concluído em: **13/09/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_027/)}
 - [Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3](../cert_ti/03-conclu/ai/(24-09-08)_Cert_Bootcamp_Nexa...IA_Generativa...Claude_3_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **10 Horas**; Concluído em: **08/09/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_028)}
 
 ---
@@ -106,6 +106,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 [Back to item 4](#item4)
 
 - [Introdução à Blockchain](../cert_ti/04-curso/blockchain/(24-08-14)_Introducao...Blockchain_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **14/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/01-fundamentos_blockchain#item1.1)}
+
 - [Criando e Utilizando a Sua Carteira de Criptomoedas](../cert_ti/04-curso/blockchain/) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **28/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/01-fundamentos_blockchain#item1.2)}
 - [Operações da Blockchain](../cert_ti/04-curso/blockchain/(24-08-15)_Operacoes...Blockchain_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **15/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/01-fundamentos_blockchain#item1.3)}
 - [Cryptocurrencies com Blockchain](../cert_ti/04-curso/blockchain/(24-08-16)_Cryptocurrencies...Blockchain_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **16/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/02-crypto_blockchain#item2.1)}
@@ -119,20 +120,17 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Crie o seu NFT de Pokémon com Blockchain](../cert_ti/04-curso/blockchain/) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **20/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_025/03-solidity_blockchain#item3.5)}
 
 - [Entendendo Conceitos de Web3](../cert_ti/04-curso/blockchain/(24-08-21)_Entendendo...Web3_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **21/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/01-introducao_web3#item1.1)}
-- [Entendendo Conceitos de Blockchain](../cert_ti/04-curso/blockchain/(24-08-29)_Entendendo...Blockchain_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **29/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/02-blockchain_tokens#item2.1)}
-- [Como Token Fungíveis Funcionam](../cert_ti/04-curso/blockchain/(24-08-31)...Token_Fungiveis_Funcionam_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **31/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/02-blockchain_tokens#item2.3)}
+- [Entendendo Conceitos de Blockchain](../cert_ti/04-curso/blockchain/(24-08-29)_Entendendo...Blockchain_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **29/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/02-blockchain_tokens#item2.1)}
+- [Como Token Fungíveis Funcionam](../cert_ti/04-curso/blockchain/(24-08-31)...Token_Fungiveis_Funcionam_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **3 Horas**; Concluído em: **31/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/02-blockchain_tokens#item2.3)}
 - [Criando o Seu Primeiro Token do Zero nos Padrões Web3](../cert_ti/04-curso/blockchain/(24-08-31)_DP_Criando...Token...Web3_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **31/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/02-blockchain_tokens#item2.4)}
 - [Introdução ao NFT: Funcionamento e Marketplaces](../cert_ti/04-curso/blockchain/(24-08-31)_Introducao...NFT_Funcionamento...PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **3 Horas**; Concluído em: **31/08/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/02-blockchain_tokens#item2.5)}
 - [Criando um NFT na Prática](../cert_ti/04-curso/blockchain/(24-09-03)_DP_Criando...NFT...Pratica_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **03/09/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/02-blockchain_tokens#item2.6)}
 - [Decentralized Autonomous Organizations (DAO)](../cert_ti/04-curso/blockchain/(24-09-03)_DAO_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/09/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/03-web3_descentralizacao#item3.1)}
 - [Decentralized Finance (DeFi)](../cert_ti/04-curso/blockchain/(24-09-03)_DeFi_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **3 Horas**; Concluído em: **03/09/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/03-web3_descentralizacao#item3.2)}
-- [Criando uma Organização Autônoma Descentralizada nos Padrões Web3](../cert_ti/04-curso/blockchain/(24-09-02)_DP_Criando...DAO...Web3_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **3 Horas**; Concluído em: **02/09/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/03-web3_descentralizacao#item3.3)}
+- [Criando uma Organização Autônoma Descentralizada nos Padrões Web3](../cert_ti/04-curso/blockchain/(24-09-02)_DP_Criando...DAO...Web3_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **02/09/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/03-web3_descentralizacao#item3.3)}
 - [Introdução ao Metaverso](../cert_ti/04-curso/blockchain/(24-09-03)_Introducao...Metaverso_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/09/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/04-metaverso_web3#item4.1)}
 - [Conhecendo o Mercado e Oportunidades Web3](../cert_ti/04-curso/blockchain/(24-09-03)...Mercado...Oportunidades_Web3_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/09/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_026/04-metaverso_web3#item4.2)}
 - [Introdução à Experiencia Blockchain e Web3](../cert_ti/04-curso/blockchain/) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **09/09/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_027#item1.1)}
-
-
-
 
 <a name="item4.3"><h4>4.3. Cloud - AWS</h4></a>
 [Back to item 4](#item4)
@@ -197,6 +195,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 
 - [Introdução ao Desenvolvimento Moderno de Software](../cert_ti/04-curso/development/(23-07-03)...Desenvolvimento_Moderno...Software_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **03/07/23**; Sem Pasta}
 - [Trabalhando em Equipes Ágeis](../cert_ti/04-curso/development/(23-07-03)_Trabalhando...Equipes_Ageis_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **3 Horas**; Concluído em: **03/07/23**; Sem Pasta}
+- [Introdução ao Desenvolvimento Low-Code](../cert_ti/04-curso/development/(24-08-08)_Introducao...Low-Code_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **08/08/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_023/02-nlp#item2.1)}
 
 <a name="item4.7"><h4>4.7. Development - Devops</h4></a>
 [Back to item 4](#item4)
@@ -222,7 +221,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Introdução ao Git e ao GitHub](../cert_ti/04-curso/development/versioning/git_github/(22-10-31)_Introducao...Git...GitHub_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **5 Horas**; Concluído em: **31/10/22**; [Pasta do Projeto]()}
 - [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](../cert_ti/04-curso/development/versioning/git_github/(22-11-08)_Criando...Primeiro_Repositorio_GitHub...PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **08/11/22**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/linux/boot_003/01.07-github)}
 - [Versionamento de Código com Git e GitHub](../cert_ti/04-curso/development/versioning/git_github/) {Plataforma: **DIO**; Carga Horária: **2 Horas**; Concluído em: **09/09/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_027#item1.4)}
-- [Desafio de Projeto: Contribuindo em um Projeto Open Source no GitHub](../cert_ti/04-curso/development/versioning/git_github/) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **09/09/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_027#item1.6)}
+- [Desafio de Projeto: Contribuindo em um Projeto Open Source no GitHub](../cert_ti/04-curso/development/versioning/git_github/) {Plataforma: **DIO**; Carga Horária: **1 Hora**; Concluído em: **13/09/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_027#item1.6)}
 
 <a name="item4.10"><h4>4.10. Distributed Computing - Docker</h4></a>
 [Back to item 4](#item4)
