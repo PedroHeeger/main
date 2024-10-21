@@ -184,6 +184,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Amazon CodeWhisperer: Introdução](../cert_ti/04-curso/cloud/aws/(23-12-28)_Amazon_CodeWhisperer..._PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **28/12/2023**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_112)}
 - [Introduction to Amazon SageMaker](../cert_ti/04-curso/cloud/aws/(23-12-29)_Introduction_to_Amazon_SageMaker_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **29/12/2023**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_113)}
 - [Amazon EKS Primer](../cert_ti/04-curso/cloud/aws/(24-01-10)_Amazon_EKS_Primer_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **10/01/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_114)}
+- [Getting Started with Amazon Simple Storage Service](../cert_ti/04-curso/cloud/aws/(24-10-14)_Getting_Started...Amazon_S3_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **14/10/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_125)}
 
 <a name="item4.4"><h4>4.4. Data - Excel</h4></a>
 [Back to item 4](#item4)
