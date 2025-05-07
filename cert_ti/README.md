@@ -187,6 +187,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Introduction to Amazon SageMaker](../cert_ti/04-curso/cloud/aws/(23-12-29)_Introduction_to_Amazon_SageMaker_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **29/12/2023**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_113)}
 - [Amazon EKS Primer](../cert_ti/04-curso/cloud/aws/(24-01-10)_Amazon_EKS_Primer_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **10/01/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_114)}
 - [Getting Started with Amazon Simple Storage Service](../cert_ti/04-curso/cloud/aws/(24-10-14)_Getting_Started...Amazon_S3_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **1 Hora**; Concluído em: **14/10/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_125)}
+- [AWS Partner: Cloud Economics](../cert_ti/04-curso/cloud/aws/250505_AWS_Partner_Cloud_Economics_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **2,5 Horas**; Concluído em: **05/05/2025**; [Pasta do Projeto](https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_001)}
 
 <a name="item4.4"><h4>4.4. Data - Excel</h4></a>
 [Back to item 4](#item4)
@@ -414,6 +415,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
   <img src="../cert_ti/06-badgr/(24-07-22)_aws_clf-c02.png" alt="aws_clf-c02" width="auto" height="180">
   <img src="../cert_ti/06-badgr/(24-07-30)_aws_re-start.png" alt="aws_re-start" width="auto" height="180">
   <img src="../cert_ti/06-badgr/250417_aws_educate_001.png" alt="aws_educate_001" width="auto" height="180">
+  <img src="../cert_ti/06-badgr/250505_aws_apn_001.png" alt="aws_apn_001" width="auto" height="180">
   <img src="../cert_ti/06-badgr/(22-08-03)_Docker_PH_Iniciativa_Devops.png" alt="iniciativa_devops-docker" width="auto" height="180">
   <img src="../cert_ti/06-badgr/(22-08-05)_Kubernetes_PH_Iniciativa_Devops.png" alt="iniciativa_devops-kubernetes" width="auto" height="180">
   <img src="../cert_ti/06-badgr/(22-08-06)_Terraform_PH_Iniciativa_Devops.png" alt="iniciativa_devops-terrafom" width="auto" height="180">
