@@ -188,6 +188,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Amazon EKS Primer](../cert_ti/04-curso/cloud/aws/(24-01-10)_Amazon_EKS_Primer_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **10/01/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_114)}
 - [Getting Started with Amazon Simple Storage Service](../cert_ti/04-curso/cloud/aws/(24-10-14)_Getting_Started...Amazon_S3_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **1 Hora**; Concluído em: **14/10/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_125)}
 - [AWS Partner: Cloud Economics](../cert_ti/04-curso/cloud/aws/250505_AWS_Partner_Cloud_Economics_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **2,5 Horas**; Concluído em: **05/05/2025**; [Pasta do Projeto](https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_001)}
+- [AWS Partner: Accreditation (Technical)](../cert_ti/04-curso/cloud/aws/250529_AWS_Partner_Accreditation_(Technical)_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **5 Horas**; Concluído em: **29/05/2025**; [Pasta do Projeto](https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_002)}
 
 <a name="item4.4"><h4>4.4. Data - Excel</h4></a>
 [Back to item 4](#item4)
