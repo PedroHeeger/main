@@ -417,6 +417,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
   <img src="../cert_ti/06-badgr/(24-07-30)_aws_re-start.png" alt="aws_re-start" width="auto" height="180">
   <img src="../cert_ti/06-badgr/250417_aws_educate_001.png" alt="aws_educate_001" width="auto" height="180">
   <img src="../cert_ti/06-badgr/250505_aws_apn_001.png" alt="aws_apn_001" width="auto" height="180">
+  <img src="../cert_ti/06-badgr/250529_aws_apn_002.png" alt="aws_apn_002" width="auto" height="180">
   <img src="../cert_ti/06-badgr/(22-08-03)_Docker_PH_Iniciativa_Devops.png" alt="iniciativa_devops-docker" width="auto" height="180">
   <img src="../cert_ti/06-badgr/(22-08-05)_Kubernetes_PH_Iniciativa_Devops.png" alt="iniciativa_devops-kubernetes" width="auto" height="180">
   <img src="../cert_ti/06-badgr/(22-08-06)_Terraform_PH_Iniciativa_Devops.png" alt="iniciativa_devops-terrafom" width="auto" height="180">
