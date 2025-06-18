@@ -42,7 +42,8 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 <a name="item1.1"><h4>1.1. Cloud - AWS</h4></a>
 [Back to item 1](#item1)
 
-- [AWS Certified Solutions Architect - Associate](../cert_ti/01-espec/cloud/aws/(25-02-03)_aws_saa-c03.pdf) {Plataforma: **AWS**; Carga Horária: -; Concluído em: **22/07/2024**; [Badge](../cert_ti/06-badgr/(25-02-03)_aws_saa-c03.png)}
+- [AWS Certified Solutions Architect - Associate](../cert_ti/01-espec/cloud/aws/250618_aws_dva-c02.pdf) {Plataforma: **AWS**; Carga Horária: -; Concluído em: **18/06/2025**; [Badge](../cert_ti/06-badgr/250618_aws_dva-c02.png)}
+- [AWS Certified Solutions Architect - Associate](../cert_ti/01-espec/cloud/aws/(25-02-03)_aws_saa-c03.pdf) {Plataforma: **AWS**; Carga Horária: -; Concluído em: **03/02/2025**; [Badge](../cert_ti/06-badgr/(25-02-03)_aws_saa-c03.png)}
 - [AWS Certified Cloud Practitioner](../cert_ti/01-espec/cloud/aws/(24-07-22)_aws_clf-c02.pdf) {Plataforma: **AWS**; Carga Horária: -; Concluído em: **22/07/2024**; [Badge](../cert_ti/06-badgr/(24-07-22)_aws_clf-c02.png)}
 
 ---
@@ -412,6 +413,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 [Back to summary](#item0) 
 
 <div>
+  <img src="../cert_ti/06-badgr/250618_aws_dva-c02.png" alt="aws_dva-c02" width="auto" height="180">
   <img src="../cert_ti/06-badgr/(25-02-03)_aws_saa-c03.png" alt="aws_saa-c03" width="auto" height="180">
   <img src="../cert_ti/06-badgr/(24-07-22)_aws_clf-c02.png" alt="aws_clf-c02" width="auto" height="180">
   <img src="../cert_ti/06-badgr/(24-07-30)_aws_re-start.png" alt="aws_re-start" width="auto" height="180">
