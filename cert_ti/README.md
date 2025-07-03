@@ -80,6 +80,7 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Binance - Blockchain Developer with Solidity](../cert_ti/03-conclu/blockchain/(24-09-13)_Cert_Binance-Blockchain...Solidity_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **54 Horas**; Concluído em: **13/09/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/blockchain/boot_027/)}
 - [Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3](../cert_ti/03-conclu/ai/(24-09-08)_Cert_Bootcamp_Nexa...IA_Generativa...Claude_3_PH_DIO.pdf) {Plataforma: **DIO**; Carga Horária: **10 Horas**; Concluído em: **08/09/24**; [Pasta do Projeto](https://github.com/PedroHeeger/boot/tree/main/dio/ai/boot_028)}
 - [Programa Desenvolvimento Profissional para Carreiras em Nuvem (DPCN) - Formação para Arquiteto de Soluções AWS](../cert_ti/03-conclu/cloud/aws/(24-12-17)_Cert_DPCN_EDN.pdf) {Plataforma: **Escola da Nuvem (EDN)**; Carga Horária: **110 Horas**; Concluído em: **13/12/24**}
+- [AWS Developer](../cert_ti/03-conclu/cloud/aws/250602_Cert_AWS_Developer_PH_EDN.pdf) {Plataforma: **Escola da Nuvem (EDN)**; Carga Horária: **155 Horas**; Concluído em: **02/06/25**}
 
 ---
 
@@ -190,6 +191,8 @@ Neste repositório apresento todas as certificações em tecnologia que tirei du
 - [Getting Started with Amazon Simple Storage Service](../cert_ti/04-curso/cloud/aws/(24-10-14)_Getting_Started...Amazon_S3_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **1 Hora**; Concluído em: **14/10/2024**; [Pasta do Projeto](https://github.com/PedroHeeger/course/tree/main/aws_skill_builder/aws/curso_125)}
 - [AWS Partner: Cloud Economics](../cert_ti/04-curso/cloud/aws/250505_AWS_Partner_Cloud_Economics_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **2,5 Horas**; Concluído em: **05/05/2025**; [Pasta do Projeto](https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_001)}
 - [AWS Partner: Accreditation (Technical)](../cert_ti/04-curso/cloud/aws/250529_AWS_Partner_Accreditation_(Technical)_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **5 Horas**; Concluído em: **29/05/2025**; [Pasta do Projeto](https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_002)}
+- [ AWS Partner: Cloud Concepts and AWS](../cert_ti/04-curso/cloud/aws/250626_AWS_Partner...Cloud_Concepts...AWS_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **26/06/2025**; [Pasta do Projeto](https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_004)}
+- [AWS Partner: Cloud Business Value](../cert_ti/04-curso/cloud/aws/250626_AWS_Partner...Cloud_Business_Value_PH_AWSSB.pdf) {Plataforma: **AWS Skill Builder**; Carga Horária: **- Horas**; Concluído em: **26/06/2025**; [Pasta do Projeto](https://github.com/PedroHeeger/aws_skb/tree/main/aws_partner/curso_apn_005)}
 
 <a name="item4.4"><h4>4.4. Data - Excel</h4></a>
 [Back to item 4](#item4)
