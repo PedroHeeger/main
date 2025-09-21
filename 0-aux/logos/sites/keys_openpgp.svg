@@ -1,0 +1,23 @@
+<svg width="161" height="163" viewBox="0 0 161 163" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="79.6786" cy="81.6786" r="15.6786" fill="#4FA5FC" opacity="0.2"/>
+<circle cx="16" cy="17" r="16" fill="#4FA5FC" opacity="0.2"/>
+<circle cx="145" cy="146" r="16" fill="#4FA5FC" opacity="0.2"/>
+<circle cx="144.5" cy="16.5" r="15.5" fill="#4FA5FC" opacity="0.2"/>
+<circle cx="16" cy="81" r="16" fill="#4FA5FC" opacity="0.2"/>
+<circle cx="16" cy="146" r="16" fill="#4FA5FC" opacity="0.2"/>
+<rect width="32" height="162" rx="16" fill="url(#paint0_linear_2403_93)"/>
+<circle cx="79.6786" cy="146.679" r="14.1108" stroke="#4FA5FC" stroke-width="3.13573" opacity="0.2"/>
+<circle cx="79.6786" cy="17.6786" r="14.1108" stroke="#4FA5FC" stroke-width="3.13573" opacity="0.2"/>
+<circle cx="144.679" cy="81.6786" r="14.1108" stroke="#4FA5FC" stroke-width="3.13573" opacity="0.2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M64.0032 81.6796C63.9199 77.4791 65.481 73.2521 68.6863 70.0468L133.047 5.68629C139.295 -0.5621 149.426 -0.562094 155.674 5.68629C161.923 11.9347 161.923 22.0653 155.674 28.3137L102.308 81.6802L155.674 135.047C161.923 141.295 161.923 151.426 155.674 157.674C149.426 163.923 139.295 163.923 133.047 157.674L68.6863 93.3137C65.4806 90.108 63.9196 85.8805 64.0032 81.6796Z" fill="url(#paint1_linear_2403_93)"/>
+<defs>
+<linearGradient id="paint0_linear_2403_93" x1="16" y1="0" x2="16" y2="162" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4FA5FC" stop-opacity="0"/>
+<stop offset="1" stop-color="#4FA5FC"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2403_93" x1="116.873" y1="162.373" x2="116.873" y2="1.37259" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4FA5FC" stop-opacity="0"/>
+<stop offset="1" stop-color="#4FA5FC"/>
+</linearGradient>
+</defs>
+</svg>
